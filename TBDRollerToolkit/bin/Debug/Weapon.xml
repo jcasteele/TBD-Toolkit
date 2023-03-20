@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Armory>
+	<Weapon id="1">
+		<Name type="string">Hatchet</Name>
+		<Type type="Weapon_Type">1</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A small axe with a short handle for use in one hand.</Description>
+	</Weapon>
+	<Weapon id="2">
+		<Name type="string">Hand Scythe (Sickle)</Name>
+		<Type type="Weapon_Type">1</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A short-handled farming tool with a semicircular blade, used for cutting grain, lopping, or trimming.</Description>
+	</Weapon>
+	<Weapon id="3">
+		<Name type="string">Hand Axe</Name>
+		<Type type="Weapon_Type">1</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A short-handled, one-handed axe intended to be used as a melee weapon.</Description>
+	</Weapon>
+	<Weapon id="4">
+		<Name type="string">Throwing Axe</Name>
+		<Type type="Weapon_Type">1</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">An axe that is designed to be used as a close range, throwing weapon or as a melee weapon.</Description>
+	</Weapon>
+	<Weapon id="5">
+		<Name type="string">Felling Axe</Name>
+		<Type type="Weapon_Type">1</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">An axe designed for cutting down trees. It can also be used as an effective melee weapon.</Description>
+	</Weapon>
+	<Weapon id="6">
+		<Name type="string">Large Scythe</Name>
+		<Type type="Weapon_Type">1</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">An agricultural hand tool for mowing grass or reaping crops. It can also be used for reaping souls.</Description>
+	</Weapon>
+	<Weapon id="7">
+		<Name type="string">War Axe</Name>
+		<Type type="Weapon_Type">1</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A superior, versatile axe intended to be used as a melee weapon.</Description>
+	</Weapon>
+	<Weapon id="8">
+		<Name type="string">Great Axe</Name>
+		<Type type="Weapon_Type">1</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A military, two-handed axe intended to be used as a melee weapon.</Description>
+	</Weapon>
+	<Weapon id="9">
+		<Name type="string">Horse Bow</Name>
+		<Type type="Weapon_Type">2</Type>
+		<Cost type="Scale_Level">5</Cost>
+		<Description type="string">A crossbow that employs winches, gears, and cogs to significantly increase the possible damage, accuracy, and range of said bow.</Description>
+	</Weapon>
+	<Weapon id="10">
+		<Name type="string">Horn Bow</Name>
+		<Type type="Weapon_Type">2</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">A bow that has been fashioned from the horns of a dragon.</Description>
+	</Weapon>
+	<Weapon id="11">
+		<Name type="string">Bow</Name>
+		<Type type="Weapon_Type">2</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A weapon that is used to propel an arrow which consists of a strip of flexible material with a cord connecting the two ends and holding the strip bent.</Description>
+	</Weapon>
+	<Weapon id="12">
+		<Name type="string">Long Bow</Name>
+		<Type type="Weapon_Type">2</Type>
+		<Cost type="Scale_Level">5</Cost>
+		<Description type="string">A bow with longer limbs and greater range than a traditional bow.</Description>
+	</Weapon>
+	<Weapon id="13">
+		<Name type="string">Recurve Bow</Name>
+		<Type type="Weapon_Type">2</Type>
+		<Cost type="Scale_Level">5</Cost>
+		<Description type="string">A bow with limbs that curve away from the archer when unstrung.</Description>
+	</Weapon>
+	<Weapon id="14">
+		<Name type="string">Hand Crossbow</Name>
+		<Type type="Weapon_Type">2</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">A simple, one-handed crossbow which is drawn back by hand.</Description>
+	</Weapon>
+	<Weapon id="15">
+		<Name type="string">Light Crossbow</Name>
+		<Type type="Weapon_Type">2</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A simple, light crossbow which is drawn back by pulling a lever.</Description>
+	</Weapon>
+	<Weapon id="16">
+		<Name type="string">Footman's Crossbow</Name>
+		<Type type="Weapon_Type">2</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A crossbow that is commonly used by footmen.</Description>
+	</Weapon>
+	<Weapon id="17">
+		<Name type="string">Heavy Crossbow</Name>
+		<Type type="Weapon_Type">2</Type>
+		<Cost type="Scale_Level">5</Cost>
+		<Description type="string">A simple, heavy crossbow which is drawn back by turning a small winch.</Description>
+	</Weapon>
+	<Weapon id="18">
+		<Name type="string">Ball and Chain</Name>
+		<Type type="Weapon_Type">3</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A gigantic metal sphere that is lined with sparse spikes and attached to a metal chain.</Description>
+	</Weapon>
+	<Weapon id="19">
+		<Name type="string">Horseman's Flail</Name>
+		<Type type="Weapon_Type">3</Type>
+		<Cost type="Scale_Level">5</Cost>
+		<Description type="string">A flail that is commonly used by horsemen.</Description>
+	</Weapon>
+	<Weapon id="20">
+		<Name type="string">Holy Water Sprinkler</Name>
+		<Type type="Weapon_Type">3</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A morning star that resembles the aspergillum used in the Catholic Mass.</Description>
+	</Weapon>
+	<Weapon id="21">
+		<Name type="string">Footman's Flail</Name>
+		<Type type="Weapon_Type">3</Type>
+		<Cost type="Scale_Level">5</Cost>
+		<Description type="string">A flail that is commonly used by footmen.</Description>
+	</Weapon>
+	<Weapon id="22">
+		<Name type="string">Large Holy Water Sprinkler</Name>
+		<Type type="Weapon_Type">3</Type>
+		<Cost type="Scale_Level">5</Cost>
+		<Description type="string">A large morning star that resembles the aspergillum used in the Catholic Mass.</Description>
+	</Weapon>
+	<Weapon id="23">
+		<Name type="string">Double Flail (Nun Chuka)</Name>
+		<Type type="Weapon_Type">3</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A flail consisting of two sticks connected at one end by a short chain or rope.</Description>
+	</Weapon>
+	<Weapon id="24">
+		<Name type="string">Great Flail</Name>
+		<Type type="Weapon_Type">3</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A polearm with a very large striking head attached by a short length of chain.</Description>
+	</Weapon>
+	<Weapon id="25">
+		<Name type="string">Small Hammer</Name>
+		<Type type="Weapon_Type">4</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A small melee weapon intended for close combat action whose design resembles a hammer.</Description>
+	</Weapon>
+	<Weapon id="26">
+		<Name type="string">Horseman's Mace</Name>
+		<Type type="Weapon_Type">4</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A mace that is commonly used by horsemen.</Description>
+	</Weapon>
+	<Weapon id="27">
+		<Name type="string">Morning Star</Name>
+		<Type type="Weapon_Type">4</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A club-like weapon consisting of a shaft with an attached ball adorned with one or more spikes.</Description>
+	</Weapon>
+	<Weapon id="28">
+		<Name type="string">Footman's Mace</Name>
+		<Type type="Weapon_Type">4</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A mace that is commonly used by footmen.</Description>
+	</Weapon>
+	<Weapon id="29">
+		<Name type="string">Spike Hammer</Name>
+		<Type type="Weapon_Type">4</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A spiked melee weapon intended for close combat action whose base design resembles a hammer.</Description>
+	</Weapon>
+	<Weapon id="30">
+		<Name type="string">Maul</Name>
+		<Type type="Weapon_Type">4</Type>
+		<Cost type="Scale_Level">5</Cost>
+		<Description type="string">A military, two-handed hammer which is intended to be used as a melee weapon.</Description>
+	</Weapon>
+	<Weapon id="31">
+		<Name type="string">Spear</Name>
+		<Type type="Weapon_Type">5</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A weapon with a long shaft and a pointed tip used for thrusting or throwing.</Description>
+	</Weapon>
+	<Weapon id="32">
+		<Name type="string">Lance</Name>
+		<Type type="Weapon_Type">5</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A long weapon for thrusting, consisting of a wooden shaft and a pointed metal head, formerly used by a horseman in charging.</Description>
+	</Weapon>
+	<Weapon id="33">
+		<Name type="string">Glaive</Name>
+		<Type type="Weapon_Type">5</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A polearm consisting of a single-edged blade on the end of a pole.</Description>
+	</Weapon>
+	<Weapon id="34">
+		<Name type="string">Halberd</Name>
+		<Type type="Weapon_Type">5</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A spear and battle axe combined into a polearm.</Description>
+	</Weapon>
+	<Weapon id="35">
+		<Name type="string">Bardiche</Name>
+		<Type type="Weapon_Type">5</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A type of glaive that consists of a long, cleaver type blade mounted to a pole.</Description>
+	</Weapon>
+	<Weapon id="36">
+		<Name type="string">Military Hammer</Name>
+		<Type type="Weapon_Type">5</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A military melee weapon intended for close combat action whose design resembles a hammer.</Description>
+	</Weapon>
+	<Weapon id="37">
+		<Name type="string">Hand Sling</Name>
+		<Type type="Weapon_Type">6</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A basic sling that is held in the user's hand and launches blunt objects.</Description>
+	</Weapon>
+	<Weapon id="38">
+		<Name type="string">Staff Sling</Name>
+		<Type type="Weapon_Type">6</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A sling that is attached to the end of a wooden rod, which increases the force of the projectile.</Description>
+	</Weapon>
+	<Weapon id="39">
+		<Name type="string">Light Staff</Name>
+		<Type type="Weapon_Type">7</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A long, lightweight stick used as a weapon.</Description>
+	</Weapon>
+	<Weapon id="40">
+		<Name type="string">Blade Staff</Name>
+		<Type type="Weapon_Type">7</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A Staff with a blade on the end used in melee combat. The other end of the Blade-Staff holds a magic material that acts as an arcane focus.</Description>
+	</Weapon>
+	<Weapon id="41">
+		<Name type="string">Quarter Staff</Name>
+		<Type type="Weapon_Type">7</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A simple, two-handed staff which can be treated as two weapons in a fight.</Description>
+	</Weapon>
+	<Weapon id="42">
+		<Name type="string">Shod Staff</Name>
+		<Type type="Weapon_Type">7</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A sturdy quarter staff reinforced with metal at each end.</Description>
+	</Weapon>
+	<Weapon id="43">
+		<Name type="string">Knife</Name>
+		<Type type="Weapon_Type">8</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">An instrument composed of a blade fixed into a handle, used as a weapon.</Description>
+	</Weapon>
+	<Weapon id="44">
+		<Name type="string">Dagger</Name>
+		<Type type="Weapon_Type">8</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A short knife with a pointed and edged blade, used as a weapon.</Description>
+	</Weapon>
+	<Weapon id="45">
+		<Name type="string">Dagger, Maine-Gauche</Name>
+		<Type type="Weapon_Type">8</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A dagger, held in the left hand in dueling, that is used to parry the sword of an opponent.</Description>
+	</Weapon>
+	<Weapon id="46">
+		<Name type="string">Footman's Sword</Name>
+		<Type type="Weapon_Type">8</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">A sword that is commonly used by footmen.</Description>
+	</Weapon>
+	<Weapon id="47">
+		<Name type="string">Rapier</Name>
+		<Type type="Weapon_Type">8</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A thin, light, sharp-pointed sword used for thrusting.</Description>
+	</Weapon>
+	<Weapon id="48">
+		<Name type="string">Sabre</Name>
+		<Type type="Weapon_Type">8</Type>
+		<Cost type="Scale_Level">5</Cost>
+		<Description type="string">A heavy cavalry sword with a curved blade and a single cutting edge.</Description>
+	</Weapon>
+	<Weapon id="49">
+		<Name type="string">Cutlass</Name>
+		<Type type="Weapon_Type">8</Type>
+		<Cost type="Scale_Level">5</Cost>
+		<Description type="string">A short sword with a slightly curved blade.</Description>
+	</Weapon>
+	<Weapon id="50">
+		<Name type="string">Scimitar</Name>
+		<Type type="Weapon_Type">8</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">A short sword with a curved blade that broadens toward the point.</Description>
+	</Weapon>
+	<Weapon id="51">
+		<Name type="string">Long Sword</Name>
+		<Type type="Weapon_Type">8</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">A long, two-handed sword that has a cruciform hilt and a straight double-edged blade.</Description>
+	</Weapon>
+	<Weapon id="52">
+		<Name type="string">Bastard Sword</Name>
+		<Type type="Weapon_Type">8</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">A sword that is neither a longsword nor a greatsword, but something in between.</Description>
+	</Weapon>
+	<Weapon id="53">
+		<Name type="string">Great Sword</Name>
+		<Type type="Weapon_Type">8</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">A massive, two-handed sword with a broad, double-edged blade, usually intended for slicing rather than stabbing.</Description>
+	</Weapon>
+	<Weapon id="54">
+		<Name type="string">Javelin</Name>
+		<Type type="Weapon_Type">9</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A light spear thrown as a weapon.</Description>
+	</Weapon>
+	<Weapon id="55">
+		<Name type="string">Whip</Name>
+		<Type type="Weapon_Type">9</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A strip of leather or length of cord fastened to a handle, used for flogging or beating a person or for urging on an animal.</Description>
+	</Weapon>
+	<Weapon id="56">
+		<Name type="string">Wire Whip</Name>
+		<Type type="Weapon_Type">9</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A whip that consists of a spool of monofilament wire with a weighted tip.</Description>
+	</Weapon>
+	<Weapon id="57">
+		<Name type="string">Multipart Whip</Name>
+		<Type type="Weapon_Type">9</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A handle with multiple strips of leather or lengths of cord fastened to it.</Description>
+	</Weapon>
+	<Weapon id="58">
+		<Name type="string">Rope</Name>
+		<Type type="Weapon_Type">9</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A length of strong cord made by twisting together strands of either natural or artificial fibers.</Description>
+	</Weapon>
+	<Weapon id="59">
+		<Name type="string">Blow Pipe</Name>
+		<Type type="Weapon_Type">9</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A long tube through which an arrow or dart is propelled by the force of the user's breath.</Description>
+	</Weapon>
+	<Weapon id="60">
+		<Name type="string">Double Sticks</Name>
+		<Type type="Weapon_Type">9</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">Two sticks which can be utilized as two blunt, melee weapons.</Description>
+	</Weapon>
+	<Weapon id="61">
+		<Name type="string">Caltrop</Name>
+		<Type type="Weapon_Type">9</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A spiked metal device thrown on the ground to impede cavalry horses.</Description>
+	</Weapon>
+	<Weapon id="62">
+		<Name type="string">Arrows (20)</Name>
+		<Type type="Weapon_Type">2</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A shaft sharpened at the front and with feathers or vanes at the back, shot from a bow as a weapon. (x20)</Description>
+	</Weapon>
+	<Weapon id="63">
+		<Name type="string">Axe, orc double</Name>
+		<Type type="Weapon_Type">1</Type>
+		<Cost type="Scale_Level">5</Cost>
+		<Description type="string">An axe with a double-edged blade, commonly used by orcs.</Description>
+	</Weapon>
+	<Weapon id="64">
+		<Name type="string">Battle Axe</Name>
+		<Type type="Weapon_Type">1</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A large, broad-bladed axe used in combat.</Description>
+	</Weapon>
+	<Weapon id="65">
+		<Name type="string">Bolas</Name>
+		<Type type="Weapon_Type">9</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A number of balls connected by strong cord which when thrown entangles the limbs of the victim.</Description>
+	</Weapon>
+	<Weapon id="66">
+		<Name type="string">Spiked Chain</Name>
+		<Type type="Weapon_Type">9</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A chain, about 4 feet in length, that is covered in wicked barbs and spikes.</Description>
+	</Weapon>
+	<Weapon id="67">
+		<Name type="string">Crossbow Bolts (10)</Name>
+		<Type type="Weapon_Type">2</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">An arrow used in a crossbow, sometimes called a quarrel. (x10)</Description>
+	</Weapon>
+	<Weapon id="68">
+		<Name type="string">Repeating Crossbow Bolts (5)</Name>
+		<Type type="Weapon_Type">2</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">An arrow used in a repeating crossbow, sometimes called a quarrel. (x5)</Description>
+	</Weapon>
+	<Weapon id="69">
+		<Name type="string">Heavy Repeating Crossbow</Name>
+		<Type type="Weapon_Type">2</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">A massive, lever-activated crossbow that utilizes an integral magazine to rapidly fire missiles at targets. It's less of a crossbow and more of a man-portable siege weapon.</Description>
+	</Weapon>
+	<Weapon id="70">
+		<Name type="string">Light Repeating Crossbow</Name>
+		<Type type="Weapon_Type">2</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">A lever-activated crossbow that utilizes an integral magazine to rapidly shower a foe with missiles.</Description>
+	</Weapon>
+	<Weapon id="71">
+		<Name type="string">Punching Dagger</Name>
+		<Type type="Weapon_Type">8</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A short-bladed dagger with a T-shaped handle designed to be grasped in the hand so that the blade protrudes from the front of one's fist, typically between the index and middle finger.</Description>
+	</Weapon>
+	<Weapon id="72">
+		<Name type="string">Dart</Name>
+		<Type type="Weapon_Type">9</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A small pointed missile that can be thrown or fired.</Description>
+	</Weapon>
+	<Weapon id="73">
+		<Name type="string">Falchion</Name>
+		<Type type="Weapon_Type">8</Type>
+		<Cost type="Scale_Level">5</Cost>
+		<Description type="string">A broad, slightly curved sword with the cutting edge on the convex side.</Description>
+	</Weapon>
+	<Weapon id="74">
+		<Name type="string">Flail</Name>
+		<Type type="Weapon_Type">3</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A threshing tool consisting of a wooden staff with a short heavy stick swinging from it.</Description>
+	</Weapon>
+	<Weapon id="75">
+		<Name type="string">Dire Flail</Name>
+		<Type type="Weapon_Type">3</Type>
+		<Cost type="Scale_Level">5</Cost>
+		<Description type="string">A stout haft with two flails mounted on either end of it, shorter than a quarterstaff.</Description>
+	</Weapon>
+	<Weapon id="76">
+		<Name type="string">Heavy Flail</Name>
+		<Type type="Weapon_Type">3</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A flail that has a larger metal ball and a longer handle than other flails.</Description>
+	</Weapon>
+	<Weapon id="77">
+		<Name type="string">Great Club</Name>
+		<Type type="Weapon_Type">4</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A two-handed club that is bigger and heavier than a regular club.</Description>
+	</Weapon>
+	<Weapon id="78">
+		<Name type="string">Guisarme</Name>
+		<Type type="Weapon_Type">5</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A spear-tipped polearm with a hooked blade.</Description>
+	</Weapon>
+	<Weapon id="79">
+		<Name type="string">Gnome Hooked Hammer</Name>
+		<Type type="Weapon_Type">4</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A double weapon and ingenious tool with a Hammer head at one end of its haft and a long, curved pick at the other.</Description>
+	</Weapon>
+	<Weapon id="80">
+		<Name type="string">Light Hammer</Name>
+		<Type type="Weapon_Type">4</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A lightweight melee weapon intended for close combat action whose design resembles a hammer.</Description>
+	</Weapon>
+	<Weapon id="81">
+		<Name type="string">Heavy Pick</Name>
+		<Type type="Weapon_Type">4</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A larger version of a war pick that is usually used by the dwarves in their underground exploration for both mining and self defense.</Description>
+	</Weapon>
+	<Weapon id="82">
+		<Name type="string">Kama</Name>
+		<Type type="Weapon_Type">1</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A farming tool similar to a sickle, used for reaping crops and as a weapon.</Description>
+	</Weapon>
+	<Weapon id="83">
+		<Name type="string">Kukri</Name>
+		<Type type="Weapon_Type">8</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A knife with an inwardly curved blade, similar to a machete, used as both a tool and as a weapon.</Description>
+	</Weapon>
+	<Weapon id="84">
+		<Name type="string">Composite Longbow</Name>
+		<Type type="Weapon_Type">2</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">A bow made out of multiple, different materials with longer limbs and greater range than a traditional bow.</Description>
+	</Weapon>
+	<Weapon id="85">
+		<Name type="string">Long Spear</Name>
+		<Type type="Weapon_Type">5</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A long, well-polished shaft with a heavy, sharp blade attached at one end.</Description>
+	</Weapon>
+	<Weapon id="86">
+		<Name type="string">Heavy Mace</Name>
+		<Type type="Weapon_Type">4</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A mace that has a larger head and a longer handle than a light mace.</Description>
+	</Weapon>
+	<Weapon id="87">
+		<Name type="string">Light Mace</Name>
+		<Type type="Weapon_Type">4</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A melee weapon that is made up of an ornate metal head attached to a simple wooden or metal shaft.</Description>
+	</Weapon>
+	<Weapon id="88">
+		<Name type="string">Net</Name>
+		<Type type="Weapon_Type">9</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A device made of strands that weave in and out with open spaces in between and is used to hold or catch something.</Description>
+	</Weapon>
+	<Weapon id="89">
+		<Name type="string">Light Pick</Name>
+		<Type type="Weapon_Type">4</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A military, one-handed pick that is designed to concentrate its force on a small, penetrating point for use in war.</Description>
+	</Weapon>
+	<Weapon id="90">
+		<Name type="string">Ranseur</Name>
+		<Type type="Weapon_Type">5</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A polearm with a spear-like head, with a crescent-shaped cross hilt.</Description>
+	</Weapon>
+	<Weapon id="91">
+		<Name type="string">Sai</Name>
+		<Type type="Weapon_Type">8</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A dagger with two sharp prongs curving outward from the hilt, sometimes used in pairs.</Description>
+	</Weapon>
+	<Weapon id="92">
+		<Name type="string">Sap</Name>
+		<Type type="Weapon_Type">4</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A flexible leather truncheon with a lead-filled striking end, sometimes called a blackjack.</Description>
+	</Weapon>
+	<Weapon id="93">
+		<Name type="string">Scythe</Name>
+		<Type type="Weapon_Type">5</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A tool used for cutting crops such as grass or wheat, with a long curved blade at the end of a long pole attached to which are one or two short handles.</Description>
+	</Weapon>
+	<Weapon id="94">
+		<Name type="string">Short Bow</Name>
+		<Type type="Weapon_Type">2</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A bow with shorter limbs and more mobility than a traditional bow.</Description>
+	</Weapon>
+	<Weapon id="95">
+		<Name type="string">Composite Short Bow</Name>
+		<Type type="Weapon_Type">2</Type>
+		<Cost type="Scale_Level">5</Cost>
+		<Description type="string">A bow made out of multiple, different materials with shorter limbs and more mobility than a traditional bow.</Description>
+	</Weapon>
+	<Weapon id="96">
+		<Name type="string">Short Spear</Name>
+		<Type type="Weapon_Type">5</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A short, well-polished shaft with a light, sharp blade attached at one end. It can be wielded in one hand due to its size.</Description>
+	</Weapon>
+	<Weapon id="97">
+		<Name type="string">Shuriken (5)</Name>
+		<Type type="Weapon_Type">9</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A star with projecting blades or points, used as a missile.</Description>
+	</Weapon>
+	<Weapon id="98">
+		<Name type="string">Siangham</Name>
+		<Type type="Weapon_Type">8</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A handheld shaft fitted with a pointed tip resembling a much sturdier arrow with a grip designed for melee combat.</Description>
+	</Weapon>
+	<Weapon id="99">
+		<Name type="string">Sling Bullets (10)</Name>
+		<Type type="Weapon_Type">6</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A blunt bullet that is intended to be launched by a sling-like weapon. They come in a leather pouch that holds 10 bullets.</Description>
+	</Weapon>
+	<Weapon id="100">
+		<Name type="string">Stale Bread</Name>
+		<Type type="Weapon_Type">9</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">It's probably still edible, but why eat it when you can use it as a melee weapon?</Description>
+	</Weapon>
+	<Weapon id="101">
+		<Name type="string">Stale Flower</Name>
+		<Type type="Weapon_Type">9</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">It has certainly seen better days, but maybe, it can have a second life as a melee weapon.</Description>
+	</Weapon>
+	<Weapon id="102">
+		<Name type="string">Short Sword</Name>
+		<Type type="Weapon_Type">8</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A smaller version of the longsword but longer than a dagger or dirk, having many of the same parts including a generally double-edged blade, cross-guard, grip, and pommel.</Description>
+	</Weapon>
+	<Weapon id="103">
+		<Name type="string">Two-Bladed Sword</Name>
+		<Type type="Weapon_Type">8</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">A polearm with a wooden haft with a broad 18-inch blade at each tip.</Description>
+	</Weapon>
+	<Weapon id="104">
+		<Name type="string">Trident</Name>
+		<Type type="Weapon_Type">5</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A three-pronged spear.</Description>
+	</Weapon>
+	<Weapon id="105">
+		<Name type="string">Dwarven Urgosh</Name>
+		<Type type="Weapon_Type">1</Type>
+		<Cost type="Scale_Level">5</Cost>
+		<Description type="string">A double weapon that consists of an axe head and a spear point on opposite ends of a long haft.</Description>
+	</Weapon>
+	<Weapon id="106">
+		<Name type="string">Dwarven War Axe</Name>
+		<Type type="Weapon_Type">1</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A large, two-handed axe that consists of a large, ornate head mounted to a thick handle.</Description>
+	</Weapon>
+	<Weapon id="107">
+		<Name type="string">War Hammer</Name>
+		<Type type="Weapon_Type">4</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A large, heavy sledge hammer that was originally adapted from the tools of laborers and craftsmen but is no longer suitable for anything but combat.</Description>
+	</Weapon>
+</Armory>

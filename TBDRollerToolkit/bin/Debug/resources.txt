@@ -1,0 +1,15 @@
+Name: Half-Plate Armor (Small)
+Type: Half-plate
+Cost: 7
+Description: Small-sized half-plate body armor.
+
+Name: Shield, Heavy wooden (Small)
+Type: Shield, heavy, wooden
+Cost: 3
+Description: Small-sized heavy wooden shield.
+
+Name: Full Plate Armor (Small)
+Type: Full plate
+Cost: 8
+Description: Small-sized full plate body armor.
+

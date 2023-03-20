@@ -1,0 +1,892 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<All_Professions>
+	<Profession id="1">
+		<Name type="string">Actor</Name>
+		<Description type="string">A person whose profession is acting on the stage.</Description>
+	</Profession>
+	<Profession id="2">
+		<Name type="string">Advocate</Name>
+		<Description type="string">A lawyer in a court of law.</Description>
+	</Profession>
+	<Profession id="3">
+		<Name type="string">Alchemist</Name>
+		<Description type="string">A person who practices alchemy.</Description>
+	</Profession>
+	<Profession id="4">
+		<Name type="string">Animal Handler</Name>
+		<Description type="string">A person in immediate physical charge of an animal.</Description>
+	</Profession>
+	<Profession id="5">
+		<Name type="string">Apothecary</Name>
+		<Description type="string">A person who prepares alchemical items, brews potions, serves as a healer, and occasionally dabbles in poisons on the side if they're into that sort of thing.</Description>
+	</Profession>
+	<Profession id="6">
+		<Name type="string">Architect</Name>
+		<Description type="string">A person who designs buildings and in many cases also supervises their construction.</Description>
+	</Profession>
+	<Profession id="7">
+		<Name type="string">Archer</Name>
+		<Description type="string">A person who shoots with a bow and arrows.</Description>
+	</Profession>
+	<Profession id="8">
+		<Name type="string">Aristocrat</Name>
+		<Description type="string">A person whose family has a high social rank, especially someone who has a title.</Description>
+	</Profession>
+	<Profession id="9">
+		<Name type="string">Armorer</Name>
+		<Description type="string">A maker, supplier, or repairer of weapons or armor.</Description>
+	</Profession>
+	<Profession id="10">
+		<Name type="string">Artisan</Name>
+		<Description type="string">A worker in a skilled trade.</Description>
+	</Profession>
+	<Profession id="11">
+		<Name type="string">Artist</Name>
+		<Description type="string">A person who practices any of the various creative arts.</Description>
+	</Profession>
+	<Profession id="12">
+		<Name type="string">Astrologer</Name>
+		<Description type="string">A person who uses astrology to tell others about their character or to predict their future.</Description>
+	</Profession>
+	<Profession id="13">
+		<Name type="string">Baker</Name>
+		<Description type="string">A person who makes bread and cakes.</Description>
+	</Profession>
+	<Profession id="14">
+		<Name type="string">Banker</Name>
+		<Description type="string">An officer or owner of a bank or group of banks.</Description>
+	</Profession>
+	<Profession id="15">
+		<Name type="string">Barbarian</Name>
+		<Description type="string">An archetypal warrior who uses brute strength and raw fury to excel in combat.</Description>
+	</Profession>
+	<Profession id="16">
+		<Name type="string">Barber</Name>
+		<Description type="string">A person who cuts hair and shaves or trims beards.</Description>
+	</Profession>
+	<Profession id="17">
+		<Name type="string">Bard</Name>
+		<Description type="string">A poet, traditionally one reciting epics and associated with a particular oral tradition.</Description>
+	</Profession>
+	<Profession id="18">
+		<Name type="string">Barkeep</Name>
+		<Description type="string">A person who owns and/or serves drinks in a bar.</Description>
+	</Profession>
+	<Profession id="19">
+		<Name type="string">Barmaid</Name>
+		<Description type="string">A waitress who serves drinks in a bar.</Description>
+	</Profession>
+	<Profession id="20">
+		<Name type="string">Beekeeper</Name>
+		<Description type="string">A person who keeps honey bees.</Description>
+	</Profession>
+	<Profession id="21">
+		<Name type="string">Beer Seller</Name>
+		<Description type="string">A person who specializes in the sale and distribution of beer.</Description>
+	</Profession>
+	<Profession id="22">
+		<Name type="string">Beggar</Name>
+		<Description type="string">A person, typically a homeless one, who lives by asking for money or food.</Description>
+	</Profession>
+	<Profession id="23">
+		<Name type="string">Blacksmith</Name>
+		<Description type="string">A metalsmith who creates objects from wrought iron or steel by forging the metal, using tools to hammer, bend, and cut.</Description>
+	</Profession>
+	<Profession id="24">
+		<Name type="string">Boatman</Name>
+		<Description type="string">A person who rents out or works on boats.</Description>
+	</Profession>
+	<Profession id="25">
+		<Name type="string">Boatswain</Name>
+		<Description type="string">A ship's officer in charge of equipment and the crew.</Description>
+	</Profession>
+	<Profession id="26">
+		<Name type="string">Bookbinder</Name>
+		<Description type="string">A person who binds books.</Description>
+	</Profession>
+	<Profession id="27">
+		<Name type="string">Bookseller</Name>
+		<Description type="string">A person who sells books, especially as the owner or manager of a bookstore.</Description>
+	</Profession>
+	<Profession id="28">
+		<Name type="string">Bowman</Name>
+		<Description type="string">A person who shoots with a bow and arrows.</Description>
+	</Profession>
+	<Profession id="29">
+		<Name type="string">Bowyer</Name>
+		<Description type="string">A person who makes or sells archers' bows.</Description>
+	</Profession>
+	<Profession id="30">
+		<Name type="string">Brewer</Name>
+		<Description type="string">A person that manufactures beer.</Description>
+	</Profession>
+	<Profession id="31">
+		<Name type="string">Brothel Keeper</Name>
+		<Description type="string">A person who runs a brothel.</Description>
+	</Profession>
+	<Profession id="32">
+		<Name type="string">Buckle Maker</Name>
+		<Description type="string">A person who manufactures buckles.</Description>
+	</Profession>
+	<Profession id="33">
+		<Name type="string">Builder</Name>
+		<Description type="string">A person who constructs something by putting parts or material together over a period of time.</Description>
+	</Profession>
+	<Profession id="34">
+		<Name type="string">Butcher</Name>
+		<Description type="string">A person whose trade is cutting up and selling meat in a shop.</Description>
+	</Profession>
+	<Profession id="35">
+		<Name type="string">Caravan Leader</Name>
+		<Description type="string">A person who is the leader of a caravan.</Description>
+	</Profession>
+	<Profession id="36">
+		<Name type="string">Carpenter</Name>
+		<Description type="string">A person who makes and repairs wooden objects and structures.</Description>
+	</Profession>
+	<Profession id="37">
+		<Name type="string">Cartographer</Name>
+		<Description type="string">A person who draws or produces maps.</Description>
+	</Profession>
+	<Profession id="38">
+		<Name type="string">Chandler</Name>
+		<Description type="string">A dealer in supplies and equipment for ships and boats.</Description>
+	</Profession>
+	<Profession id="39">
+		<Name type="string">Charioteer</Name>
+		<Description type="string">A chariot driver.</Description>
+	</Profession>
+	<Profession id="40">
+		<Name type="string">Chatelaine</Name>
+		<Description type="string">A woman in charge of a large house.</Description>
+	</Profession>
+	<Profession id="41">
+		<Name type="string">Chef</Name>
+		<Description type="string">A professional cook, typically the chief cook in an establishment.</Description>
+	</Profession>
+	<Profession id="42">
+		<Name type="string">Chieftain</Name>
+		<Description type="string">A person who is the leader of a people or clan.</Description>
+	</Profession>
+	<Profession id="43">
+		<Name type="string">Chirurgeon</Name>
+		<Description type="string">An alchemist who studies anatomy and uses this knowledge to heal.</Description>
+	</Profession>
+	<Profession id="44">
+		<Name type="string">Clergyman</Name>
+		<Description type="string">A priest, minister, or religious leader</Description>
+	</Profession>
+	<Profession id="45">
+		<Name type="string">Clerk</Name>
+		<Description type="string">A person employed in an office or bank to keep records and accounts and to undertake other routine administrative duties.</Description>
+	</Profession>
+	<Profession id="46">
+		<Name type="string">Clock Maker</Name>
+		<Description type="string">A person who makes and repairs clocks and watches.</Description>
+	</Profession>
+	<Profession id="47">
+		<Name type="string">Cloth Worker</Name>
+		<Description type="string">A textile worker or manufacturer.</Description>
+	</Profession>
+	<Profession id="48">
+		<Name type="string">Commander</Name>
+		<Description type="string">A person in authority, especially over a body of troops or a military operation.</Description>
+	</Profession>
+	<Profession id="49">
+		<Name type="string">Concubine</Name>
+		<Description type="string">A person, in particular a woman, who engages in sexual activity for payment.</Description>
+	</Profession>
+	<Profession id="50">
+		<Name type="string">Cook</Name>
+		<Description type="string">A person who prepares and cooks food.</Description>
+	</Profession>
+	<Profession id="51">
+		<Name type="string">Cooper</Name>
+		<Description type="string">A maker or repairer of casks and barrels.</Description>
+	</Profession>
+	<Profession id="52">
+		<Name type="string">Copyist</Name>
+		<Description type="string">A person who makes copies, especially of handwritten documents or music.</Description>
+	</Profession>
+	<Profession id="53">
+		<Name type="string">Counselor</Name>
+		<Description type="string">A person trained to give guidance on personal, social, or psychological problems.</Description>
+	</Profession>
+	<Profession id="54">
+		<Name type="string">Courtesan</Name>
+		<Description type="string">A concubine, especially one with wealthy or upper-class clients.</Description>
+	</Profession>
+	<Profession id="55">
+		<Name type="string">Courtier</Name>
+		<Description type="string">A person who attends a royal court as a companion or adviser to the king or queen.</Description>
+	</Profession>
+	<Profession id="56">
+		<Name type="string">Cowherd</Name>
+		<Description type="string">A person who tends grazing cattle.</Description>
+	</Profession>
+	<Profession id="57">
+		<Name type="string">Crossbowman</Name>
+		<Description type="string">A person who shoots with a crossbow and bolts.</Description>
+	</Profession>
+	<Profession id="58">
+		<Name type="string">Cutler</Name>
+		<Description type="string">A person who makes or sells cutlery.</Description>
+	</Profession>
+	<Profession id="59">
+		<Name type="string">Daimyo</Name>
+		<Description type="string">A person who is a high-ranked, powerful lord.</Description>
+	</Profession>
+	<Profession id="60">
+		<Name type="string">Dairymaid</Name>
+		<Description type="string">A woman employed in a dairy.</Description>
+	</Profession>
+	<Profession id="61">
+		<Name type="string">Diplomat</Name>
+		<Description type="string">An official representing a country abroad.</Description>
+	</Profession>
+	<Profession id="62">
+		<Name type="string">Distiller</Name>
+		<Description type="string">A person that manufactures liquor.</Description>
+	</Profession>
+	<Profession id="63">
+		<Name type="string">Diver</Name>
+		<Description type="string">A person who works under water.</Description>
+	</Profession>
+	<Profession id="64">
+		<Name type="string">Diviner</Name>
+		<Description type="string">A type of mage who specialized in divination magics.</Description>
+	</Profession>
+	<Profession id="65">
+		<Name type="string">Domestic Servant</Name>
+		<Description type="string">A person who works within the employer's household.</Description>
+	</Profession>
+	<Profession id="66">
+		<Name type="string">Emperor/Empress</Name>
+		<Description type="string">A sovereign ruler of great power and rank, especially one ruling an empire.</Description>
+	</Profession>
+	<Profession id="67">
+		<Name type="string">Eunuch</Name>
+		<Description type="string">A man who has been castrated.</Description>
+	</Profession>
+	<Profession id="68">
+		<Name type="string">Explorer</Name>
+		<Description type="string">A person who explores an unfamiliar area</Description>
+	</Profession>
+	<Profession id="69">
+		<Name type="string">Farmer</Name>
+		<Description type="string">A person who owns or manages a farm.</Description>
+	</Profession>
+	<Profession id="70">
+		<Name type="string">Fighter</Name>
+		<Description type="string">A person that fights as a boxer.</Description>
+	</Profession>
+	<Profession id="71">
+		<Name type="string">Fisherman</Name>
+		<Description type="string">A person who catches fish.</Description>
+	</Profession>
+	<Profession id="72">
+		<Name type="string">Fishmonger</Name>
+		<Description type="string">A person that sells fish for food.</Description>
+	</Profession>
+	<Profession id="73">
+		<Name type="string">Fletcher</Name>
+		<Description type="string">A person who makes and sells arrows.</Description>
+	</Profession>
+	<Profession id="74">
+		<Name type="string">Footman</Name>
+		<Description type="string">A soldier in the infantry.</Description>
+	</Profession>
+	<Profession id="75">
+		<Name type="string">Forester</Name>
+		<Description type="string">A person in charge of a forest or skilled in planting, managing, or caring for trees.</Description>
+	</Profession>
+	<Profession id="76">
+		<Name type="string">Freighter</Name>
+		<Description type="string">A ship designed to carry goods in bulk.</Description>
+	</Profession>
+	<Profession id="77">
+		<Name type="string">Furrier</Name>
+		<Description type="string">A person who prepares or deals in furs.</Description>
+	</Profession>
+	<Profession id="78">
+		<Name type="string">Galley Slave</Name>
+		<Description type="string">A person condemned to row in a galley.</Description>
+	</Profession>
+	<Profession id="79">
+		<Name type="string">Gambler</Name>
+		<Description type="string">A person who gambles.</Description>
+	</Profession>
+	<Profession id="80">
+		<Name type="string">Gardener</Name>
+		<Description type="string">A person who tends and cultivates a garden.</Description>
+	</Profession>
+	<Profession id="81">
+		<Name type="string">Geisha</Name>
+		<Description type="string">A hostess trained to entertain men with conversation, dance, and song.</Description>
+	</Profession>
+	<Profession id="82">
+		<Name type="string">Gladiator</Name>
+		<Description type="string">A person trained to fight with weapons against other gladiators or wild animals in an arena.</Description>
+	</Profession>
+	<Profession id="83">
+		<Name type="string">Glove Maker</Name>
+		<Description type="string">A person who makes gloves.</Description>
+	</Profession>
+	<Profession id="84">
+		<Name type="string">Groom</Name>
+		<Description type="string">A person employed to take care of horses.</Description>
+	</Profession>
+	<Profession id="85">
+		<Name type="string">Guild Master</Name>
+		<Description type="string">A member of a guild.</Description>
+	</Profession>
+	<Profession id="86">
+		<Name type="string">Harness Maker</Name>
+		<Description type="string">A maker of harnesses and similar equipment for horses.</Description>
+	</Profession>
+	<Profession id="87">
+		<Name type="string">Hat Maker</Name>
+		<Description type="string">A person who makes hats.</Description>
+	</Profession>
+	<Profession id="88">
+		<Name type="string">Hay Merchant</Name>
+		<Description type="string">A person who specializes in the sale and distribution of Hay.</Description>
+	</Profession>
+	<Profession id="89">
+		<Name type="string">Healer</Name>
+		<Description type="string">A person who claims to be able to cure a disease or injury using special powers.</Description>
+	</Profession>
+	<Profession id="90">
+		<Name type="string">Hearthwitch</Name>
+		<Description type="string">A witch who works around a fireplace.</Description>
+	</Profession>
+	<Profession id="91">
+		<Name type="string">Herald</Name>
+		<Description type="string">An official messenger bringing news.</Description>
+	</Profession>
+	<Profession id="92">
+		<Name type="string">Herbalist</Name>
+		<Description type="string">A person who makes and sells medicinal herbs.</Description>
+	</Profession>
+	<Profession id="93">
+		<Name type="string">Herder</Name>
+		<Description type="string">A person who looks after a herd of livestock or makes a living from keeping livestock, especially in open country.</Description>
+	</Profession>
+	<Profession id="94">
+		<Name type="string">Hermit</Name>
+		<Description type="string">A person living in solitude as a religious discipline.</Description>
+	</Profession>
+	<Profession id="95">
+		<Name type="string">Highwayman</Name>
+		<Description type="string">Any person living in solitude or seeking to do so.</Description>
+	</Profession>
+	<Profession id="96">
+		<Name type="string">Hunter</Name>
+		<Description type="string">A person that hunts.</Description>
+	</Profession>
+	<Profession id="97">
+		<Name type="string">Illuminator</Name>
+		<Description type="string">A person who paints manuscripts, books, etc., with designs in color, gold, or the like.</Description>
+	</Profession>
+	<Profession id="98">
+		<Name type="string">Innkeeper</Name>
+		<Description type="string">A person who runs an inn.</Description>
+	</Profession>
+	<Profession id="99">
+		<Name type="string">Interpreter</Name>
+		<Description type="string">A person who interprets, especially one who translates speech orally.</Description>
+	</Profession>
+	<Profession id="100">
+		<Name type="string">Inventor</Name>
+		<Description type="string">A person who invented a particular process or device or who invents things.</Description>
+	</Profession>
+	<Profession id="101">
+		<Name type="string">Jailer</Name>
+		<Description type="string">A person in charge of a jail or of the prisoners in it.</Description>
+	</Profession>
+	<Profession id="102">
+		<Name type="string">Jester</Name>
+		<Description type="string">A professional joker or “fool” at a court, typically wearing a cap with bells on it and carrying a mock scepter.</Description>
+	</Profession>
+	<Profession id="103">
+		<Name type="string">Jeweler</Name>
+		<Description type="string">A person that makes or sells jewels or jewelry.</Description>
+	</Profession>
+	<Profession id="104">
+		<Name type="string">Jongleur</Name>
+		<Description type="string">A person who is an itinerant minstrel.</Description>
+	</Profession>
+	<Profession id="105">
+		<Name type="string">Judge</Name>
+		<Description type="string">A public official appointed to decide cases in a court of law.</Description>
+	</Profession>
+	<Profession id="106">
+		<Name type="string">King</Name>
+		<Description type="string">A male ruler of an independent state, especially one who inherits the position by right of birth.</Description>
+	</Profession>
+	<Profession id="107">
+		<Name type="string">Knight</Name>
+		<Description type="string">A warrior who pledges service to rulers, religious orders, and noble causes.</Description>
+	</Profession>
+	<Profession id="108">
+		<Name type="string">Laborer</Name>
+		<Description type="string">A person doing unskilled manual work for wages.</Description>
+	</Profession>
+	<Profession id="109">
+		<Name type="string">Lady</Name>
+		<Description type="string">A woman of superior social position, especially one of noble birth.</Description>
+	</Profession>
+	<Profession id="110">
+		<Name type="string">Lady in Waiting</Name>
+		<Description type="string">A woman who attends a queen or princess.</Description>
+	</Profession>
+	<Profession id="111">
+		<Name type="string">Leather Worker</Name>
+		<Description type="string">A person who works in leather</Description>
+	</Profession>
+	<Profession id="112">
+		<Name type="string">Limner</Name>
+		<Description type="string">A painter, especially of portraits or miniatures.</Description>
+	</Profession>
+	<Profession id="113">
+		<Name type="string">Locksmith</Name>
+		<Description type="string">A person who makes and repairs locks.</Description>
+	</Profession>
+	<Profession id="114">
+		<Name type="string">Lord</Name>
+		<Description type="string">a superior, especially the proprietor of a manor house.</Description>
+	</Profession>
+	<Profession id="115">
+		<Name type="string">Maidservant</Name>
+		<Description type="string">A female domestic servant.</Description>
+	</Profession>
+	<Profession id="116">
+		<Name type="string">Majordomo</Name>
+		<Description type="string">A person who serves as the chief steward of a large household.</Description>
+	</Profession>
+	<Profession id="117">
+		<Name type="string">Man at Arms</Name>
+		<Description type="string">A soldier, especially one heavily armed.</Description>
+	</Profession>
+	<Profession id="118">
+		<Name type="string">Mason</Name>
+		<Description type="string">A builder and worker in stone.</Description>
+	</Profession>
+	<Profession id="119">
+		<Name type="string">Masseur</Name>
+		<Description type="string">A person, especially a man, who provides massages professionally.</Description>
+	</Profession>
+	<Profession id="120">
+		<Name type="string">Mercer</Name>
+		<Description type="string">A dealer in textile fabrics, especially silks, velvets, and other fine materials.</Description>
+	</Profession>
+	<Profession id="121">
+		<Name type="string">Merchant</Name>
+		<Description type="string">A person involved in wholesale trade, especially one dealing with foreign countries or supplying merchandise to a particular trade.</Description>
+	</Profession>
+	<Profession id="122">
+		<Name type="string">Messenger</Name>
+		<Description type="string">A person who carries a message or is employed to carry messages.</Description>
+	</Profession>
+	<Profession id="123">
+		<Name type="string">Midwife</Name>
+		<Description type="string">A person, typically a woman, trained to assist women in childbirth.</Description>
+	</Profession>
+	<Profession id="124">
+		<Name type="string">Miller</Name>
+		<Description type="string">A person who owns or works in a grain mill.</Description>
+	</Profession>
+	<Profession id="125">
+		<Name type="string">Miner</Name>
+		<Description type="string">A person who works in a mine.</Description>
+	</Profession>
+	<Profession id="126">
+		<Name type="string">Minstrel</Name>
+		<Description type="string">A medieval singer or musician, especially one who sang or recited lyric or heroic poetry to a musical accompaniment for the nobility.</Description>
+	</Profession>
+	<Profession id="127">
+		<Name type="string">Monk</Name>
+		<Description type="string">A member of a religious community of men typically living under vows of poverty, chastity, and obedience.</Description>
+	</Profession>
+	<Profession id="128">
+		<Name type="string">Mortician</Name>
+		<Description type="string">A person whose business is preparing dead bodies for burial or cremation and making arrangements for funerals.</Description>
+	</Profession>
+	<Profession id="129">
+		<Name type="string">Mourner</Name>
+		<Description type="string">A person who attends a funeral as a relative or friend of the dead person.</Description>
+	</Profession>
+	<Profession id="130">
+		<Name type="string">Navigator</Name>
+		<Description type="string">A person who directs the route or course of a ship or other form of transportation, especially by using instruments and maps.</Description>
+	</Profession>
+	<Profession id="131">
+		<Name type="string">Necromancer</Name>
+		<Description type="string">A person who practices necromancy.</Description>
+	</Profession>
+	<Profession id="132">
+		<Name type="string">Noble</Name>
+		<Description type="string">A person of noble rank or birth.</Description>
+	</Profession>
+	<Profession id="133">
+		<Name type="string">Nun</Name>
+		<Description type="string">A member of a religious community of women, especially a cloistered one, living under vows of poverty, chastity, and obedience.</Description>
+	</Profession>
+	<Profession id="134">
+		<Name type="string">Nurse</Name>
+		<Description type="string">A person trained to care for the sick or infirm, especially in a hospital.</Description>
+	</Profession>
+	<Profession id="135">
+		<Name type="string">Page</Name>
+		<Description type="string">A youth being trained for the rank of knight and in the personal service of a knight.</Description>
+	</Profession>
+	<Profession id="136">
+		<Name type="string">Painter</Name>
+		<Description type="string">An artist who paints pictures.</Description>
+	</Profession>
+	<Profession id="137">
+		<Name type="string">Pariah</Name>
+		<Description type="string">An outcast.</Description>
+	</Profession>
+	<Profession id="138">
+		<Name type="string">Pastry Cook</Name>
+		<Description type="string">A professional cook who specializes in making desserts, especially cakes and pastries.</Description>
+	</Profession>
+	<Profession id="139">
+		<Name type="string">Peasant</Name>
+		<Description type="string">A poor farmer of low social status who owns or rents a small piece of land for cultivation.</Description>
+	</Profession>
+	<Profession id="140">
+		<Name type="string">Perfumer</Name>
+		<Description type="string">A producer or seller of perfumes.</Description>
+	</Profession>
+	<Profession id="141">
+		<Name type="string">Philosopher</Name>
+		<Description type="string">A person engaged or learned in philosophy, especially as an academic discipline.</Description>
+	</Profession>
+	<Profession id="142">
+		<Name type="string">Physician</Name>
+		<Description type="string">A person who specializes in healing.</Description>
+	</Profession>
+	<Profession id="143">
+		<Name type="string">Pigkeeper</Name>
+		<Description type="string">A person who keeps pigs.</Description>
+	</Profession>
+	<Profession id="144">
+		<Name type="string">Pilgrim</Name>
+		<Description type="string">A person who journeys to a sacred place for religious reasons.</Description>
+	</Profession>
+	<Profession id="145">
+		<Name type="string">Plasterer</Name>
+		<Description type="string">A person whose job it is to apply plaster to walls, ceilings, or other surfaces.</Description>
+	</Profession>
+	<Profession id="146">
+		<Name type="string">Potter</Name>
+		<Description type="string">A person who makes pottery.</Description>
+	</Profession>
+	<Profession id="147">
+		<Name type="string">Priest/ess</Name>
+		<Description type="string">An ordained minister that brings the teachings of their gods to the common folk.</Description>
+	</Profession>
+	<Profession id="148">
+		<Name type="string">Prince/ss</Name>
+		<Description type="string">A child of a monarch and sometimes the royal ruler of a small state.</Description>
+	</Profession>
+	<Profession id="149">
+		<Name type="string">Professor</Name>
+		<Description type="string">A teacher of the highest rank in a college or university.</Description>
+	</Profession>
+	<Profession id="150">
+		<Name type="string">Purse Maker</Name>
+		<Description type="string">A person who makes handbags and/or satchels.</Description>
+	</Profession>
+	<Profession id="151">
+		<Name type="string">Quartermaster</Name>
+		<Description type="string">A military officer responsible for providing quarters, rations, clothing, and other supplies.</Description>
+	</Profession>
+	<Profession id="152">
+		<Name type="string">Queen</Name>
+		<Description type="string">A female ruler of an independent state, especially one who inherits the position by right of birth.</Description>
+	</Profession>
+	<Profession id="153">
+		<Name type="string">Ranger</Name>
+		<Description type="string">A keeper of a park, forest, or area of countryside.</Description>
+	</Profession>
+	<Profession id="154">
+		<Name type="string">Ratcatcher</Name>
+		<Description type="string">A person or animal employed in exterminating rats.</Description>
+	</Profession>
+	<Profession id="155">
+		<Name type="string">Rigger</Name>
+		<Description type="string">A person who rigs or attends to the rigging of a sailing ship.</Description>
+	</Profession>
+	<Profession id="156">
+		<Name type="string">Ronin</Name>
+		<Description type="string">A wandering samurai who had no lord or master.</Description>
+	</Profession>
+	<Profession id="157">
+		<Name type="string">Roofer</Name>
+		<Description type="string">A person who constructs or repairs roofs.</Description>
+	</Profession>
+	<Profession id="158">
+		<Name type="string">Rope Maker</Name>
+		<Description type="string">A craftsman who makes ropes.</Description>
+	</Profession>
+	<Profession id="159">
+		<Name type="string">Royal Adviser</Name>
+		<Description type="string">A person who serves as an advisor to a royal family.</Description>
+	</Profession>
+	<Profession id="160">
+		<Name type="string">Rug Maker</Name>
+		<Description type="string">A craftsman who makes rugs.</Description>
+	</Profession>
+	<Profession id="161">
+		<Name type="string">Ruler</Name>
+		<Description type="string">A person exercising government or dominion.</Description>
+	</Profession>
+	<Profession id="162">
+		<Name type="string">Sailor</Name>
+		<Description type="string">A person whose job it is to work as a member of the crew of a commercial or naval ship or boat, especially one who is below the rank of officer.</Description>
+	</Profession>
+	<Profession id="163">
+		<Name type="string">Samurai</Name>
+		<Description type="string">A member of a powerful military caste, especially a member of the class of military retainers of the daimyos.</Description>
+	</Profession>
+	<Profession id="164">
+		<Name type="string">Scabbard Maker</Name>
+		<Description type="string">A craftsman who makes sheaths for holding a sword, knife, or other large blade.</Description>
+	</Profession>
+	<Profession id="165">
+		<Name type="string">Scribe</Name>
+		<Description type="string">A person who copies out documents, especially one employed to do this before printing was invented.</Description>
+	</Profession>
+	<Profession id="166">
+		<Name type="string">Sculptor</Name>
+		<Description type="string">An artist who makes sculptures.</Description>
+	</Profession>
+	<Profession id="167">
+		<Name type="string">Saddler</Name>
+		<Description type="string">A person who makes, repairs, or deals in saddlery.</Description>
+	</Profession>
+	<Profession id="168">
+		<Name type="string">Scavenger</Name>
+		<Description type="string">A person who searches for and collects discarded items.</Description>
+	</Profession>
+	<Profession id="169">
+		<Name type="string">Scholar</Name>
+		<Description type="string">A specialist in a particular branch of study, especially the humanities.</Description>
+	</Profession>
+	<Profession id="170">
+		<Name type="string">Scrivener</Name>
+		<Description type="string">A clerk, scribe, or notary.</Description>
+	</Profession>
+	<Profession id="171">
+		<Name type="string">Servant</Name>
+		<Description type="string">A person who performs duties for others, especially a person employed in a house on domestic duties or as a personal attendant.</Description>
+	</Profession>
+	<Profession id="172">
+		<Name type="string">Shaman</Name>
+		<Description type="string">A person regarded as having access to, and influence in, the world of good and evil spirits. Typically such people enter a trance state during a ritual, and practice divination and healing.</Description>
+	</Profession>
+	<Profession id="173">
+		<Name type="string">Shepherd</Name>
+		<Description type="string">A person who tends and rears sheep.</Description>
+	</Profession>
+	<Profession id="174">
+		<Name type="string">Ship’s Captain</Name>
+		<Description type="string">A high-ranking mariner in ultimate command of a merchant vessel.</Description>
+	</Profession>
+	<Profession id="175">
+		<Name type="string">Ship’s Mate</Name>
+		<Description type="string">A member and head of the deck department of a merchant ship.</Description>
+	</Profession>
+	<Profession id="176">
+		<Name type="string">Shipwright</Name>
+		<Description type="string">A person or company whose job or business is the design and construction of ships.</Description>
+	</Profession>
+	<Profession id="177">
+		<Name type="string">Shoemaker</Name>
+		<Description type="string">A person who makes shoes and other footwear.</Description>
+	</Profession>
+	<Profession id="178">
+		<Name type="string">Silversmith</Name>
+		<Description type="string">A person who makes silver articles.</Description>
+	</Profession>
+	<Profession id="179">
+		<Name type="string">Slave</Name>
+		<Description type="string">A person who is the legal property of another and is forced to obey them.</Description>
+	</Profession>
+	<Profession id="180">
+		<Name type="string">Slaver</Name>
+		<Description type="string">A person dealing in or owning slaves.</Description>
+	</Profession>
+	<Profession id="181">
+		<Name type="string">Smith</Name>
+		<Description type="string">A person who works in metal.</Description>
+	</Profession>
+	<Profession id="182">
+		<Name type="string">Soldier</Name>
+		<Description type="string">A person who serves in an army.</Description>
+	</Profession>
+	<Profession id="183">
+		<Name type="string">Sorcerer/Sorceress</Name>
+		<Description type="string">A person who has magic powers.</Description>
+	</Profession>
+	<Profession id="184">
+		<Name type="string">Spice Merchant</Name>
+		<Description type="string">A person involved in the spice trade.</Description>
+	</Profession>
+	<Profession id="185">
+		<Name type="string">Squire</Name>
+		<Description type="string">A person of high social standing who owns and lives on an estate in a rural area, especially the chief landowner in such an area.</Description>
+	</Profession>
+	<Profession id="186">
+		<Name type="string">Stable Hand</Name>
+		<Description type="string">A person who is responsible for some or all aspects of the management of horses and/or the care of the stables themselves.</Description>
+	</Profession>
+	<Profession id="187">
+		<Name type="string">Storyteller</Name>
+		<Description type="string">A person who tells stories.</Description>
+	</Profession>
+	<Profession id="188">
+		<Name type="string">Steward</Name>
+		<Description type="string">A person who looks after the passengers on a ship and brings them meals.</Description>
+	</Profession>
+	<Profession id="189">
+		<Name type="string">Street Kid</Name>
+		<Description type="string">A youth who is homeless and lives on the streets.</Description>
+	</Profession>
+	<Profession id="190">
+		<Name type="string">Surveyor</Name>
+		<Description type="string">A person who surveys, especially one whose profession is the surveying of land.</Description>
+	</Profession>
+	<Profession id="191">
+		<Name type="string">Swineherd</Name>
+		<Description type="string">A person who tends pigs.</Description>
+	</Profession>
+	<Profession id="192">
+		<Name type="string">Swordsman</Name>
+		<Description type="string">A person who fights with a sword (typically with his level of skill specified).</Description>
+	</Profession>
+	<Profession id="193">
+		<Name type="string">Sycophant</Name>
+		<Description type="string">A person who acts obsequiously toward someone important in order to gain advantage.</Description>
+	</Profession>
+	<Profession id="194">
+		<Name type="string">Tailor</Name>
+		<Description type="string">A person who makes fitted clothes such as shirts, pants, and jackets to fit individual customers.</Description>
+	</Profession>
+	<Profession id="195">
+		<Name type="string">Tanner</Name>
+		<Description type="string">A person who tans animal hides.</Description>
+	</Profession>
+	<Profession id="196">
+		<Name type="string">Tavern Keeper</Name>
+		<Description type="string">A person who is the keeper of a public house.</Description>
+	</Profession>
+	<Profession id="197">
+		<Name type="string">Tax Collector</Name>
+		<Description type="string">A person who collects unpaid taxes from other people or corporations.</Description>
+	</Profession>
+	<Profession id="198">
+		<Name type="string">Teamster</Name>
+		<Description type="string">A driver of a team of animals.</Description>
+	</Profession>
+	<Profession id="199">
+		<Name type="string">Thatcher</Name>
+		<Description type="string">A person who thatches.</Description>
+	</Profession>
+	<Profession id="200">
+		<Name type="string">Thief</Name>
+		<Description type="string">A person who steals another person's property, especially by stealth and without using force or violence.</Description>
+	</Profession>
+	<Profession id="201">
+		<Name type="string">Tinker</Name>
+		<Description type="string">A person who travels from place to place mending metal utensils as a way of making a living.</Description>
+	</Profession>
+	<Profession id="202">
+		<Name type="string">Torturer</Name>
+		<Description type="string">A person who inflicts severe pain on someone as a punishment or in order to force them to do or say something.</Description>
+	</Profession>
+	<Profession id="203">
+		<Name type="string">Town Crier</Name>
+		<Description type="string">A person employed to make public announcements in the streets or marketplace of a town.</Description>
+	</Profession>
+	<Profession id="204">
+		<Name type="string">Trader</Name>
+		<Description type="string">A person who buys and sells goods, currency, or stocks.</Description>
+	</Profession>
+	<Profession id="205">
+		<Name type="string">Trapper</Name>
+		<Description type="string">A person who traps wild animals, especially for their fur.</Description>
+	</Profession>
+	<Profession id="206">
+		<Name type="string">Vendor</Name>
+		<Description type="string">A person offering something for sale, especially a trader in the street.</Description>
+	</Profession>
+	<Profession id="207">
+		<Name type="string">Vermin Catcher</Name>
+		<Description type="string">A person who practices vermin-catching as a professional form of pest control.</Description>
+	</Profession>
+	<Profession id="208">
+		<Name type="string">Village Chief</Name>
+		<Description type="string">A person appointed to administer an area that is often a single village.</Description>
+	</Profession>
+	<Profession id="209">
+		<Name type="string">Vintner</Name>
+		<Description type="string">A wine maker.</Description>
+	</Profession>
+	<Profession id="210">
+		<Name type="string">Viking</Name>
+		<Description type="string">A person who is a seafaring pirate and trader that raids and settles in many parts of the world.</Description>
+	</Profession>
+	<Profession id="211">
+		<Name type="string">Warlock</Name>
+		<Description type="string">A man who practices witchcraft.</Description>
+	</Profession>
+	<Profession id="212">
+		<Name type="string">Warrior</Name>
+		<Description type="string">A brave or experienced soldier or fighter.</Description>
+	</Profession>
+	<Profession id="213">
+		<Name type="string">Water Carrier</Name>
+		<Description type="string">A carrier of goods or people using the sea or waterways in transportation.</Description>
+	</Profession>
+	<Profession id="214">
+		<Name type="string">Weaponsmith</Name>
+		<Description type="string">A person who makes weapons.</Description>
+	</Profession>
+	<Profession id="215">
+		<Name type="string">Weaver</Name>
+		<Description type="string">A person who weaves fabric.</Description>
+	</Profession>
+	<Profession id="216">
+		<Name type="string">Wet Nurse</Name>
+		<Description type="string">A woman employed to suckle another woman's child.</Description>
+	</Profession>
+	<Profession id="217">
+		<Name type="string">Wine Seller</Name>
+		<Description type="string">A wine merchant.</Description>
+	</Profession>
+	<Profession id="218">
+		<Name type="string">Witch</Name>
+		<Description type="string">A woman thought to have magic powers, especially evil ones.</Description>
+	</Profession>
+	<Profession id="219">
+		<Name type="string">Wizard</Name>
+		<Description type="string">A man who has magical powers.</Description>
+	</Profession>
+	<Profession id="220">
+		<Name type="string">Woodcarver</Name>
+		<Description type="string">A person whose occupation is woodcarving.</Description>
+	</Profession>
+	<Profession id="221">
+		<Name type="string">Woodcutter</Name>
+		<Description type="string">A person who cuts down trees or branches.</Description>
+	</Profession>
+	<Profession id="222">
+		<Name type="string">Wood Seller</Name>
+		<Description type="string">A person who specializes in the sale and distribution of wood.</Description>
+	</Profession>
+</All_Professions>

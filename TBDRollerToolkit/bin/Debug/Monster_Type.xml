@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<All_Monster_Type>
+	<Monster_Type id="1">
+		<Name type="string">Humanoid</Name>
+		<Description type="string">A creature shaped generally like a human of Small or Medium size.</Description>
+	</Monster_Type>
+	<Monster_Type id="2">
+		<Name type="string">Aberration</Name>
+		<Description type="string">A creature that has a bizarre anatomy, strange abilities, an alien mindset, or any combination of the three.</Description>
+	</Monster_Type>
+	<Monster_Type id="3">
+		<Name type="string">Beast</Name>
+		<Description type="string">A creature that is a fantastic, but not necessarily magical, vertebrate.</Description>
+	</Monster_Type>
+	<Monster_Type id="4">
+		<Name type="string">Monstrosity</Name>
+		<Description type="string">A frightening creature that is not ordinary, not truly natural, and almost never benign.</Description>
+	</Monster_Type>
+	<Monster_Type id="5">
+		<Name type="string">Construct</Name>
+		<Description type="string">A creature that is either an animated object, or an artificially constructed creature.</Description>
+	</Monster_Type>
+	<Monster_Type id="6">
+		<Name type="string">Fiend</Name>
+		<Description type="string">A creature that is a malicious, otherworldly entity.</Description>
+	</Monster_Type>
+	<Monster_Type id="7">
+		<Name type="string">Elemental</Name>
+		<Description type="string">A creature that is composed of one of the four classical elements: air, earth, fire, and water.</Description>
+	</Monster_Type>
+	<Monster_Type id="8">
+		<Name type="string">Undead</Name>
+		<Description type="string">A creature that was once-living but has now been animated by spiritual or supernatural forces.</Description>
+	</Monster_Type>
+	<Monster_Type id="9">
+		<Name type="string">Celestial</Name>
+		<Description type="string">A creature that is an outsider of wholly good alignment.</Description>
+	</Monster_Type>
+	<Monster_Type id="10">
+		<Name type="string">Giant</Name>
+		<Description type="string">A creature that is a humanoid-shaped entity of great strength and size.</Description>
+	</Monster_Type>
+	<Monster_Type id="11">
+		<Name type="string">Fey</Name>
+		<Description type="string">A creature that is a humanoid in form and generally has a supernatural ability and a connection to nature.</Description>
+	</Monster_Type>
+	<Monster_Type id="12">
+		<Name type="string">Plant</Name>
+		<Description type="string">A creature composed of vegetable material, but unlike normal plants these monsters may be carnivorous, intelligent, mobile, or any combination of the three.</Description>
+	</Monster_Type>
+	<Monster_Type id="13">
+		<Name type="string">Dragon</Name>
+		<Description type="string">A creature that is reptilelike, usually winged, with magical or unusual abilities.</Description>
+	</Monster_Type>
+</All_Monster_Type>

@@ -1,0 +1,10 @@
+C:\Users\johnc\source\repos\TBDRoller\TBDRoller\bin\Debug\TBDRoller.exe.config
+C:\Users\johnc\source\repos\TBDRoller\TBDRoller\bin\Debug\TBDRoller.exe
+C:\Users\johnc\source\repos\TBDRoller\TBDRoller\bin\Debug\TBDRoller.pdb
+C:\Users\johnc\source\repos\TBDRoller\TBDRoller\obj\Debug\TBDRoller.csprojResolveAssemblyReference.cache
+C:\Users\johnc\source\repos\TBDRoller\TBDRoller\obj\Debug\TBDRoller.TBDRoller.resources
+C:\Users\johnc\source\repos\TBDRoller\TBDRoller\obj\Debug\TBDRoller.Properties.Resources.resources
+C:\Users\johnc\source\repos\TBDRoller\TBDRoller\obj\Debug\TBDRoller.csproj.GenerateResource.Cache
+C:\Users\johnc\source\repos\TBDRoller\TBDRoller\obj\Debug\TBDRoller.csproj.CoreCompileInputs.cache
+C:\Users\johnc\source\repos\TBDRoller\TBDRoller\obj\Debug\TBDRoller.exe
+C:\Users\johnc\source\repos\TBDRoller\TBDRoller\obj\Debug\TBDRoller.pdb

@@ -1,0 +1,10 @@
+C:\Users\Tuck's 0TG\source\repos\XmlImporterAndExporter\XmlImporterAndExporter\bin\Debug\XmlImporterAndExporter.exe.config
+C:\Users\Tuck's 0TG\source\repos\XmlImporterAndExporter\XmlImporterAndExporter\bin\Debug\XmlImporterAndExporter.exe
+C:\Users\Tuck's 0TG\source\repos\XmlImporterAndExporter\XmlImporterAndExporter\bin\Debug\XmlImporterAndExporter.pdb
+C:\Users\Tuck's 0TG\source\repos\XmlImporterAndExporter\XmlImporterAndExporter\obj\Debug\XmlImporterAndExporter.csprojResolveAssemblyReference.cache
+C:\Users\Tuck's 0TG\source\repos\XmlImporterAndExporter\XmlImporterAndExporter\obj\Debug\XmlImporterAndExporter.Properties.Resources.resources
+C:\Users\Tuck's 0TG\source\repos\XmlImporterAndExporter\XmlImporterAndExporter\obj\Debug\XmlImporterAndExporter.csproj.GenerateResource.Cache
+C:\Users\Tuck's 0TG\source\repos\XmlImporterAndExporter\XmlImporterAndExporter\obj\Debug\XmlImporterAndExporter.csproj.CoreCompileInputs.cache
+C:\Users\Tuck's 0TG\source\repos\XmlImporterAndExporter\XmlImporterAndExporter\obj\Debug\XmlImporterAndExporter.exe
+C:\Users\Tuck's 0TG\source\repos\XmlImporterAndExporter\XmlImporterAndExporter\obj\Debug\XmlImporterAndExporter.pdb
+C:\Users\Tuck's 0TG\source\repos\XmlImporterAndExporter\XmlImporterAndExporter\obj\Debug\XmlImporterAndExporter.ImporterExporter.resources

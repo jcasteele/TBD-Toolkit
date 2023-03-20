@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<All_Armor_Materials>
+	<Armor_Material id="1">
+		<Name type="string">Adamantine</Name>
+		<Description type="string">An ultrahard metal found in meteorites and extraordinary mineral veins.</Description>
+	</Armor_Material>
+	<Armor_Material id="2">
+		<Name type="string">Alchemical Silver</Name>
+		<Description type="string">A complex process involving metallurgy and alchemy can bond silver to a weapon made of steel.</Description>
+	</Armor_Material>
+	<Armor_Material id="3">
+		<Name type="string">Bone</Name>
+		<Description type="string">A part of the skeletal system of some creature.</Description>
+	</Armor_Material>
+	<Armor_Material id="4">
+		<Name type="string">Bronze</Name>
+		<Description type="string">A yellowish-brown alloy of copper with up to one-third tin.</Description>
+	</Armor_Material>
+	<Armor_Material id="5">
+		<Name type="string">Cold Iron</Name>
+		<Description type="string">A rare form of iron left over from the creation of the Parallel Planes (Material Plane, Feywild, and Shadowfell) from the Elemental Chaos.</Description>
+	</Armor_Material>
+	<Armor_Material id="6">
+		<Name type="string">Darkwood</Name>
+		<Description type="string">A rare magic wood that is as hard as normal wood but very light.</Description>
+	</Armor_Material>
+	<Armor_Material id="7">
+		<Name type="string">Dragonhide</Name>
+		<Description type="string">A dragon skin that has been treated for human use.</Description>
+	</Armor_Material>
+	<Armor_Material id="8">
+		<Name type="string">Iron</Name>
+		<Description type="string">A strong, hard magnetic silvery-gray metal.</Description>
+	</Armor_Material>
+	<Armor_Material id="9">
+		<Name type="string">Mithral</Name>
+		<Description type="string">A very rare silvery, glistening metal that is lighter than iron but just as hard.</Description>
+	</Armor_Material>
+	<Armor_Material id="10">
+		<Name type="string">Rustic Wood</Name>
+		<Description type="string">An untreated, fresh wood found and used in its natural state.</Description>
+	</Armor_Material>
+	<Armor_Material id="11">
+		<Name type="string">Steel</Name>
+		<Description type="string">A hard, strong, gray or bluish-gray alloy of iron with carbon and usually other elements.</Description>
+	</Armor_Material>
+	<Armor_Material id="12">
+		<Name type="string">Stone</Name>
+		<Description type="string">A hard, solid, nonmetallic mineral matter.</Description>
+	</Armor_Material>
+</All_Armor_Materials>

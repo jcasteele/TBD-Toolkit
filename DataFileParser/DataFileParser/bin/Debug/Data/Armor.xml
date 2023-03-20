@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Armory>
+	<Armor id="1">
+		<Name type="string">Banded Mail (Medium)</Name>
+		<Type type="Armor_Type">10</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">Medium-sized banded mail body armor.</Description>
+	</Armor>
+	<Armor id="2">
+		<Name type="string">Banded Mail (Small)</Name>
+		<Type type="Armor_Type">10</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">Small-sized banded mail body armor.</Description>
+	</Armor>
+	<Armor id="3">
+		<Name type="string">Breastplate (Medium)</Name>
+		<Type type="Armor_Type">8</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">Medium-sized breastplate body armor.</Description>
+	</Armor>
+	<Armor id="4">
+		<Name type="string">Breastplate (Small)</Name>
+		<Type type="Armor_Type">8</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">Small-sized breastplate body armor.</Description>
+	</Armor>
+	<Armor id="5">
+		<Name type="string">Buckler (Medium)</Name>
+		<Type type="Armor_Type">13</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A medium-sized round shield.</Description>
+	</Armor>
+	<Armor id="6">
+		<Name type="string">Buckler (Small)</Name>
+		<Type type="Armor_Type">13</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A small-sized round shield.</Description>
+	</Armor>
+	<Armor id="7">
+		<Name type="string">Chain Mail (Medium)</Name>
+		<Type type="Armor_Type">7</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">Medium-sized chain mail body armor.</Description>
+	</Armor>
+	<Armor id="8">
+		<Name type="string">Chain Mail (Small)</Name>
+		<Type type="Armor_Type">7</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">Small-sized chain mail body armor.</Description>
+	</Armor>
+	<Armor id="9">
+		<Name type="string">Chain Shirt (Medium)</Name>
+		<Type type="Armor_Type">4</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">A medium-sized chain shirt.</Description>
+	</Armor>
+	<Armor id="10">
+		<Name type="string">Chain Shirt (Small)</Name>
+		<Type type="Armor_Type">4</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">A small-sized chain shirt.</Description>
+	</Armor>
+	<Armor id="11">
+		<Name type="string">Full Plate Armor (Medium)</Name>
+		<Type type="Armor_Type">12</Type>
+		<Cost type="Scale_Level">8</Cost>
+		<Description type="string">Medium-sized full plate body armor.</Description>
+	</Armor>
+	<Armor id="12">
+		<Name type="string">Full Plate Armor (Small)</Name>
+		<Type type="Armor_Type">12</Type>
+		<Cost type="Scale_Level">8</Cost>
+		<Description type="string">Small-sized full plate body armor.</Description>
+	</Armor>
+	<Armor id="13">
+		<Name type="string">Half-Plate Armor (Medium)</Name>
+		<Type type="Armor_Type">11</Type>
+		<Cost type="Scale_Level">7</Cost>
+		<Description type="string">Medium-sized half-plate body armor.</Description>
+	</Armor>
+	<Armor id="14">
+		<Name type="string">Half-Plate Armor (Small)</Name>
+		<Type type="Armor_Type">11</Type>
+		<Cost type="Scale_Level">7</Cost>
+		<Description type="string">Small-sized half-plate body armor.</Description>
+	</Armor>
+	<Armor id="15">
+		<Name type="string">Hide Armor (Medium)</Name>
+		<Type type="Armor_Type">5</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">Medium-sized hide body armor.</Description>
+	</Armor>
+	<Armor id="16">
+		<Name type="string">Hide Armor (Small)</Name>
+		<Type type="Armor_Type">5</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">Small-sized hide body armor.</Description>
+	</Armor>
+	<Armor id="17">
+		<Name type="string">Leather Armor (Medium)</Name>
+		<Type type="Armor_Type">2</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">Medium-sized leather body armor.</Description>
+	</Armor>
+	<Armor id="18">
+		<Name type="string">Leather Armor (Small)</Name>
+		<Type type="Armor_Type">2</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">Small-sized leather body armor.</Description>
+	</Armor>
+	<Armor id="19">
+		<Name type="string">Padded Armor (Medium)</Name>
+		<Type type="Armor_Type">1</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">Medium-sized padded body armor.</Description>
+	</Armor>
+	<Armor id="20">
+		<Name type="string">Padded Armor (Small)</Name>
+		<Type type="Armor_Type">1</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">Small-sized padded body armor.</Description>
+	</Armor>
+	<Armor id="21">
+		<Name type="string">Scale Mail (Medium)</Name>
+		<Type type="Armor_Type">6</Type>
+		<Cost type="Scale_Level">5</Cost>
+		<Description type="string">Medium-sized scale mail body armor.</Description>
+	</Armor>
+	<Armor id="22">
+		<Name type="string">Scale Mail (Small)</Name>
+		<Type type="Armor_Type">6</Type>
+		<Cost type="Scale_Level">5</Cost>
+		<Description type="string">Small-sized scale mail body armor.</Description>
+	</Armor>
+	<Armor id="23">
+		<Name type="string">Shield, Heavy steel (Medium)</Name>
+		<Type type="Armor_Type">17</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">Medium-sized heavy steel shield.</Description>
+	</Armor>
+	<Armor id="24">
+		<Name type="string">Shield, Heavy steel (Small)</Name>
+		<Type type="Armor_Type">17</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">Small-sized heavy steel shield.</Description>
+	</Armor>
+	<Armor id="25">
+		<Name type="string">Shield, Heavy wooden (Medium)</Name>
+		<Type type="Armor_Type">16</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">Medium-sized heavy wooden shield.</Description>
+	</Armor>
+	<Armor id="26">
+		<Name type="string">Shield, Heavy wooden (Small)</Name>
+		<Type type="Armor_Type">16</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">Small-sized heavy wooden shield.</Description>
+	</Armor>
+	<Armor id="27">
+		<Name type="string">Shield, Light steel (Medium)</Name>
+		<Type type="Armor_Type">15</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">Medium-sized light steel shield.</Description>
+	</Armor>
+	<Armor id="28">
+		<Name type="string">Shield, Light steel (Small)</Name>
+		<Type type="Armor_Type">15</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">Small-sized light steel shield.</Description>
+	</Armor>
+	<Armor id="29">
+		<Name type="string">Shield, Light wooden (Medium)</Name>
+		<Type type="Armor_Type">14</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">Medium-sized light wooden shield.</Description>
+	</Armor>
+	<Armor id="30">
+		<Name type="string">Shield, Light wooden (Small)</Name>
+		<Type type="Armor_Type">14</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">Small-sized light wooden shield.</Description>
+	</Armor>
+	<Armor id="31">
+		<Name type="string">Shield, Tower (Medium)</Name>
+		<Type type="Armor_Type">18</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">Medium-sized full body shield.</Description>
+	</Armor>
+	<Armor id="32">
+		<Name type="string">Shield, Tower (Small)</Name>
+		<Type type="Armor_Type">18</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">Small-sized full body shield.</Description>
+	</Armor>
+	<Armor id="33">
+		<Name type="string">Splint Mail (Medium)</Name>
+		<Type type="Armor_Type">9</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">Medium-sized splint mail body armor.</Description>
+	</Armor>
+	<Armor id="34">
+		<Name type="string">Splint Mail (Small)</Name>
+		<Type type="Armor_Type">9</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">Small-sized splint mail body armor.</Description>
+	</Armor>
+	<Armor id="35">
+		<Name type="string">Studded Leather Armor (Medium)</Name>
+		<Type type="Armor_Type">3</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">Medium-sized studded leather body armor.</Description>
+	</Armor>
+	<Armor id="36">
+		<Name type="string">Studded Leather Armor (Small)</Name>
+		<Type type="Armor_Type">3</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">Small-sized studded leather body armor.</Description>
+	</Armor>
+	<Armor id="37">
+		<Name type="string">Gauntlet</Name>
+		<Type type="Armor_Type">19</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">An armored glove.</Description>
+	</Armor>
+	<Armor id="38">
+		<Name type="string">Gauntlet, spiked</Name>
+		<Type type="Armor_Type">19</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A spiked, armored glove.</Description>
+	</Armor>
+	<Armor id="39">
+		<Name type="string">Cloak</Name>
+		<Type type="Armor_Type">20</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">An outdoor overgarment, typically sleeveless, that hangs loosely from the shoulders.</Description>
+	</Armor>
+</Armory>

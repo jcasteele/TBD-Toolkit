@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Item_Type_List>
+	<Item_Type id="1">
+		<Name type="string">Adventuring Gear/Luxury Items</Name>
+		<Description type="string">Items which are of use when adventuring or surviving in the wilderness including food, drink, and various forms of illumination.</Description>
+	</Item_Type>
+	<Item_Type id="2">
+		<Name type="string">Special Substances and Items</Name>
+		<Description type="string">Items that are not magical but have what could be considered magical properties.</Description>
+	</Item_Type>
+	<Item_Type id="3">
+		<Name type="string">Tools and Skill Kits</Name>
+		<Description type="string">Items that help you do something you couldn't otherwise do, such as craft or repair an item, forge a document, or pick a lock.</Description>
+	</Item_Type>
+	<Item_Type id="4">
+		<Name type="string">Food, Drink and Lodging</Name>
+		<Description type="string">Items that will satisfy your basic needs by providing either sustenance or shelter.</Description>
+	</Item_Type>
+	<Item_Type id="5">
+		<Name type="string">Clothing</Name>
+		<Description type="string">Items worn to cover the body.</Description>
+	</Item_Type>
+	<Item_Type id="6">
+		<Name type="string">Commodities</Name>
+		<Description type="string">Items of use and/or value that can be bought and sold.</Description>
+	</Item_Type>
+	<Item_Type id="7">
+		<Name type="string">Mounts and Related Gear</Name>
+		<Description type="string">An animal that can be used for either transportation or some other purpose, and any items that can assist with maintaining these animals.</Description>
+	</Item_Type>
+	<Item_Type id="8">
+		<Name type="string">Transport</Name>
+		<Description type="string">Items that provide a means of conveying people or goods from place to place by means of a vehicle.</Description>
+	</Item_Type>
+	<Item_Type id="9">
+		<Name type="string">Musical Instrument</Name>
+		<Description type="string">Items that are used for playing music.</Description>
+	</Item_Type>
+</Item_Type_List>

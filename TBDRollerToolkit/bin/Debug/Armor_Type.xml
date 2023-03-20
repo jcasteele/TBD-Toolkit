@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<All_Armor_Types>
+	<Armor_Type id="1">
+		<Name type="string">Padded</Name>
+		<Description type="string">Armor covered with a soft material to provide further protection to its wearer and make it more comfortable.</Description>
+	</Armor_Type>
+	<Armor_Type id="2">
+		<Name type="string">Leather</Name>
+		<Description type="string">Armor made from the skin of an animal by tanning or a similar process.</Description>
+	</Armor_Type>
+	<Armor_Type id="3">
+		<Name type="string">Studded leather</Name>
+		<Description type="string">Armor made of leather that is covered with studs.</Description>
+	</Armor_Type>
+	<Armor_Type id="4">
+		<Name type="string">Chain shirt</Name>
+		<Description type="string">A shirt made of flexible, interlinked metal rings.</Description>
+	</Armor_Type>
+	<Armor_Type id="5">
+		<Name type="string">Hide</Name>
+		<Description type="string">Armor made of an animal skin treated for human use.</Description>
+	</Armor_Type>
+	<Armor_Type id="6">
+		<Name type="string">Scale mail</Name>
+		<Description type="string">Armor made of overlapping metal plates, resembling the scales of a fish.</Description>
+	</Armor_Type>
+	<Armor_Type id="7">
+		<Name type="string">Chain Mail</Name>
+		<Description type="string">Armor made of flexible, interlinked metal rings.</Description>
+	</Armor_Type>
+	<Armor_Type id="8">
+		<Name type="string">Breastplate</Name>
+		<Description type="string">Armor for the torso that consists of a solid metal plate.</Description>
+	</Armor_Type>
+	<Armor_Type id="9">
+		<Name type="string">Splint mail</Name>
+		<Description type="string">Armor is made of narrow vertical strips of metal riveted to a backing of leather that is worn over cloth padding.</Description>
+	</Armor_Type>
+	<Armor_Type id="10">
+		<Name type="string">Banded mail</Name>
+		<Description type="string">Armor made up of overlapping strips of metal, fastened to a Leather backing.</Description>
+	</Armor_Type>
+	<Armor_Type id="11">
+		<Name type="string">Half-plate</Name>
+		<Description type="string">Armor that consists of shaped metal plates that cover most of the wearer's body.</Description>
+	</Armor_Type>
+	<Armor_Type id="12">
+		<Name type="string">Full plate</Name>
+		<Description type="string">Armor that consists of shaped, interlocking metal plates to cover the entire body.</Description>
+	</Armor_Type>
+	<Armor_Type id="13">
+		<Name type="string">Buckler</Name>
+		<Description type="string">A small, round shield held by a handle or worn on the forearm.</Description>
+	</Armor_Type>
+	<Armor_Type id="14">
+		<Name type="string">Shield, light, wooden</Name>
+		<Description type="string">A lightweight shield made of a wooden material.</Description>
+	</Armor_Type>
+	<Armor_Type id="15">
+		<Name type="string">Shield, light, steel</Name>
+		<Description type="string">A lightweight shield made of steel.</Description>
+	</Armor_Type>
+	<Armor_Type id="16">
+		<Name type="string">Shield, heavy, wooden</Name>
+		<Description type="string">A heavyweight shield made of a wooden material.</Description>
+	</Armor_Type>
+	<Armor_Type id="17">
+		<Name type="string">Shield, heavy, steel</Name>
+		<Description type="string">A heavyweight shield made of steel.</Description>
+	</Armor_Type>
+	<Armor_Type id="18">
+		<Name type="string">Shield, tower</Name>
+		<Description type="string">A shield designed to cover the entirety of a creature's body.</Description>
+	</Armor_Type>
+	<Armor_Type id="19">
+		<Name type="string">Gauntlet</Name>
+		<Description type="string">A thick glove with a long loose wrist.</Description>
+	</Armor_Type>
+	<Armor_Type id="20">
+		<Name type="string">Cloth</Name>
+		<Description type="string">Woven or felted fabric made from wool, cotton, or a similar fiber.</Description>
+	</Armor_Type>
+</All_Armor_Types>

@@ -1,0 +1,3628 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Item_Menu>
+	<Item id="1">
+		<Name type="string">Abacus</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">An oblong frame with rows of wires or grooves along which beads are slid, used for calculating.</Description>
+	</Item>
+	<Item id="2">
+		<Name type="string">Acid (flask)</Name>
+		<Type type="Item_Type">2</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A flask full of a caustic acid.</Description>
+	</Item>
+	<Item id="3">
+		<Name type="string">Alchemist's Fire (flask)</Name>
+		<Type type="Item_Type">2</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A flask full of Alchemist's Fire, a liquid that ignites when exposed to air.</Description>
+	</Item>
+	<Item id="4">
+		<Name type="string">Alchemist's Lab</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">7</Cost>
+		<Description type="string">A full lab dedicated to the practice and study of Alchemy.</Description>
+	</Item>
+	<Item id="5">
+		<Name type="string">Ale (gallon)</Name>
+		<Type type="Item_Type">4</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A full gallon of Ale.</Description>
+	</Item>
+	<Item id="6">
+		<Name type="string">Animal (diminutive) Cage</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">An animal cage for a diminutive animal.</Description>
+	</Item>
+	<Item id="7">
+		<Name type="string">Animal (medium) Cage</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">5</Cost>
+		<Description type="string">An animal cage for a medium-sized animal.</Description>
+	</Item>
+	<Item id="8">
+		<Name type="string">Animal (small) Cage</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">An animal cage for a small animal.</Description>
+	</Item>
+	<Item id="9">
+		<Name type="string">Animal (tiny) Cage</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">An animal cage for a tiny animal.</Description>
+	</Item>
+	<Item id="10">
+		<Name type="string">Antitoxin</Name>
+		<Type type="Item_Type">2</Type>
+		<Cost type="Scale_Level">5</Cost>
+		<Description type="string">A vial full of an antibody that counteracts a toxin.</Description>
+	</Item>
+	<Item id="11">
+		<Name type="string">Apothecary's Table</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A table for a professional healer to do his/her work.</Description>
+	</Item>
+	<Item id="12">
+		<Name type="string">Apron, Canvas</Name>
+		<Type type="Item_Type">5</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">An apron made out of canvas.</Description>
+	</Item>
+	<Item id="13">
+		<Name type="string">Apron, Cloth</Name>
+		<Type type="Item_Type">5</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">An apron made out of cloth.</Description>
+	</Item>
+	<Item id="14">
+		<Name type="string">Apron, Hide</Name>
+		<Type type="Item_Type">5</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">An apron made out of hide.</Description>
+	</Item>
+	<Item id="15">
+		<Name type="string">Artisan Scissors</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A pair of scissors for a set of skilled hands.</Description>
+	</Item>
+	<Item id="16">
+		<Name type="string">Artisan's Outfit</Name>
+		<Type type="Item_Type">5</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">An outfit for a worker in a skilled trade.</Description>
+	</Item>
+	<Item id="17">
+		<Name type="string">Artisan's Tools</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A set of tools for a skilled worker who relies on their hands to get the job done.</Description>
+	</Item>
+	<Item id="18">
+		<Name type="string">Artisan's Tools, Masterwork</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">5</Cost>
+		<Description type="string">A set of tools for a skilled worker who relies on their hands to make a masterpiece.</Description>
+	</Item>
+	<Item id="19">
+		<Name type="string">Ash Bowl, copper/stone, common</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A typical copper/stone ash bowl.</Description>
+	</Item>
+	<Item id="20">
+		<Name type="string">Ash Bowl, copper/stone, fancy</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A fancy copper/stone ash bowl.</Description>
+	</Item>
+	<Item id="21">
+		<Name type="string">Ash Bowl, wooden (common)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A common wooden ash bowl.</Description>
+	</Item>
+	<Item id="22">
+		<Name type="string">Ash Bowl, wooden (fancy)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A fancy wooden ash bowl.</Description>
+	</Item>
+	<Item id="23">
+		<Name type="string">Baboon</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A large ground-dwelling monkey with a long doglike snout, large teeth, and naked callosities on the buttocks.</Description>
+	</Item>
+	<Item id="24">
+		<Name type="string">Baby Cradle, wooden</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A wooden baby cradle for an infant.</Description>
+	</Item>
+	<Item id="25">
+		<Name type="string">Back Scratcher, common</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A typical back scratcher for those hard to reach places.</Description>
+	</Item>
+	<Item id="26">
+		<Name type="string">Back Scratcher, fancy</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A fancy back scratcher for those hard to reach places.</Description>
+	</Item>
+	<Item id="27">
+		<Name type="string">Backpack (empty)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">An empty backpack ready to be filled.</Description>
+	</Item>
+	<Item id="28">
+		<Name type="string">Banded Barding (Large)</Name>
+		<Type type="Item_Type">7</Type>
+		<Cost type="Scale_Level">8</Cost>
+		<Description type="string">A large banded covering intended to be defensive armor for a horse.</Description>
+	</Item>
+	<Item id="29">
+		<Name type="string">Banded Barding (Medium)</Name>
+		<Type type="Item_Type">7</Type>
+		<Cost type="Scale_Level">7</Cost>
+		<Description type="string">A medium-sized banded covering intended to be defensive armor for a horse.</Description>
+	</Item>
+	<Item id="30">
+		<Name type="string">Barber's Kit</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A set of tools for trimming all sorts of hair.</Description>
+	</Item>
+	<Item id="31">
+		<Name type="string">Barrel (empty)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">An empty barrel.</Description>
+	</Item>
+	<Item id="32">
+		<Name type="string">Basket (empty)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">An empty basket.</Description>
+	</Item>
+	<Item id="33">
+		<Name type="string">Bed Clothing, common</Name>
+		<Type type="Item_Type">5</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">Typical bedroom attire.</Description>
+	</Item>
+	<Item id="34">
+		<Name type="string">Bed Clothing, fancy</Name>
+		<Type type="Item_Type">5</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">Fancy bedroom attire.</Description>
+	</Item>
+	<Item id="35">
+		<Name type="string">Bedroll</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A sleeping bag or other bedding rolled into a bundle.</Description>
+	</Item>
+	<Item id="36">
+		<Name type="string">Bedside Table, common</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A common bedside table.</Description>
+	</Item>
+	<Item id="37">
+		<Name type="string">Bedside Table, fancy</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A fancy bedside table.</Description>
+	</Item>
+	<Item id="38">
+		<Name type="string">Beekeeper's Hive</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A bee hive that belongs to a beekeeper.</Description>
+	</Item>
+	<Item id="39">
+		<Name type="string">Beekeeper's Suit</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A beekeeping suit that will protect you from every possible bee sting.</Description>
+	</Item>
+	<Item id="40">
+		<Name type="string">Bell</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A bell that sounds a clear musical note when struck.</Description>
+	</Item>
+	<Item id="41">
+		<Name type="string">Belt, Leather (common)</Name>
+		<Type type="Item_Type">5</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A common leather belt.</Description>
+	</Item>
+	<Item id="42">
+		<Name type="string">Belt, Leather (fancy)</Name>
+		<Type type="Item_Type">5</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A fancy leather belt.</Description>
+	</Item>
+	<Item id="43">
+		<Name type="string">Birch Bark</Name>
+		<Type type="Item_Type">4</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">Bark from a birch tree.</Description>
+	</Item>
+	<Item id="44">
+		<Name type="string">Bird, pet, common</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A common bird that you can keep as a pet.</Description>
+	</Item>
+	<Item id="45">
+		<Name type="string">Bird, pet, fancy</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A fancy bird that you can keep as a pet.</Description>
+	</Item>
+	<Item id="46">
+		<Name type="string">Bird, pet, rare</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A rare bird that you can keep as a pet.</Description>
+	</Item>
+	<Item id="47">
+		<Name type="string">Birdbath, common</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A typical birdbath for the birds.</Description>
+	</Item>
+	<Item id="48">
+		<Name type="string">Birdbath, fancy</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A fancy birdbath for the birds.</Description>
+	</Item>
+	<Item id="49">
+		<Name type="string">Biscuit Bin</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A bin for holding biscuits.</Description>
+	</Item>
+	<Item id="50">
+		<Name type="string">Bit and Bridle</Name>
+		<Type type="Item_Type">7</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">Some equipment used to direct a horse.</Description>
+	</Item>
+	<Item id="51">
+		<Name type="string">Blanket (winter)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A winter blanket designed to keep you warm on even the coldest of nights.</Description>
+	</Item>
+	<Item id="52">
+		<Name type="string">Blemish Cream (jar)</Name>
+		<Type type="Item_Type">2</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A jar full of blemish cream.</Description>
+	</Item>
+	<Item id="53">
+		<Name type="string">Block and Tackle</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A mechanism consisting of ropes and one or more pulley-blocks, used for lifting or pulling heavy objects.</Description>
+	</Item>
+	<Item id="54">
+		<Name type="string">Blood Letter's Leeches (flask of 12 live)</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A flask of 12 live leeches for bloodletting a creature.</Description>
+	</Item>
+	<Item id="55">
+		<Name type="string">Boa Constrictor</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A snake that you can keep as a pet.</Description>
+	</Item>
+	<Item id="56">
+		<Name type="string">Boiled Sweets</Name>
+		<Type type="Item_Type">4</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A sugar candy that was boiled until it turned hard.</Description>
+	</Item>
+	<Item id="57">
+		<Name type="string">Bonzai Tree (tiny to small)</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A tiny to small bonzai tree.</Description>
+	</Item>
+	<Item id="58">
+		<Name type="string">Book of Fairy Tales</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A book of fairy tales to entertain you on your travels.</Description>
+	</Item>
+	<Item id="59">
+		<Name type="string">Book of General Learning</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A book of general learning that will supply you with some basic yet important knowledge.</Description>
+	</Item>
+	<Item id="60">
+		<Name type="string">Book of Legends</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A book of legends that will keep you entertained on your travels.</Description>
+	</Item>
+	<Item id="61">
+		<Name type="string">Book of Recipes</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A book of recipes that will teach you how to prepare some simple delicacies.</Description>
+	</Item>
+	<Item id="62">
+		<Name type="string">Book of Songs (100), grand</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">5</Cost>
+		<Description type="string">A grand song book that contains 100 songs within it.</Description>
+	</Item>
+	<Item id="63">
+		<Name type="string">Book of Songs (20), small</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A small song book that contains 20 songs within it.</Description>
+	</Item>
+	<Item id="64">
+		<Name type="string">Book of Songs (50), large</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A large song book that contains 50 songs within it.</Description>
+	</Item>
+	<Item id="65">
+		<Name type="string">Book, blank, normal</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A normal, blank book for you to use as you wish.</Description>
+	</Item>
+	<Item id="66">
+		<Name type="string">Book, blank, poet's</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A blank poet's book for you to channel your inner poet.</Description>
+	</Item>
+	<Item id="67">
+		<Name type="string">Book, blank, small</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A small, blank book for you to use as you wish.</Description>
+	</Item>
+	<Item id="68">
+		<Name type="string">Book, Diary (Blank w/ lock)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A blank diary with a lock so you can protect your deepest secrets.</Description>
+	</Item>
+	<Item id="69">
+		<Name type="string">Book, Diary (Blank, no lock)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A blank diary that lacks a lock to keep your thoughts secure.</Description>
+	</Item>
+	<Item id="70">
+		<Name type="string">Book, Recipe (blank)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A blank recipe book to record your favorite recipes.</Description>
+	</Item>
+	<Item id="71">
+		<Name type="string">Book, Song (blank), grand</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A grand, blank song book to record your favorite tunes.</Description>
+	</Item>
+	<Item id="72">
+		<Name type="string">Book, Song (blank), large</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A large, blank song book to record your favorite tunes.</Description>
+	</Item>
+	<Item id="73">
+		<Name type="string">Book, Song (blank), small</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A small, blank song book to record your favorite tunes.</Description>
+	</Item>
+	<Item id="74">
+		<Name type="string">Bookmark, common</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A common bookmark to remember your place in your favorite book.</Description>
+	</Item>
+	<Item id="75">
+		<Name type="string">Bookmark, fancy</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A fancy bookmark to remember your place in your favorite book.</Description>
+	</Item>
+	<Item id="76">
+		<Name type="string">Bookshelf, large</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A large bookshelf.</Description>
+	</Item>
+	<Item id="77">
+		<Name type="string">Bookshelf, medium</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A medium-sized bookshelf.</Description>
+	</Item>
+	<Item id="78">
+		<Name type="string">Bookshelf, small</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A small bookshelf.</Description>
+	</Item>
+	<Item id="79">
+		<Name type="string">Boots, suede (ankle high)</Name>
+		<Type type="Item_Type">5</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A pair of ankle high suede boots.</Description>
+	</Item>
+	<Item id="80">
+		<Name type="string">Boots, suede (knee high)</Name>
+		<Type type="Item_Type">5</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A pair of knee high suede boots.</Description>
+	</Item>
+	<Item id="81">
+		<Name type="string">Bottle (wine, glass)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A glass wine bottle.</Description>
+	</Item>
+	<Item id="82">
+		<Name type="string">Bowl, common</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A typical bowl for sustenance.</Description>
+	</Item>
+	<Item id="83">
+		<Name type="string">Bowl, fancy</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A fancy bowl for sustenance.</Description>
+	</Item>
+	<Item id="84">
+		<Name type="string">Bread (per loaf)</Name>
+		<Type type="Item_Type">4</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A loaf of bread.</Description>
+	</Item>
+	<Item id="85">
+		<Name type="string">Broom</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A broomstick for sweeping off floors.</Description>
+	</Item>
+	<Item id="86">
+		<Name type="string">Bucket (empty)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">An empty bucket.</Description>
+	</Item>
+	<Item id="87">
+		<Name type="string">Buckle, common</Name>
+		<Type type="Item_Type">5</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A typical belt buckle.</Description>
+	</Item>
+	<Item id="88">
+		<Name type="string">Buckle, fancy</Name>
+		<Type type="Item_Type">5</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A fancy belt buckle.</Description>
+	</Item>
+	<Item id="89">
+		<Name type="string">Bullfrog (pair)</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A pair of bullfrogs.</Description>
+	</Item>
+	<Item id="90">
+		<Name type="string">Bush (small)</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A small bush.</Description>
+	</Item>
+	<Item id="91">
+		<Name type="string">Butter</Name>
+		<Type type="Item_Type">4</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">Some butter for your food or a tight squeeze.</Description>
+	</Item>
+	<Item id="92">
+		<Name type="string">Butter Churn</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A device used to convert cream into butter.</Description>
+	</Item>
+	<Item id="93">
+		<Name type="string">Buttons, common (12)</Name>
+		<Type type="Item_Type">5</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A common set of 12 buttons.</Description>
+	</Item>
+	<Item id="94">
+		<Name type="string">Buttons, fancy (12)</Name>
+		<Type type="Item_Type">5</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A fancy set of 12 buttons.</Description>
+	</Item>
+	<Item id="95">
+		<Name type="string">Cage Wagon, common</Name>
+		<Type type="Item_Type">8</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">A typical wagon outfitted with a cage.</Description>
+	</Item>
+	<Item id="96">
+		<Name type="string">Cage Wagon, grand</Name>
+		<Type type="Item_Type">8</Type>
+		<Cost type="Scale_Level">7</Cost>
+		<Description type="string">A grand wagon outfitted with a cage.</Description>
+	</Item>
+	<Item id="97">
+		<Name type="string">Cake, fancy</Name>
+		<Type type="Item_Type">4</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A fancy looking cake for a special occasion.</Description>
+	</Item>
+	<Item id="98">
+		<Name type="string">Cake, simple</Name>
+		<Type type="Item_Type">4</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A simple looking cake for a special occasion.</Description>
+	</Item>
+	<Item id="99">
+		<Name type="string">Candle</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A cylinder or block of wax or tallow with a central wick that is lit to produce light as it burns.</Description>
+	</Item>
+	<Item id="100">
+		<Name type="string">Candle Lantern</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A lamp with a transparent case protecting the candle flame.</Description>
+	</Item>
+	<Item id="101">
+		<Name type="string">Canopy Bed</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">A lavish, decorative bed.</Description>
+	</Item>
+	<Item id="102">
+		<Name type="string">Canvas (sq yd)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">One square yard of strong, coarse unbleached cloth.</Description>
+	</Item>
+	<Item id="103">
+		<Name type="string">Caravan Wagon, common</Name>
+		<Type type="Item_Type">8</Type>
+		<Cost type="Scale_Level">7</Cost>
+		<Description type="string">A common caravan wagon.</Description>
+	</Item>
+	<Item id="104">
+		<Name type="string">Caravan Wagon, fancy</Name>
+		<Type type="Item_Type">8</Type>
+		<Cost type="Scale_Level">8</Cost>
+		<Description type="string">A fancy caravan wagon.</Description>
+	</Item>
+	<Item id="105">
+		<Name type="string">Carnival Mirror (standing)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">A standing carnival mirror.</Description>
+	</Item>
+	<Item id="106">
+		<Name type="string">Carnivorous Plant, common</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A common carnivorous plant to rid you of some pesky bugs.</Description>
+	</Item>
+	<Item id="107">
+		<Name type="string">Carriage</Name>
+		<Type type="Item_Type">8</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">A very fancy wagon.</Description>
+	</Item>
+	<Item id="108">
+		<Name type="string">Cart</Name>
+		<Type type="Item_Type">8</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A strong open vehicle with two or four wheels, typically used for carrying loads and pulled by an animal.</Description>
+	</Item>
+	<Item id="109">
+		<Name type="string">Case (map or scroll)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A case for a map or scroll.</Description>
+	</Item>
+	<Item id="110">
+		<Name type="string">Casket, common</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A common casket for a fallen friend or foe.</Description>
+	</Item>
+	<Item id="111">
+		<Name type="string">Casket, fancy</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A fancy casket for a fallen friend or foe.</Description>
+	</Item>
+	<Item id="112">
+		<Name type="string">Cat</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A feline for you to keep as a pet.</Description>
+	</Item>
+	<Item id="113">
+		<Name type="string">Cedar Chips</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">Some cedar chiplets.</Description>
+	</Item>
+	<Item id="114">
+		<Name type="string">Ceramic Mask</Name>
+		<Type type="Item_Type">5</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A ceramic mask for covering one's face.</Description>
+	</Item>
+	<Item id="115">
+		<Name type="string">Chain (10 ft)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A 10 foot long chain.</Description>
+	</Item>
+	<Item id="116">
+		<Name type="string">Chain Barding (Large)</Name>
+		<Type type="Item_Type">7</Type>
+		<Cost type="Scale_Level">7</Cost>
+		<Description type="string">A large chain covering intended to be defensive armor for a horse.</Description>
+	</Item>
+	<Item id="117">
+		<Name type="string">Chain Barding (Medium)</Name>
+		<Type type="Item_Type">7</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">A medium-sized chain covering intended to be defensive armor for a horse.</Description>
+	</Item>
+	<Item id="118">
+		<Name type="string">Chalk (1 piece)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">One piece of chalk.</Description>
+	</Item>
+	<Item id="119">
+		<Name type="string">Chamber Pot</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A chamber pot for when nature calls.</Description>
+	</Item>
+	<Item id="120">
+		<Name type="string">Cheese, hunk of</Name>
+		<Type type="Item_Type">4</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A hunk of cheese.</Description>
+	</Item>
+	<Item id="121">
+		<Name type="string">Chest (empty)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">An empty chest.</Description>
+	</Item>
+	<Item id="122">
+		<Name type="string">Chest of Drawers, common</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A common chest of drawers for storing clothes.</Description>
+	</Item>
+	<Item id="123">
+		<Name type="string">Chest of Drawers, fancy</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">5</Cost>
+		<Description type="string">A fancy chest of drawers for storing clothes.</Description>
+	</Item>
+	<Item id="124">
+		<Name type="string">Chest of Drawers, noble</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">A noble chest of drawers for storing clothes.</Description>
+	</Item>
+	<Item id="125">
+		<Name type="string">Chimney Brush Kit</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A kit for cleaning out one's chimney.</Description>
+	</Item>
+	<Item id="126">
+		<Name type="string">Chinchilla</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A small rodent with soft gray fur and a long bushy tail that you can keep as a pet.</Description>
+	</Item>
+	<Item id="127">
+		<Name type="string">Cider Press</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A press for crushing fruit, typically apples, to make cider.</Description>
+	</Item>
+	<Item id="128">
+		<Name type="string">Cider, gallon</Name>
+		<Type type="Item_Type">4</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A gallon of cider.</Description>
+	</Item>
+	<Item id="129">
+		<Name type="string">Cleric's Vestments</Name>
+		<Type type="Item_Type">5</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A cleric's robes for their church service.</Description>
+	</Item>
+	<Item id="130">
+		<Name type="string">Climber's Kit</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">5</Cost>
+		<Description type="string">A kit for mountain climbing.</Description>
+	</Item>
+	<Item id="131">
+		<Name type="string">Clockwork Toy</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A mechanical clock toy.</Description>
+	</Item>
+	<Item id="132">
+		<Name type="string">Cloth Dye (10yd), common</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">10 yards of common dyed cloth.</Description>
+	</Item>
+	<Item id="133">
+		<Name type="string">Cloth Dye (10yd), fancy</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">10 yards of fancy dyed cloth.</Description>
+	</Item>
+	<Item id="134">
+		<Name type="string">Clotting Paste (jar)</Name>
+		<Type type="Item_Type">2</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A jar of clothing paste.</Description>
+	</Item>
+	<Item id="135">
+		<Name type="string">Coal (5 lb)</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">5 pounds of coal.</Description>
+	</Item>
+	<Item id="136">
+		<Name type="string">Cocoa Beans</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">Some cocoa beans for making chocolate.</Description>
+	</Item>
+	<Item id="137">
+		<Name type="string">Coffee Beans</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">Some coffee beans for making coffee.</Description>
+	</Item>
+	<Item id="138">
+		<Name type="string">Cold Weather Outfit</Name>
+		<Type type="Item_Type">5</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">An outfit designed to keep you warm in the bitter cold.</Description>
+	</Item>
+	<Item id="139">
+		<Name type="string">Cookie Cutter</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A device with sharp edges for cutting cookie dough into a particular shape.</Description>
+	</Item>
+	<Item id="140">
+		<Name type="string">Cookies (dozen)</Name>
+		<Type type="Item_Type">4</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A dozen cookies.</Description>
+	</Item>
+	<Item id="141">
+		<Name type="string">Cooking Stone</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A portable cooking surface used in baking.</Description>
+	</Item>
+	<Item id="142">
+		<Name type="string">Cooking Utensils (set)</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A set of cooking utensils.</Description>
+	</Item>
+	<Item id="143">
+		<Name type="string">Cook's Knives (set)</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A set of cooking knives.</Description>
+	</Item>
+	<Item id="144">
+		<Name type="string">Cook's Table, medium</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A medium-sized cooking table.</Description>
+	</Item>
+	<Item id="145">
+		<Name type="string">Cook's Table, small</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A small cooking table.</Description>
+	</Item>
+	<Item id="146">
+		<Name type="string">Corkwood</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A shrub or tree that yields light porous timber.</Description>
+	</Item>
+	<Item id="147">
+		<Name type="string">Corn, feed quality</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">Corn that can be used as feed for animals.</Description>
+	</Item>
+	<Item id="148">
+		<Name type="string">Cosmetics/Theater Makeup Kit</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A makeup kit used for making oneself look fancy.</Description>
+	</Item>
+	<Item id="149">
+		<Name type="string">Cough Sweets</Name>
+		<Type type="Item_Type">4</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A medicated lozenge sucked to relieve a cough or sore throat, a cough drop.</Description>
+	</Item>
+	<Item id="150">
+		<Name type="string">Courtier's Outfit</Name>
+		<Type type="Item_Type">5</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">An outfit for a companion of or an advisor to the king or queen.</Description>
+	</Item>
+	<Item id="151">
+		<Name type="string">Covered Cart</Name>
+		<Type type="Item_Type">8</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A cart with a covering to hide what is inside.</Description>
+	</Item>
+	<Item id="152">
+		<Name type="string">Crab Trap</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A trapping device designed to catch crabs.</Description>
+	</Item>
+	<Item id="153">
+		<Name type="string">Craftsman's Paint (5 gal)</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A 5 gallon jug of paint intended for a craftsman.</Description>
+	</Item>
+	<Item id="154">
+		<Name type="string">Cricket Box, stone</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A stone cricket box.</Description>
+	</Item>
+	<Item id="155">
+		<Name type="string">Cricket Box, wooden</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A wooden cricket box.</Description>
+	</Item>
+	<Item id="156">
+		<Name type="string">Crowbar</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">An iron bar with a flattened end, used as a lever.</Description>
+	</Item>
+	<Item id="157">
+		<Name type="string">Curtains, common</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A typical set of curtains.</Description>
+	</Item>
+	<Item id="158">
+		<Name type="string">Curtains, fancy</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A fancy set of curtains.</Description>
+	</Item>
+	<Item id="159">
+		<Name type="string">Curtains, grand</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A grand set of curtains.</Description>
+	</Item>
+	<Item id="160">
+		<Name type="string">Dandelion Wine (pitcher)</Name>
+		<Type type="Item_Type">4</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A pitcher of dandelion wine.</Description>
+	</Item>
+	<Item id="161">
+		<Name type="string">Dart Board</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A dart board for a game of darts.</Description>
+	</Item>
+	<Item id="162">
+		<Name type="string">Decorative Plant, common</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A standard decorative plant.</Description>
+	</Item>
+	<Item id="163">
+		<Name type="string">Decorative Plant, fancy</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A fancy decorative plant.</Description>
+	</Item>
+	<Item id="164">
+		<Name type="string">Decorative Plant, rare/exotic</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A rare, exotic decorative plant.</Description>
+	</Item>
+	<Item id="165">
+		<Name type="string">Dice, ivory (pair)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A pair of ivory dice.</Description>
+	</Item>
+	<Item id="166">
+		<Name type="string">Dice, jade (pair)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A pair of jade dice.</Description>
+	</Item>
+	<Item id="167">
+		<Name type="string">Dice, wooden (pair)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A pair of wooden dice.</Description>
+	</Item>
+	<Item id="168">
+		<Name type="string">Didjeridoo (common)</Name>
+		<Type type="Item_Type">9</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A standard wind instrument in the form of a long wooden tube which is blown to produce a deep, resonant sound.</Description>
+	</Item>
+	<Item id="169">
+		<Name type="string">Didjeridoo (masterwork)</Name>
+		<Type type="Item_Type">9</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">A masterwork wind instrument in the form of a long wooden tube which is blown to produce a deep, resonant sound.</Description>
+	</Item>
+	<Item id="170">
+		<Name type="string">Dining Chair, common</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A standard dining chair.</Description>
+	</Item>
+	<Item id="171">
+		<Name type="string">Dining Chair, fancy</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A fancy dining chair.</Description>
+	</Item>
+	<Item id="172">
+		<Name type="string">Dining Table, common</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A common dining table.</Description>
+	</Item>
+	<Item id="173">
+		<Name type="string">Dining Table, fancy</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">5</Cost>
+		<Description type="string">A fancy dining table.</Description>
+	</Item>
+	<Item id="174">
+		<Name type="string">Disguise Kit</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">5</Cost>
+		<Description type="string">A kit for disguising oneself for whatever reason.</Description>
+	</Item>
+	<Item id="175">
+		<Name type="string">Distilled Spirits, half gallon</Name>
+		<Type type="Item_Type">4</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A half gallon of Distilled Spirits. Drink up, kids!</Description>
+	</Item>
+	<Item id="176">
+		<Name type="string">Dog, guard</Name>
+		<Type type="Item_Type">7</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A guard dog for protection.</Description>
+	</Item>
+	<Item id="177">
+		<Name type="string">Dog, riding</Name>
+		<Type type="Item_Type">7</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">A dog that can be used as transportation.</Description>
+	</Item>
+	<Item id="178">
+		<Name type="string">Dominos (set)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A set of dominos.</Description>
+	</Item>
+	<Item id="179">
+		<Name type="string">Donkey or Mule</Name>
+		<Type type="Item_Type">7</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A donkey or mule that you can use to pull your wagons or carts.</Description>
+	</Item>
+	<Item id="180">
+		<Name type="string">Dresser (standing), common</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A standard standing dresser.</Description>
+	</Item>
+	<Item id="181">
+		<Name type="string">Dresser (standing), fancy</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A fancy standing dresser.</Description>
+	</Item>
+	<Item id="182">
+		<Name type="string">Dried Herbs, common</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">Some common dried herbs.</Description>
+	</Item>
+	<Item id="183">
+		<Name type="string">Dried Herbs, rare/import</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">Some rare imported dried herbs.</Description>
+	</Item>
+	<Item id="184">
+		<Name type="string">Dried Herbs, uncommon</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">Some uncommon dried herbs.</Description>
+	</Item>
+	<Item id="185">
+		<Name type="string">Drying Towel</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A towel used for drying off oneself.</Description>
+	</Item>
+	<Item id="186">
+		<Name type="string">Duck</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A waterbird that you can eat or keep as a pet.</Description>
+	</Item>
+	<Item id="187">
+		<Name type="string">Eating Utensils, common</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">Some common eating utensils.</Description>
+	</Item>
+	<Item id="188">
+		<Name type="string">Eating Utensils, fancy</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">Some fancy eating utensils.</Description>
+	</Item>
+	<Item id="189">
+		<Name type="string">Eggs, dozen</Name>
+		<Type type="Item_Type">4</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A dozen eggs.</Description>
+	</Item>
+	<Item id="190">
+		<Name type="string">Entertainer's Outfit</Name>
+		<Type type="Item_Type">5</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">An outfit for an entertainer trying to please his/her audience.</Description>
+	</Item>
+	<Item id="191">
+		<Name type="string">Essential Oils, vial</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A vial of essential oils.</Description>
+	</Item>
+	<Item id="192">
+		<Name type="string">Everburning Torch</Name>
+		<Type type="Item_Type">2</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">A long-lasting torch.</Description>
+	</Item>
+	<Item id="193">
+		<Name type="string">Explorer's Outfit</Name>
+		<Type type="Item_Type">5</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">An outfit for an intrepid explorer.</Description>
+	</Item>
+	<Item id="194">
+		<Name type="string">Eye Patch, common</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A standard eye patch.</Description>
+	</Item>
+	<Item id="195">
+		<Name type="string">Eye Patch, fancy</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A fancy eye patch.</Description>
+	</Item>
+	<Item id="196">
+		<Name type="string">Farmer's Tools</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A set of tools for tending to a farm.</Description>
+	</Item>
+	<Item id="197">
+		<Name type="string">Feed (per day)</Name>
+		<Type type="Item_Type">7</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A sack of feed that should last a full day.</Description>
+	</Item>
+	<Item id="198">
+		<Name type="string">Ferret</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A domesticated polecat kept as a pet or used for catching rabbits.</Description>
+	</Item>
+	<Item id="199">
+		<Name type="string">Festival Costume, common</Name>
+		<Type type="Item_Type">5</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A common festival costume.</Description>
+	</Item>
+	<Item id="200">
+		<Name type="string">Festival Costume, fancy</Name>
+		<Type type="Item_Type">5</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A fancy festival costume.</Description>
+	</Item>
+	<Item id="201">
+		<Name type="string">Fife (common)</Name>
+		<Type type="Item_Type">9</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A common small shrill flute.</Description>
+	</Item>
+	<Item id="202">
+		<Name type="string">Fife (masterwork)</Name>
+		<Type type="Item_Type">9</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">A masterwork small shrill flute.</Description>
+	</Item>
+	<Item id="203">
+		<Name type="string">Filling Putty (vial, 4 uses)</Name>
+		<Type type="Item_Type">2</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A vial of filling putty that is good for 4 uses.</Description>
+	</Item>
+	<Item id="204">
+		<Name type="string">Firewood (per day)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A bundle of firewood that should last you a full day.</Description>
+	</Item>
+	<Item id="205">
+		<Name type="string">Fish, pet (6)</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">6 fish that you can keep as pets.</Description>
+	</Item>
+	<Item id="206">
+		<Name type="string">Fishbowl</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A bowl that you can use to house your pet fish.</Description>
+	</Item>
+	<Item id="207">
+		<Name type="string">Fishhook</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A hook that goes on the end of a fishing line for catching fish.</Description>
+	</Item>
+	<Item id="208">
+		<Name type="string">Fishing Net (25 sq ft)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A 25 square foot fishing net for catching a lot of fish.</Description>
+	</Item>
+	<Item id="209">
+		<Name type="string">Fizzle Stones (12)</Name>
+		<Type type="Item_Type">2</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">12 fizzle stones for starting fires.</Description>
+	</Item>
+	<Item id="210">
+		<Name type="string">Flask (empty)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">An empty flask.</Description>
+	</Item>
+	<Item id="211">
+		<Name type="string">Flint and Steel</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A flint and steel for starting fires.</Description>
+	</Item>
+	<Item id="212">
+		<Name type="string">Flint Chips (12)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">12 flint chips.</Description>
+	</Item>
+	<Item id="213">
+		<Name type="string">Flower Bouquet</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A beautiful bouquet of flowers.</Description>
+	</Item>
+	<Item id="214">
+		<Name type="string">Flower Pot, common</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A typical flower pot for holding one's flowers.</Description>
+	</Item>
+	<Item id="215">
+		<Name type="string">Foot Massager, wooden</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A wooden foot massager for one's feet.</Description>
+	</Item>
+	<Item id="216">
+		<Name type="string">Foot Stool, common</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A common foot stool for proping up one's feet.</Description>
+	</Item>
+	<Item id="217">
+		<Name type="string">Foot Stool, fancy</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A fancy foot stool for proping up one's feet.</Description>
+	</Item>
+	<Item id="218">
+		<Name type="string">Fortified Malt Brew, gallon</Name>
+		<Type type="Item_Type">4</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A gallon of Fortified Malt Brew. Refreshing!</Description>
+	</Item>
+	<Item id="219">
+		<Name type="string">Fortified Wine, pitcher</Name>
+		<Type type="Item_Type">4</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A pitcher of Fortified Wine.</Description>
+	</Item>
+	<Item id="220">
+		<Name type="string">Fortune Wheel, wooden</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A wooden fortune wheel.</Description>
+	</Item>
+	<Item id="221">
+		<Name type="string">Four Leaf Clover</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A four leaf clover. Expect good luck as long as you hold it.</Description>
+	</Item>
+	<Item id="222">
+		<Name type="string">Fruit Pie (freshly baked)</Name>
+		<Type type="Item_Type">4</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A freshly baked fruit pie.</Description>
+	</Item>
+	<Item id="223">
+		<Name type="string">Fruit, fresh, common</Name>
+		<Type type="Item_Type">4</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">Some common fresh fruit.</Description>
+	</Item>
+	<Item id="224">
+		<Name type="string">Fruit, fresh, uncommon</Name>
+		<Type type="Item_Type">4</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">Some uncommon fresh fruit.</Description>
+	</Item>
+	<Item id="225">
+		<Name type="string">Full Plate Barding (Large)</Name>
+		<Type type="Item_Type">7</Type>
+		<Cost type="Scale_Level">8</Cost>
+		<Description type="string">A large plate covering intended to be defensive armor for a horse.</Description>
+	</Item>
+	<Item id="226">
+		<Name type="string">Full Plate Barding (Medium)</Name>
+		<Type type="Item_Type">7</Type>
+		<Cost type="Scale_Level">8</Cost>
+		<Description type="string">A medium-sized plate covering intended to be provides defensive armor for a horse.</Description>
+	</Item>
+	<Item id="227">
+		<Name type="string">Galley</Name>
+		<Type type="Item_Type">8</Type>
+		<Cost type="Scale_Level">9</Cost>
+		<Description type="string">A low, flat ship with one or more sails and up to three banks of oars.</Description>
+	</Item>
+	<Item id="228">
+		<Name type="string">Gaming Table</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A gaming table for playing fun games like this one. *wink*</Description>
+	</Item>
+	<Item id="229">
+		<Name type="string">Garment Hook, brass</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A brass decorative clothing accessory.</Description>
+	</Item>
+	<Item id="230">
+		<Name type="string">Garment Hook, wooden</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A wooden decorative clothing accessory.</Description>
+	</Item>
+	<Item id="231">
+		<Name type="string">Gem Eye, common</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A common gem eye.</Description>
+	</Item>
+	<Item id="232">
+		<Name type="string">Gem Eye, fancy</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">5</Cost>
+		<Description type="string">A fancy gem eye.</Description>
+	</Item>
+	<Item id="233">
+		<Name type="string">Gerbil (pair)</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A pair of gerbils that you can keep as pets.</Description>
+	</Item>
+	<Item id="234">
+		<Name type="string">Ginseng Root</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">The root of a perennial herb.</Description>
+	</Item>
+	<Item id="235">
+		<Name type="string">Glass Beads (24)</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">24 glass beads.</Description>
+	</Item>
+	<Item id="236">
+		<Name type="string">Glass Eye, common</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A typical glass eye to replace a real one.</Description>
+	</Item>
+	<Item id="237">
+		<Name type="string">Glass Eye, fancy</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A fancy glass eye to replace a real one.</Description>
+	</Item>
+	<Item id="238">
+		<Name type="string">Glass Orb</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A glass sphere.</Description>
+	</Item>
+	<Item id="239">
+		<Name type="string">Gloves, cloth</Name>
+		<Type type="Item_Type">5</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A pair of cloth gloves.</Description>
+	</Item>
+	<Item id="240">
+		<Name type="string">Gloves, fancy</Name>
+		<Type type="Item_Type">5</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A pair of fancy gloves.</Description>
+	</Item>
+	<Item id="241">
+		<Name type="string">Gloves, light leather</Name>
+		<Type type="Item_Type">5</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A pair of light leather gloves.</Description>
+	</Item>
+	<Item id="242">
+		<Name type="string">Glue, Artisan (gallon)</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A gallon of glue for a skilled worker.</Description>
+	</Item>
+	<Item id="243">
+		<Name type="string">Gnomish Crank Whistle</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A tiny whistle, intended for a gnome.</Description>
+	</Item>
+	<Item id="244">
+		<Name type="string">Gnomish Cukoo Clock, fancy</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">8</Cost>
+		<Description type="string">A tiny fancy cukoo clock, intended for a gnome.</Description>
+	</Item>
+	<Item id="245">
+		<Name type="string">Gnomish Cukoo Clock, royal</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">8</Cost>
+		<Description type="string">A tiny royal cukoo clock, intended for a gnome.</Description>
+	</Item>
+	<Item id="246">
+		<Name type="string">Gnomish Cutting Shears</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">5</Cost>
+		<Description type="string">Cutting shears, intended for a gnome.</Description>
+	</Item>
+	<Item id="247">
+		<Name type="string">Gnomish Fire Crank</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A fire crank, intended for a gnome.</Description>
+	</Item>
+	<Item id="248">
+		<Name type="string">Gnomish Gear Clock</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">8</Cost>
+		<Description type="string">A mechanical gear clock, intended for a gnome.</Description>
+	</Item>
+	<Item id="249">
+		<Name type="string">Gnomish Heat Lantern</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A heat lantern, intended for a gnome.</Description>
+	</Item>
+	<Item id="250">
+		<Name type="string">Goblet, glass</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A goblet made of glass.</Description>
+	</Item>
+	<Item id="251">
+		<Name type="string">Goblet, pewter</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A goblet made of pewter.</Description>
+	</Item>
+	<Item id="252">
+		<Name type="string">Goose</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A large waterbird with a long neck, short legs, webbed feet, and a short broad bill.</Description>
+	</Item>
+	<Item id="253">
+		<Name type="string">Grape Vine (small)</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A small grape vine.</Description>
+	</Item>
+	<Item id="254">
+		<Name type="string">Grappling Hook</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A grappling hook for latching on to something far away.</Description>
+	</Item>
+	<Item id="255">
+		<Name type="string">Guinea Pig</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A domesticated, tailless cavy, originally raised for food.</Description>
+	</Item>
+	<Item id="256">
+		<Name type="string">Hair and Body Soap (flask)</Name>
+		<Type type="Item_Type">2</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A flask of soap for one's body and hair.</Description>
+	</Item>
+	<Item id="257">
+		<Name type="string">Hair Brush</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A brush for one's hair.</Description>
+	</Item>
+	<Item id="258">
+		<Name type="string">Hair Comb</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A comb for one's hair.</Description>
+	</Item>
+	<Item id="259">
+		<Name type="string">Hair Dye (1 use)</Name>
+		<Type type="Item_Type">2</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A vial of hair dye that is good for one use.</Description>
+	</Item>
+	<Item id="260">
+		<Name type="string">Hair Removal Ointment</Name>
+		<Type type="Item_Type">2</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">An ointment that is intended for hair removal.</Description>
+	</Item>
+	<Item id="261">
+		<Name type="string">Hammer</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A tool with a heavy metal head mounted at right angles at the end of a handle.</Description>
+	</Item>
+	<Item id="262">
+		<Name type="string">Hamster (mated pair)</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A mated pair of hamsters.</Description>
+	</Item>
+	<Item id="263">
+		<Name type="string">Hat/Headpiece, commoner's</Name>
+		<Type type="Item_Type">5</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">The typical hat/headpiece for a commoner.</Description>
+	</Item>
+	<Item id="264">
+		<Name type="string">Hat/Headpiece, fancy</Name>
+		<Type type="Item_Type">5</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A fancy hat/headpiece for those who want to stand out.</Description>
+	</Item>
+	<Item id="265">
+		<Name type="string">Healer's Kit</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">5</Cost>
+		<Description type="string">A complete kit for healing a person.</Description>
+	</Item>
+	<Item id="266">
+		<Name type="string">Hearth Tools</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A set of tools for managing anything in a fireplace.</Description>
+	</Item>
+	<Item id="267">
+		<Name type="string">Hide Blanket, common</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A common blanket made out of hide.</Description>
+	</Item>
+	<Item id="268">
+		<Name type="string">Hide Blanket, fancy</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A fancy blanket made out of hide.</Description>
+	</Item>
+	<Item id="269">
+		<Name type="string">Holy Symbol (Silver)</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A silver holy symbol to represent one's faith.</Description>
+	</Item>
+	<Item id="270">
+		<Name type="string">Holy Symbol (Wooden)</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A wooden holy symbol to represent one's faith.</Description>
+	</Item>
+	<Item id="271">
+		<Name type="string">Holy Water (flask)</Name>
+		<Type type="Item_Type">2</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A flask of holy water.</Description>
+	</Item>
+	<Item id="272">
+		<Name type="string">Honey</Name>
+		<Type type="Item_Type">4</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A vat of honey.</Description>
+	</Item>
+	<Item id="273">
+		<Name type="string">Hookah</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A tobacco pipe with a long, flexible tube that draws the smoke through water contained in a bowl.</Description>
+	</Item>
+	<Item id="274">
+		<Name type="string">Horse, heavy</Name>
+		<Type type="Item_Type">7</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">A heavyweight horse.</Description>
+	</Item>
+	<Item id="275">
+		<Name type="string">Horse, light</Name>
+		<Type type="Item_Type">7</Type>
+		<Cost type="Scale_Level">5</Cost>
+		<Description type="string">A lightweight horse.</Description>
+	</Item>
+	<Item id="276">
+		<Name type="string">Hot Toffee Apple</Name>
+		<Type type="Item_Type">4</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A hot toffee apple for your sweet tooth.</Description>
+	</Item>
+	<Item id="277">
+		<Name type="string">Hourglass</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">An hourglass for keeping track of time.</Description>
+	</Item>
+	<Item id="278">
+		<Name type="string">Hourglass (1 day)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">An hourglass that has enough sand to last a full day.</Description>
+	</Item>
+	<Item id="279">
+		<Name type="string">Hourglass (1 hour)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">An hourglass that has enough sand to last a full hour.</Description>
+	</Item>
+	<Item id="280">
+		<Name type="string">House Slippers</Name>
+		<Type type="Item_Type">5</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A pair of house slippers.</Description>
+	</Item>
+	<Item id="281">
+		<Name type="string">Hurdy Gurdy (common)</Name>
+		<Type type="Item_Type">9</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A common musical instrument with a droning sound played by turning a handle, which is typically attached to a rosined wheel sounding a series of drone strings, with keys worked by the left hand.</Description>
+	</Item>
+	<Item id="282">
+		<Name type="string">Hurdy Gurdy (masterwork)</Name>
+		<Type type="Item_Type">9</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">A masterwork musical instrument with a droning sound played by turning a handle, which is typically attached to a rosined wheel sounding a series of drone strings, with keys worked by the left hand.</Description>
+	</Item>
+	<Item id="283">
+		<Name type="string">Ink (1 oz vial)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A 1 ounce vial of ink for writing.</Description>
+	</Item>
+	<Item id="284">
+		<Name type="string">Ink Pen</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A pen used for writing.</Description>
+	</Item>
+	<Item id="285">
+		<Name type="string">Iron Bed</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">A bed with an iron frame.</Description>
+	</Item>
+	<Item id="286">
+		<Name type="string">Itching Powder (1 vial)</Name>
+		<Type type="Item_Type">2</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A vial of itching powder.</Description>
+	</Item>
+	<Item id="287">
+		<Name type="string">Ivy Vine (small)</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A small ivy vine.</Description>
+	</Item>
+	<Item id="288">
+		<Name type="string">Jam</Name>
+		<Type type="Item_Type">4</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A jar of jam.</Description>
+	</Item>
+	<Item id="289">
+		<Name type="string">Jug, clay</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A jug made out of clay.</Description>
+	</Item>
+	<Item id="290">
+		<Name type="string">Juggler's Balls, wooden</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A wooden set of juggler's balls.</Description>
+	</Item>
+	<Item id="291">
+		<Name type="string">Kaleidoscope, carnival</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">A carnival style kaleidoscope.</Description>
+	</Item>
+	<Item id="292">
+		<Name type="string">Kaleidoscope, common</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A typical kaleidoscope.</Description>
+	</Item>
+	<Item id="293">
+		<Name type="string">Kaleidoscope, fancy</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">5</Cost>
+		<Description type="string">A fancy kaleidoscope.</Description>
+	</Item>
+	<Item id="294">
+		<Name type="string">Keelboat</Name>
+		<Type type="Item_Type">8</Type>
+		<Cost type="Scale_Level">8</Cost>
+		<Description type="string">A yacht built with a permanent keel rather than a centerboard.</Description>
+	</Item>
+	<Item id="295">
+		<Name type="string">Kettle</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A container or device in which water is boiled, having a lid, spout, and handle.</Description>
+	</Item>
+	<Item id="296">
+		<Name type="string">Kudzu Vine (small)</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A small kudzu vine. Warning: It will not stay small for very long.</Description>
+	</Item>
+	<Item id="297">
+		<Name type="string">Ladder (10 ft)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A 10 foot long ladder.</Description>
+	</Item>
+	<Item id="298">
+		<Name type="string">Lamp (common)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A common lamp.</Description>
+	</Item>
+	<Item id="299">
+		<Name type="string">Lantern (Bullseye)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A bullseye lantern.</Description>
+	</Item>
+	<Item id="300">
+		<Name type="string">Lantern (Hooded)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A hooded lantern.</Description>
+	</Item>
+	<Item id="301">
+		<Name type="string">Lard</Name>
+		<Type type="Item_Type">4</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A vat of lard.</Description>
+	</Item>
+	<Item id="302">
+		<Name type="string">Leather Ball, straw stuffed</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A straw stuffed leather ball.</Description>
+	</Item>
+	<Item id="303">
+		<Name type="string">Leather Barding (Large)</Name>
+		<Type type="Item_Type">7</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A large leather covering intended to be defensive armor for a horse.</Description>
+	</Item>
+	<Item id="304">
+		<Name type="string">Leather Barding (Medium)</Name>
+		<Type type="Item_Type">7</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A medium-sized leather covering intended to be defensive armor for a horse.</Description>
+	</Item>
+	<Item id="305">
+		<Name type="string">Leather Cord (10 ft)</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A 10 foot leather cord.</Description>
+	</Item>
+	<Item id="306">
+		<Name type="string">Leather Mask, common</Name>
+		<Type type="Item_Type">5</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A common leather mask.</Description>
+	</Item>
+	<Item id="307">
+		<Name type="string">Leather Mask, fine quality</Name>
+		<Type type="Item_Type">5</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A leather mask of rather fine quality.</Description>
+	</Item>
+	<Item id="308">
+		<Name type="string">Lice and Flea Soap (flask)</Name>
+		<Type type="Item_Type">2</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A flask of soap to rid oneself or one's pet of lice and fleas.</Description>
+	</Item>
+	<Item id="309">
+		<Name type="string">Lip Wax</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">Some wax for one's lips.</Description>
+	</Item>
+	<Item id="310">
+		<Name type="string">Lizard, pet, fancy</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A fancy pet lizard.</Description>
+	</Item>
+	<Item id="311">
+		<Name type="string">Llama</Name>
+		<Type type="Item_Type">8</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A domesticated pack animal of the camel family, valued for its soft woolly fleece.</Description>
+	</Item>
+	<Item id="312">
+		<Name type="string">Lock (Amazing)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">An outstanding lock.</Description>
+	</Item>
+	<Item id="313">
+		<Name type="string">Lock (Average)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">An average lock.</Description>
+	</Item>
+	<Item id="314">
+		<Name type="string">Lock (Good)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">5</Cost>
+		<Description type="string">A fine lock.</Description>
+	</Item>
+	<Item id="315">
+		<Name type="string">Lock (Very Simple)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A very simple lock.</Description>
+	</Item>
+	<Item id="316">
+		<Name type="string">Loincloth</Name>
+		<Type type="Item_Type">5</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A single piece of cloth wrapped round the hips.</Description>
+	</Item>
+	<Item id="317">
+		<Name type="string">Longship</Name>
+		<Type type="Item_Type">8</Type>
+		<Cost type="Scale_Level">9</Cost>
+		<Description type="string">A long, narrow warship, powered by both oar and sail.</Description>
+	</Item>
+	<Item id="318">
+		<Name type="string">Lumber Axe</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">An axe used for chopping down trees.</Description>
+	</Item>
+	<Item id="319">
+		<Name type="string">Lumber Saw</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A saw used for cutting down trees.</Description>
+	</Item>
+	<Item id="320">
+		<Name type="string">Lute (common)</Name>
+		<Type type="Item_Type">9</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A common plucked stringed instrument with a long neck bearing frets and a rounded body with a flat front that is shaped like a halved egg.</Description>
+	</Item>
+	<Item id="321">
+		<Name type="string">Lute (masterwork)</Name>
+		<Type type="Item_Type">9</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">A masterwork plucked stringed instrument with a long neck bearing frets and a rounded body with a flat front that is shaped like a halved egg.</Description>
+	</Item>
+	<Item id="322">
+		<Name type="string">Magnifying Glass</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">A lens that produces an enlarged image and can be used to magnify the suns light.</Description>
+	</Item>
+	<Item id="323">
+		<Name type="string">Mahjong Tiles, set</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A set of Mahjong tiles for playing Mahjong.</Description>
+	</Item>
+	<Item id="324">
+		<Name type="string">Manacles</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A metal band, chain, or shackle for fastening someone's hands or ankles.</Description>
+	</Item>
+	<Item id="325">
+		<Name type="string">Manacles (masterwork)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">5</Cost>
+		<Description type="string">A masterwork metal band, chain, or shackle for fastening someone's hands or ankles.</Description>
+	</Item>
+	<Item id="326">
+		<Name type="string">Mandolin (common)</Name>
+		<Type type="Item_Type">9</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A common musical instrument resembling a lute, having paired metal strings plucked with a plectrum.</Description>
+	</Item>
+	<Item id="327">
+		<Name type="string">Mandolin (masterwork)</Name>
+		<Type type="Item_Type">9</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">A masterwork musical instrument resembling a lute, having paired metal strings plucked with a plectrum.</Description>
+	</Item>
+	<Item id="328">
+		<Name type="string">Master's Chair, common</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A common Master's chair.</Description>
+	</Item>
+	<Item id="329">
+		<Name type="string">Master's Chair, fancy</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">A fancy Master's chair.</Description>
+	</Item>
+	<Item id="330">
+		<Name type="string">Mat, Feather</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A mat made of feathers.</Description>
+	</Item>
+	<Item id="331">
+		<Name type="string">Mat, Straw</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A mat made of straw.</Description>
+	</Item>
+	<Item id="332">
+		<Name type="string">Maze Board (w/ marble)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A maze board that comes with a marble.</Description>
+	</Item>
+	<Item id="333">
+		<Name type="string">Mead, gallon</Name>
+		<Type type="Item_Type">4</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A gallon of mead.</Description>
+	</Item>
+	<Item id="334">
+		<Name type="string">Meat Grinder</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A machine for mincing meat.</Description>
+	</Item>
+	<Item id="335">
+		<Name type="string">Meat Grinder, Gnomish</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A machine for mincing meat, intended for a gnome.</Description>
+	</Item>
+	<Item id="336">
+		<Name type="string">Meat, chunk of</Name>
+		<Type type="Item_Type">4</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A chunk of meat.</Description>
+	</Item>
+	<Item id="337">
+		<Name type="string">Meat, exotic/rare (chunk)</Name>
+		<Type type="Item_Type">4</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A chunk of rare, exotic meat.</Description>
+	</Item>
+	<Item id="338">
+		<Name type="string">Meat, inferior (chunk)</Name>
+		<Type type="Item_Type">4</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">An inferior chunk of meat.</Description>
+	</Item>
+	<Item id="339">
+		<Name type="string">Merchant's Table, foldable</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A foldable merchant's table.</Description>
+	</Item>
+	<Item id="340">
+		<Name type="string">Metal Face Mask</Name>
+		<Type type="Item_Type">5</Type>
+		<Cost type="Scale_Level">5</Cost>
+		<Description type="string">A face mask made of metal.</Description>
+	</Item>
+	<Item id="341">
+		<Name type="string">Mice, fancy (pair)</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A fancy pair of mice.</Description>
+	</Item>
+	<Item id="342">
+		<Name type="string">Milk, pitcher</Name>
+		<Type type="Item_Type">4</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A pitcher of milk.</Description>
+	</Item>
+	<Item id="343">
+		<Name type="string">Mink</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A small, semiaquatic, stoatlike carnivore, commonly farmed for its fur.</Description>
+	</Item>
+	<Item id="344">
+		<Name type="string">Mirror (small steel)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A small steel mirror for those on the move.</Description>
+	</Item>
+	<Item id="345">
+		<Name type="string">Mittens, wool</Name>
+		<Type type="Item_Type">5</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A pair of wool mittens.</Description>
+	</Item>
+	<Item id="346">
+		<Name type="string">Molasses</Name>
+		<Type type="Item_Type">4</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A vat of molasses.</Description>
+	</Item>
+	<Item id="347">
+		<Name type="string">Mongoose</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A small carnivorous mammal with a long body and tail and a grizzled or banded coat.</Description>
+	</Item>
+	<Item id="348">
+		<Name type="string">Monkey</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A small to medium-sized primate that typically has a long tail.</Description>
+	</Item>
+	<Item id="349">
+		<Name type="string">Monk's Outfit</Name>
+		<Type type="Item_Type">5</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">An outfit for a pious man.</Description>
+	</Item>
+	<Item id="350">
+		<Name type="string">Mood Stone Headpiece</Name>
+		<Type type="Item_Type">2</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A mood stone headpiece.</Description>
+	</Item>
+	<Item id="351">
+		<Name type="string">Mood Stone Orb</Name>
+		<Type type="Item_Type">2</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A mood stone sphere.</Description>
+	</Item>
+	<Item id="352">
+		<Name type="string">Mood Stone Pendant</Name>
+		<Type type="Item_Type">2</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A mood stone pendant.</Description>
+	</Item>
+	<Item id="353">
+		<Name type="string">Mood Stone Ring</Name>
+		<Type type="Item_Type">2</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A mood stone ring.</Description>
+	</Item>
+	<Item id="354">
+		<Name type="string">Moon Calendar, stone</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A moon calendar made of stone.</Description>
+	</Item>
+	<Item id="355">
+		<Name type="string">Moon Calendar, wooden</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A moon calendar made of wood.</Description>
+	</Item>
+	<Item id="356">
+		<Name type="string">Mop</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A mop for cleaning one's floors.</Description>
+	</Item>
+	<Item id="357">
+		<Name type="string">Mouse Trap</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A trap intended to catch mice.</Description>
+	</Item>
+	<Item id="358">
+		<Name type="string">Mouth Soap (12)</Name>
+		<Type type="Item_Type">2</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">12 mouth soaps.</Description>
+	</Item>
+	<Item id="359">
+		<Name type="string">Mug/Tankard (clay)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A mug/tankard made of clay.</Description>
+	</Item>
+	<Item id="360">
+		<Name type="string">Mug/Tankard, pewter</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A mug/tankard made of pewter.</Description>
+	</Item>
+	<Item id="361">
+		<Name type="string">Mushrooms, edible</Name>
+		<Type type="Item_Type">4</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">Some edible mushrooms.</Description>
+	</Item>
+	<Item id="362">
+		<Name type="string">Music Box (common)</Name>
+		<Type type="Item_Type">9</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A standard music box.</Description>
+	</Item>
+	<Item id="363">
+		<Name type="string">Music Box (masterwork)</Name>
+		<Type type="Item_Type">9</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">A masterwork music box.</Description>
+	</Item>
+	<Item id="364">
+		<Name type="string">Musical Instrument (common)</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A common musical instrument.</Description>
+	</Item>
+	<Item id="365">
+		<Name type="string">Musical Instrument (masterwork)</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">A masterwork musical instrument.</Description>
+	</Item>
+	<Item id="366">
+		<Name type="string">Nails (100)</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A pouch of 100 nails.</Description>
+	</Item>
+	<Item id="367">
+		<Name type="string">Newts (6)</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A pouch of 6 newts.</Description>
+	</Item>
+	<Item id="368">
+		<Name type="string">Noble's Outfit</Name>
+		<Type type="Item_Type">5</Type>
+		<Cost type="Scale_Level">5</Cost>
+		<Description type="string">An outfit for a noble.</Description>
+	</Item>
+	<Item id="369">
+		<Name type="string">Nutcracker, fancy</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A fancy nutcracker.</Description>
+	</Item>
+	<Item id="370">
+		<Name type="string">Nutcracker, ordinary</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">An ordinary nutcracker.</Description>
+	</Item>
+	<Item id="371">
+		<Name type="string">Nuts, common (in shell)</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">Some common nuts that are still in their shells.</Description>
+	</Item>
+	<Item id="372">
+		<Name type="string">Nuts, uncommon (in shell)</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">Some uncommon nuts that are still in their shells.</Description>
+	</Item>
+	<Item id="373">
+		<Name type="string">Oar</Name>
+		<Type type="Item_Type">8</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A pole with a flat blade, pivoting in an oar lock, used to row or steer a boat through the water.</Description>
+	</Item>
+	<Item id="374">
+		<Name type="string">Oil (1 pint flask)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A 1 pint flask of oil.</Description>
+	</Item>
+	<Item id="375">
+		<Name type="string">Olive oil, flask</Name>
+		<Type type="Item_Type">4</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A flask of Olive oil.</Description>
+	</Item>
+	<Item id="376">
+		<Name type="string">Organ Box (common)</Name>
+		<Type type="Item_Type">9</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A common organ box.</Description>
+	</Item>
+	<Item id="377">
+		<Name type="string">Organ Box (fancy)</Name>
+		<Type type="Item_Type">9</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A fancy organ box.</Description>
+	</Item>
+	<Item id="378">
+		<Name type="string">Organ Box (masterwork)</Name>
+		<Type type="Item_Type">9</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">A masterwork organ box.</Description>
+	</Item>
+	<Item id="379">
+		<Name type="string">Ox</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A domesticated bovine animal kept for milk, meat, or pulling carts.</Description>
+	</Item>
+	<Item id="380">
+		<Name type="string">Padded Chair, common</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A typical padded chair.</Description>
+	</Item>
+	<Item id="381">
+		<Name type="string">Padded Chair, fancy</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A fancy padded chair.</Description>
+	</Item>
+	<Item id="382">
+		<Name type="string">Paper (sheet)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A sheet of paper.</Description>
+	</Item>
+	<Item id="383">
+		<Name type="string">Parchment (sheet)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A sheet of parchment.</Description>
+	</Item>
+	<Item id="384">
+		<Name type="string">Peacock</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A male peafowl, which has very long tail feathers that have eyelike markings.</Description>
+	</Item>
+	<Item id="385">
+		<Name type="string">Peasant's Outfit</Name>
+		<Type type="Item_Type">5</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">An outfit that is commonly worn by a peasant.</Description>
+	</Item>
+	<Item id="386">
+		<Name type="string">Peg Leg, wooden</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A wooden peg leg to replace a real one.</Description>
+	</Item>
+	<Item id="387">
+		<Name type="string">Pelt, common (large)</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A large common pelt.</Description>
+	</Item>
+	<Item id="388">
+		<Name type="string">Pelt, common (medium)</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A medium-sized common pelt.</Description>
+	</Item>
+	<Item id="389">
+		<Name type="string">Pelt, common (small)</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A small common pelt.</Description>
+	</Item>
+	<Item id="390">
+		<Name type="string">Pelt, common (tiny)</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A tiny common pelt.</Description>
+	</Item>
+	<Item id="391">
+		<Name type="string">Pelt, fancy (small)</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A small fancy pelt.</Description>
+	</Item>
+	<Item id="392">
+		<Name type="string">Pelt, fancy (tiny)</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A tiny fancy pelt.</Description>
+	</Item>
+	<Item id="393">
+		<Name type="string">Pelt/Exotic Hide, fancy (large)</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">A large fancy pelt/exotic hide.</Description>
+	</Item>
+	<Item id="394">
+		<Name type="string">Pelt/Exotic Hide, fancy (medium)</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A medium-sized fancy pelt/exotic hide.</Description>
+	</Item>
+	<Item id="395">
+		<Name type="string">Pepper Mill</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A device for grinding peppercorns by hand to make pepper.</Description>
+	</Item>
+	<Item id="396">
+		<Name type="string">Performer's Cart, common</Name>
+		<Type type="Item_Type">8</Type>
+		<Cost type="Scale_Level">7</Cost>
+		<Description type="string">A common cart for a performer.</Description>
+	</Item>
+	<Item id="397">
+		<Name type="string">Performer's Cart, fancy</Name>
+		<Type type="Item_Type">8</Type>
+		<Cost type="Scale_Level">7</Cost>
+		<Description type="string">A fancy cart for a performer.</Description>
+	</Item>
+	<Item id="398">
+		<Name type="string">Perfume, Common (vial)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A vial of common perfume.</Description>
+	</Item>
+	<Item id="399">
+		<Name type="string">Perfume, Exotic (vial)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A vial of exotic perfume.</Description>
+	</Item>
+	<Item id="400">
+		<Name type="string">Perfume, Fancy (vial)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A vial of fancy perfume.</Description>
+	</Item>
+	<Item id="401">
+		<Name type="string">Pet Collar, common</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A common pet collar.</Description>
+	</Item>
+	<Item id="402">
+		<Name type="string">Pet Collar, fancy</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A fancy pet collar.</Description>
+	</Item>
+	<Item id="403">
+		<Name type="string">Pet Leash</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A leash to keep your pet close.</Description>
+	</Item>
+	<Item id="404">
+		<Name type="string">Pick, miner's</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A pick for a miner to use in a mine.</Description>
+	</Item>
+	<Item id="405">
+		<Name type="string">Pickled Meat</Name>
+		<Type type="Item_Type">4</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">Meat that has been preserved using the process of pickling.</Description>
+	</Item>
+	<Item id="406">
+		<Name type="string">Pickled Vegetables</Name>
+		<Type type="Item_Type">4</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">Vegetables that have been preserved using the process of pickling.</Description>
+	</Item>
+	<Item id="407">
+		<Name type="string">Picture frame, wooden (Large)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A large wooden picture frame.</Description>
+	</Item>
+	<Item id="408">
+		<Name type="string">Picture frame, wooden (Medium)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A medium-sized wooden picture frame.</Description>
+	</Item>
+	<Item id="409">
+		<Name type="string">Picture frame, wooden (Small)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A small wooden picture frame.</Description>
+	</Item>
+	<Item id="410">
+		<Name type="string">Picture frame, wooden (Tiny)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A tiny wooden picture frame.</Description>
+	</Item>
+	<Item id="411">
+		<Name type="string">Pillow, common</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A standard pillow for resting one's head.</Description>
+	</Item>
+	<Item id="412">
+		<Name type="string">Pillow, fancy</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A fancy pillow for resting one's head.</Description>
+	</Item>
+	<Item id="413">
+		<Name type="string">Pillow, mugwort</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A mugwort pillow for resting one's head.</Description>
+	</Item>
+	<Item id="414">
+		<Name type="string">Pitcher (clay)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A pitcher made of clay.</Description>
+	</Item>
+	<Item id="415">
+		<Name type="string">Piton</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A peg or spike driven into a rock or crack to support a climber or a rope.</Description>
+	</Item>
+	<Item id="416">
+		<Name type="string">Plate Cabinet (standing), common</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A common standing cabinet for one's plates.</Description>
+	</Item>
+	<Item id="417">
+		<Name type="string">Plate Cabinet (standing), fancy</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">5</Cost>
+		<Description type="string">A fancy standing cabinet for one's plates.</Description>
+	</Item>
+	<Item id="418">
+		<Name type="string">Plates (Common) set of 4</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A common set of 4 plates.</Description>
+	</Item>
+	<Item id="419">
+		<Name type="string">Plates (Fancy) set of 4</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A fancy set of 4 plates.</Description>
+	</Item>
+	<Item id="420">
+		<Name type="string">Plow</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A large farming implement with one or more blades fixed in a frame, drawn by animals and used for cutting furrows in the soil and turning it over, especially to prepare for the planting of seeds.</Description>
+	</Item>
+	<Item id="421">
+		<Name type="string">Pole (10 ft)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A 10 foot long pole.</Description>
+	</Item>
+	<Item id="422">
+		<Name type="string">Pony</Name>
+		<Type type="Item_Type">7</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A horse of a small breed.</Description>
+	</Item>
+	<Item id="423">
+		<Name type="string">Portable Coop</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A portable cage or pen for confining poultry.</Description>
+	</Item>
+	<Item id="424">
+		<Name type="string">Pot (iron)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A pot made of iron.</Description>
+	</Item>
+	<Item id="425">
+		<Name type="string">Potato Bin</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A lidded container for storing one's potatoes.</Description>
+	</Item>
+	<Item id="426">
+		<Name type="string">Pouch, belt (empty)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">An empty belt pouch.</Description>
+	</Item>
+	<Item id="427">
+		<Name type="string">Pumice</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A very light and porous volcanic rock formed when a gas-rich froth of glassy lava solidifies rapidly.</Description>
+	</Item>
+	<Item id="428">
+		<Name type="string">Puppet Box</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A portable box wherein a puppet master hides and carries out a play using his/her puppets.</Description>
+	</Item>
+	<Item id="429">
+		<Name type="string">Puppet, common</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A standard puppet.</Description>
+	</Item>
+	<Item id="430">
+		<Name type="string">Puppet, fancy</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A fancy puppet.</Description>
+	</Item>
+	<Item id="431">
+		<Name type="string">Rabbit</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A burrowing, gregarious, plant-eating mammal with long ears, long hind legs, and a short tail.</Description>
+	</Item>
+	<Item id="432">
+		<Name type="string">Rabbit's Foot</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A foot from a rabbit.</Description>
+	</Item>
+	<Item id="433">
+		<Name type="string">Rain Stick (common)</Name>
+		<Type type="Item_Type">9</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A common percussion instrument made from a dried cactus branch that is hollowed out, filled with small pebbles, and capped at both ends.</Description>
+	</Item>
+	<Item id="434">
+		<Name type="string">Rain Stick (masterwork)</Name>
+		<Type type="Item_Type">9</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">A masterwork percussion instrument made from a dried cactus branch that is hollowed out, filled with small pebbles, and capped at both ends.</Description>
+	</Item>
+	<Item id="435">
+		<Name type="string">Ram, portable</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A portable battering ram.</Description>
+	</Item>
+	<Item id="436">
+		<Name type="string">Rash Ointment (jar)</Name>
+		<Type type="Item_Type">2</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A jar full of ointment for a rash on one's body.</Description>
+	</Item>
+	<Item id="437">
+		<Name type="string">Rat Trap</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A trap intended to catch rats.</Description>
+	</Item>
+	<Item id="438">
+		<Name type="string">Rations, trail (per day)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">Enough trail rations to last a full day.</Description>
+	</Item>
+	<Item id="439">
+		<Name type="string">Rats, albino (pair)</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A pair of albino rats.</Description>
+	</Item>
+	<Item id="440">
+		<Name type="string">Rats, common (pair)</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A common pair of rats.</Description>
+	</Item>
+	<Item id="441">
+		<Name type="string">Recorder (common)</Name>
+		<Type type="Item_Type">9</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A common simple wind instrument with finger holes and no keys, held vertically and played by blowing air through a shaped mouthpiece against a sharp edge.</Description>
+	</Item>
+	<Item id="442">
+		<Name type="string">Recorder (masterwork)</Name>
+		<Type type="Item_Type">9</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">A masterwork simple wind instrument with finger holes and no keys, held vertically and played by blowing air through a shaped mouthpiece against a sharp edge.</Description>
+	</Item>
+	<Item id="443">
+		<Name type="string">Ring Toss Set</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A set rings and stands for playing Ring Toss.</Description>
+	</Item>
+	<Item id="444">
+		<Name type="string">Rope Bed</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A bed whose frame includes crossing ropes to support it.</Description>
+	</Item>
+	<Item id="445">
+		<Name type="string">Rope, hemp (50 ft)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A 50 foot long hemp rope.</Description>
+	</Item>
+	<Item id="446">
+		<Name type="string">Rope, silk (50 ft)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A 50 foot long silk rope.</Description>
+	</Item>
+	<Item id="447">
+		<Name type="string">Roundabout</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A revolving machine with model horses or other animals on which people ride for amusement.</Description>
+	</Item>
+	<Item id="448">
+		<Name type="string">Rowboat</Name>
+		<Type type="Item_Type">8</Type>
+		<Cost type="Scale_Level">5</Cost>
+		<Description type="string">A small boat propelled by oars.</Description>
+	</Item>
+	<Item id="449">
+		<Name type="string">Royal Outfit</Name>
+		<Type type="Item_Type">5</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">An outfit worn by only those of royal blood.</Description>
+	</Item>
+	<Item id="450">
+		<Name type="string">Sack (empty)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">An empty sack.</Description>
+	</Item>
+	<Item id="451">
+		<Name type="string">Saddle (Military)</Name>
+		<Type type="Item_Type">7</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A military grade saddle.</Description>
+	</Item>
+	<Item id="452">
+		<Name type="string">Saddle (Pack)</Name>
+		<Type type="Item_Type">7</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A pack saddle.</Description>
+	</Item>
+	<Item id="453">
+		<Name type="string">Saddle (Riding)</Name>
+		<Type type="Item_Type">7</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A riding saddle.</Description>
+	</Item>
+	<Item id="454">
+		<Name type="string">Saddle, Exotic (Military)</Name>
+		<Type type="Item_Type">7</Type>
+		<Cost type="Scale_Level">5</Cost>
+		<Description type="string">An exotic military grade saddle.</Description>
+	</Item>
+	<Item id="455">
+		<Name type="string">Saddle, Exotic (Pack)</Name>
+		<Type type="Item_Type">7</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">An exotic pack saddle.</Description>
+	</Item>
+	<Item id="456">
+		<Name type="string">Saddle, Exotic (Riding)</Name>
+		<Type type="Item_Type">7</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">An exotic riding saddle.</Description>
+	</Item>
+	<Item id="457">
+		<Name type="string">Saddlebags</Name>
+		<Type type="Item_Type">7</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A pair of bags attached behind the saddle on a horse.</Description>
+	</Item>
+	<Item id="458">
+		<Name type="string">Sailing Ship</Name>
+		<Type type="Item_Type">8</Type>
+		<Cost type="Scale_Level">9</Cost>
+		<Description type="string">A ship driven by sails.</Description>
+	</Item>
+	<Item id="459">
+		<Name type="string">Salt/Sugar Cured Meat</Name>
+		<Type type="Item_Type">4</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">Meat that has been treated with salt/sugar.</Description>
+	</Item>
+	<Item id="460">
+		<Name type="string">Sarod</Name>
+		<Type type="Item_Type">9</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A lute with four main strings.</Description>
+	</Item>
+	<Item id="461">
+		<Name type="string">Sarod (common)</Name>
+		<Type type="Item_Type">9</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A common lute with four main strings.</Description>
+	</Item>
+	<Item id="462">
+		<Name type="string">Sarod (masterwork)</Name>
+		<Type type="Item_Type">9</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">A masterwork lute with four main strings.</Description>
+	</Item>
+	<Item id="463">
+		<Name type="string">Sassafras Root</Name>
+		<Type type="Item_Type">4</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">The root of a sassafras.</Description>
+	</Item>
+	<Item id="464">
+		<Name type="string">Sausage</Name>
+		<Type type="Item_Type">4</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A cylindrical length of minced and seasoned pork, beef, or other meat encased in a skin, typically sold raw to be grilled, boiled, or fried before eating.</Description>
+	</Item>
+	<Item id="465">
+		<Name type="string">Scale Barding (Large)</Name>
+		<Type type="Item_Type">7</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">A large scale covering intended to be defensive armor for a horse.</Description>
+	</Item>
+	<Item id="466">
+		<Name type="string">Scale Barding (Medium)</Name>
+		<Type type="Item_Type">7</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">A medium-sized scale covering intended to be defensive armor for a horse.</Description>
+	</Item>
+	<Item id="467">
+		<Name type="string">Scale, merchant's</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A merchant's scale armor.</Description>
+	</Item>
+	<Item id="468">
+		<Name type="string">Scarf, silk</Name>
+		<Type type="Item_Type">5</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A scarf made of scale.</Description>
+	</Item>
+	<Item id="469">
+		<Name type="string">Scarf, wool</Name>
+		<Type type="Item_Type">5</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A scarf made of wool.</Description>
+	</Item>
+	<Item id="470">
+		<Name type="string">Scholar's Bed</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A bed for a scholar.</Description>
+	</Item>
+	<Item id="471">
+		<Name type="string">Scholar's Outfit</Name>
+		<Type type="Item_Type">5</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">An outfit that is worn by a scholar.</Description>
+	</Item>
+	<Item id="472">
+		<Name type="string">Sealing Wax</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A wax material of a seal which, after melting, hardens quickly (to paper, parchment, ribbons and wire, and other material) forming a bond that is difficult to separate without noticeable tampering.</Description>
+	</Item>
+	<Item id="473">
+		<Name type="string">Seeds (50)</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A pouch of 50 seeds.</Description>
+	</Item>
+	<Item id="474">
+		<Name type="string">Serving Bowl, common</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A common serving bowl.</Description>
+	</Item>
+	<Item id="475">
+		<Name type="string">Serving Bowl, fancy</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A fancy serving bowl.</Description>
+	</Item>
+	<Item id="476">
+		<Name type="string">Serving Tray, copper</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A serving tray made of copper.</Description>
+	</Item>
+	<Item id="477">
+		<Name type="string">Serving Tray, silver</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A serving tray made of silver.</Description>
+	</Item>
+	<Item id="478">
+		<Name type="string">Serving Tray, wooden</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A serving tray made of wood.</Description>
+	</Item>
+	<Item id="479">
+		<Name type="string">Sewing Needle</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A small needle used sewing cloth.</Description>
+	</Item>
+	<Item id="480">
+		<Name type="string">Shadow Lantern</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A type of latern that projects shadows on a surface to form objects in an artistic fashion.</Description>
+	</Item>
+	<Item id="481">
+		<Name type="string">Shawm (common)</Name>
+		<Type type="Item_Type">9</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A common wind instrument, forerunner of the oboe, with a double reed enclosed in a wooden mouthpiece, and having a penetrating tone.</Description>
+	</Item>
+	<Item id="482">
+		<Name type="string">Shawm (masterwork)</Name>
+		<Type type="Item_Type">9</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">A masterwork wind instrument, forerunner of the oboe, with a double reed enclosed in a wooden mouthpiece, and having a penetrating tone.</Description>
+	</Item>
+	<Item id="483">
+		<Name type="string">Sideshow Cart</Name>
+		<Type type="Item_Type">8</Type>
+		<Cost type="Scale_Level">7</Cost>
+		<Description type="string">A cart for a small show or stall at an exhibition.</Description>
+	</Item>
+	<Item id="484">
+		<Name type="string">Signal Whistle</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A whistle used to signal another person or creature nearby.</Description>
+	</Item>
+	<Item id="485">
+		<Name type="string">Signet Ring</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A ring with letters, usually one's initials, or a design carved into it.</Description>
+	</Item>
+	<Item id="486">
+		<Name type="string">Singing Bowl w/ accessories (common)</Name>
+		<Type type="Item_Type">9</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A common singing bowl with accessories included.</Description>
+	</Item>
+	<Item id="487">
+		<Name type="string">Singing Bowl w/ accessories (masterwork)</Name>
+		<Type type="Item_Type">9</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">A masterwork singing bowl with accessories included.</Description>
+	</Item>
+	<Item id="488">
+		<Name type="string">Sitar (common)</Name>
+		<Type type="Item_Type">9</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A common large, long-necked lute with movable frets, played with a wire pick.</Description>
+	</Item>
+	<Item id="489">
+		<Name type="string">Sitar (masterwork)</Name>
+		<Type type="Item_Type">9</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">A masterwork large, long-necked lute with movable frets, played with a wire pick.</Description>
+	</Item>
+	<Item id="490">
+		<Name type="string">Skillet</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A frying pan.</Description>
+	</Item>
+	<Item id="491">
+		<Name type="string">Sled</Name>
+		<Type type="Item_Type">8</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A vehicle, typically on runners, for conveying goods or passengers over snow or ice, either pushed or pulled, or drawn by horses or dogs.</Description>
+	</Item>
+	<Item id="492">
+		<Name type="string">Sled, covered</Name>
+		<Type type="Item_Type">8</Type>
+		<Cost type="Scale_Level">5</Cost>
+		<Description type="string">A covered vehicle, typically on runners, for conveying goods or passengers over snow or ice, either pushed or pulled, or drawn by horses or dogs.</Description>
+	</Item>
+	<Item id="493">
+		<Name type="string">Sledge</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A vehicle on runners for conveying loads or passengers especially over snow or ice, often pulled by draft animals.</Description>
+	</Item>
+	<Item id="494">
+		<Name type="string">Smelling Salts (flask)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A flask of smelling salts.</Description>
+	</Item>
+	<Item id="495">
+		<Name type="string">Smokestick</Name>
+		<Type type="Item_Type">2</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">An aromatic biotic material which releases fragrant smoke when burned; Incense.</Description>
+	</Item>
+	<Item id="496">
+		<Name type="string">Smoking Pipe, clay</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A smoking pipe made of clay.</Description>
+	</Item>
+	<Item id="497">
+		<Name type="string">Smoking Pipe, common</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A common smoking pipe.</Description>
+	</Item>
+	<Item id="498">
+		<Name type="string">Smoking Pipe, fancy</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A fancy smoking pipe.</Description>
+	</Item>
+	<Item id="499">
+		<Name type="string">Snake, non-poisonous (diminutive)</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A diminutive non-poisonous snake that you can keep as a pet.</Description>
+	</Item>
+	<Item id="500">
+		<Name type="string">Snake, non-poisonous (small)</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A small non-poisonous snake that you can keep as a pet.</Description>
+	</Item>
+	<Item id="501">
+		<Name type="string">Snake, non-poisonous (tiny)</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A tiny non-poisonous snake that you can keep as a pet.</Description>
+	</Item>
+	<Item id="502">
+		<Name type="string">Soap (per Lb)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A chunk of soap bought by the pound.</Description>
+	</Item>
+	<Item id="503">
+		<Name type="string">Soup Pot</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A pot for cooking soup.</Description>
+	</Item>
+	<Item id="504">
+		<Name type="string">Soup/Dog Bones</Name>
+		<Type type="Item_Type">4</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">Bones suitable for making soup stock.</Description>
+	</Item>
+	<Item id="505">
+		<Name type="string">Spade or Shovel</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A tool with a sharp-edged, typically rectangular, metal blade and a long handle, used for digging or cutting earth, sand, turf, etc.</Description>
+	</Item>
+	<Item id="506">
+		<Name type="string">Sparkle Candle</Name>
+		<Type type="Item_Type">2</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A type of hand-held firework that burns slowly while emitting colored flames, sparks, and other effects.</Description>
+	</Item>
+	<Item id="507">
+		<Name type="string">Spectacles</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">7</Cost>
+		<Description type="string">A pair of glasses.</Description>
+	</Item>
+	<Item id="508">
+		<Name type="string">Spectacles, tinted</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">7</Cost>
+		<Description type="string">A pair of tinted glasses.</Description>
+	</Item>
+	<Item id="509">
+		<Name type="string">Spell Component Pouch</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A pouch for storing an important component for a spell.</Description>
+	</Item>
+	<Item id="510">
+		<Name type="string">Spellbook, Wizard's (Blank)</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A blank wizard's spellbook for storing all of your favorite spells.</Description>
+	</Item>
+	<Item id="511">
+		<Name type="string">Spindle</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A slender rounded rod with tapered ends used in hand spinning to twist and wind thread from a mass of wool or flax held on a distaff.</Description>
+	</Item>
+	<Item id="512">
+		<Name type="string">Spinning Wheel</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">An apparatus for spinning yarn or thread, with a spindle driven by a wheel attached to a crank or treadle.</Description>
+	</Item>
+	<Item id="513">
+		<Name type="string">Splint Barding (Large)</Name>
+		<Type type="Item_Type">7</Type>
+		<Cost type="Scale_Level">7</Cost>
+		<Description type="string">A large splint covering intended to be defensive armor for a horse.</Description>
+	</Item>
+	<Item id="514">
+		<Name type="string">Splint Barding (Medium)</Name>
+		<Type type="Item_Type">7</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">A medium-sized splint covering intended to be defensive armor for a horse.</Description>
+	</Item>
+	<Item id="515">
+		<Name type="string">Sponge, natural (3”)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A natural 3 inch long sponge.</Description>
+	</Item>
+	<Item id="516">
+		<Name type="string">Sponge, natural (5”)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A natural 5 inch long sponge.</Description>
+	</Item>
+	<Item id="517">
+		<Name type="string">Sponge, natural (8”)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A natural 8 inch long sponge.</Description>
+	</Item>
+	<Item id="518">
+		<Name type="string">Spyglass</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">8</Cost>
+		<Description type="string">A small handheld telescope.</Description>
+	</Item>
+	<Item id="519">
+		<Name type="string">Standing Mirror</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">A mirror that stands upright on its own.</Description>
+	</Item>
+	<Item id="520">
+		<Name type="string">Stockings/Socks, silk</Name>
+		<Type type="Item_Type">5</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A pair of silk stockings/socks.</Description>
+	</Item>
+	<Item id="521">
+		<Name type="string">Stockings/Socks, wool</Name>
+		<Type type="Item_Type">5</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A pair of wool stockings/socks.</Description>
+	</Item>
+	<Item id="522">
+		<Name type="string">Stool, wooden (medium)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A medium-sized wooden stool.</Description>
+	</Item>
+	<Item id="523">
+		<Name type="string">Stool, wooden (small)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A small wooden stool.</Description>
+	</Item>
+	<Item id="524">
+		<Name type="string">Stout (Brew), gallon</Name>
+		<Type type="Item_Type">4</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A gallon of brewed Stout.</Description>
+	</Item>
+	<Item id="525">
+		<Name type="string">Studded Leather Barding (Large)</Name>
+		<Type type="Item_Type">7</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">A large studded leather covering intended to be defensive armor for a horse.</Description>
+	</Item>
+	<Item id="526">
+		<Name type="string">Studded Leather Barding (Medium)</Name>
+		<Type type="Item_Type">7</Type>
+		<Cost type="Scale_Level">5</Cost>
+		<Description type="string">A medium-sized studded leather covering intended to be defensive armor for a horse.</Description>
+	</Item>
+	<Item id="527">
+		<Name type="string">Sugar (1 Lb)</Name>
+		<Type type="Item_Type">4</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A one pound bag of sugar.</Description>
+	</Item>
+	<Item id="528">
+		<Name type="string">Sugar Glider</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A flying phalanger that feeds on wattle gum and eucalyptus sap.</Description>
+	</Item>
+	<Item id="529">
+		<Name type="string">Sundial</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">An instrument showing the time by the shadow of a pointer cast by the sun onto a plate marked with the hours of the day.</Description>
+	</Item>
+	<Item id="530">
+		<Name type="string">Sunrod</Name>
+		<Type type="Item_Type">2</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">This 1-foot-long, gold-tipped, iron rod glows brightly when struck as a Standard Action. It sheds normal light in a 30-foot radius and increases the light level by one step for an additional 30 feet beyond that area (darkness becomes dim light and dim light becomes normal light).</Description>
+	</Item>
+	<Item id="531">
+		<Name type="string">Tablecloth, common</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A common cloth spread over a table, especially during meals.</Description>
+	</Item>
+	<Item id="532">
+		<Name type="string">Tablecloth, fancy</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A fancy cloth spread over a table, especially during meals.</Description>
+	</Item>
+	<Item id="533">
+		<Name type="string">Tacks (100)</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">100 small, sharp, broad-headed nails.</Description>
+	</Item>
+	<Item id="534">
+		<Name type="string">Tanglefoot Bag</Name>
+		<Type type="Item_Type">2</Type>
+		<Cost type="Scale_Level">5</Cost>
+		<Description type="string">A tanglefoot bag is a small sack filled with tar, resin, and other sticky substances. When you throw a tanglefoot bag at a Creature, the bag comes apart and goo bursts out, entangling the target and then becoming tough and resilient upon exposure to air.</Description>
+	</Item>
+	<Item id="535">
+		<Name type="string">Tarantula</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A large hairy spider, some kinds of which are able to catch small lizards, frogs, and birds.</Description>
+	</Item>
+	<Item id="536">
+		<Name type="string">Tavern Table</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A table in a tavern.</Description>
+	</Item>
+	<Item id="537">
+		<Name type="string">Tea Biscuits</Name>
+		<Type type="Item_Type">4</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">Biscuits that you eat with tea.</Description>
+	</Item>
+	<Item id="538">
+		<Name type="string">Tea Service Set</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A set of dishes, typically of china or silver, used for serving tea.</Description>
+	</Item>
+	<Item id="539">
+		<Name type="string">Teeth (human, demihuman) per tooth</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A collection of human/demihuman teeth sold individually.</Description>
+	</Item>
+	<Item id="540">
+		<Name type="string">Teeth (humanoid) per tooth</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A collection of humanoid teeth sold individually.</Description>
+	</Item>
+	<Item id="541">
+		<Name type="string">Tent</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A portable shelter made of cloth, supported by one or more poles and stretched tight by cords or loops attached to pegs driven into the ground.</Description>
+	</Item>
+	<Item id="542">
+		<Name type="string">Tent Wagon</Name>
+		<Type type="Item_Type">8</Type>
+		<Cost type="Scale_Level">5</Cost>
+		<Description type="string">A tented vehicle used for transporting goods or another specified purpose.</Description>
+	</Item>
+	<Item id="543">
+		<Name type="string">Thieves' Tools</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A toolkit for thieves.</Description>
+	</Item>
+	<Item id="544">
+		<Name type="string">Thieves' Tools, Masterwork</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">A masterwork toolkit for thieves.</Description>
+	</Item>
+	<Item id="545">
+		<Name type="string">Thread</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A long, thin strand of cotton, nylon, or other fibers used in sewing or weaving.</Description>
+	</Item>
+	<Item id="546">
+		<Name type="string">Thunderstone</Name>
+		<Type type="Item_Type">2</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">You can throw this stone as a ranged attack with a range increment of 20 feet. When it strikes a hard surface (or is struck hard), it creates a deafening bang that is treated as a sonic attack.</Description>
+	</Item>
+	<Item id="547">
+		<Name type="string">Tindertwig</Name>
+		<Type type="Item_Type">2</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">The alchemical substance on the end of this small, wooden stick ignites when struck against a rough surface. Creating a flame with a tindertwig is much faster than creating a flame with Flint and Steel (or a magnifying glass) and tinder.</Description>
+	</Item>
+	<Item id="548">
+		<Name type="string">Toffee</Name>
+		<Type type="Item_Type">4</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A kind of firm or hard candy that softens when sucked or chewed, made by boiling together sugar and butter, often with other ingredients or flavorings added.</Description>
+	</Item>
+	<Item id="549">
+		<Name type="string">Tombstone</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A large, flat inscribed stone standing or laid over a grave.</Description>
+	</Item>
+	<Item id="550">
+		<Name type="string">Tool, Masterwork</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">5</Cost>
+		<Description type="string">A masterwork device or implement, especially one held in the hand, used to carry out a particular function.</Description>
+	</Item>
+	<Item id="551">
+		<Name type="string">Tooth Ointment (flask, 25 uses)</Name>
+		<Type type="Item_Type">2</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">An Ointment for your teeth in a flask that gets 25 uses.</Description>
+	</Item>
+	<Item id="552">
+		<Name type="string">Torch</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A portable means of illumination such as a piece of wood or cloth soaked in tallow or an oil lamp on a pole, sometimes carried ceremonially.</Description>
+	</Item>
+	<Item id="553">
+		<Name type="string">Toy Doll, common</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A common small model of a human figure.</Description>
+	</Item>
+	<Item id="554">
+		<Name type="string">Toy Doll, fancy</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A fancy small model of a human figure.</Description>
+	</Item>
+	<Item id="555">
+		<Name type="string">Traveler's Outfit</Name>
+		<Type type="Item_Type">5</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">This set of clothes consists of boots, a wool skirt or breeches, a sturdy belt, a shirt (perhaps with a vest or jacket), and an ample cloak with a hood.</Description>
+	</Item>
+	<Item id="556">
+		<Name type="string">Tree (young, small)</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A small young woody perennial plant, typically having a single stem or trunk growing to a considerable height and bearing lateral branches at some distance from the ground.</Description>
+	</Item>
+	<Item id="557">
+		<Name type="string">Truffles</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A strong-smelling underground fungus that resembles an irregular, rough-skinned potato, growing chiefly in broadleaved woodland on calcareous soils. It is considered a culinary delicacy and found with the aid of trained dogs or pigs.</Description>
+	</Item>
+	<Item id="558">
+		<Name type="string">Turkey, domestic</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A large domesticated game bird having a bald head and (in the male) red wattles. It is prized as food, especially on festive occasions such as Thanksgiving and Christmas.</Description>
+	</Item>
+	<Item id="559">
+		<Name type="string">Turtle</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A slow-moving reptile, enclosed in a scaly or leathery domed shell into which it can retract its head and thick legs.</Description>
+	</Item>
+	<Item id="560">
+		<Name type="string">Vanilla Beans</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A tropical climbing orchid that has fragrant flowers and long podlike fruit.</Description>
+	</Item>
+	<Item id="561">
+		<Name type="string">Vanity Mirror, steel</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">5</Cost>
+		<Description type="string">A steel dressing table with a mirror.</Description>
+	</Item>
+	<Item id="562">
+		<Name type="string">Vanity Table (w/ mirror), common</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">7</Cost>
+		<Description type="string">A common dressing table with a mirror.</Description>
+	</Item>
+	<Item id="563">
+		<Name type="string">Vanity Table (w/ mirror), fancy</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">7</Cost>
+		<Description type="string">A fancy dressing table with a mirror.</Description>
+	</Item>
+	<Item id="564">
+		<Name type="string">Vanity Table (w/ mirror), royal</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">8</Cost>
+		<Description type="string">A royal dressing table with a mirror.</Description>
+	</Item>
+	<Item id="565">
+		<Name type="string">Vase, common</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A common everyday vase.</Description>
+	</Item>
+	<Item id="566">
+		<Name type="string">Vegetables, common</Name>
+		<Type type="Item_Type">4</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">Some common edible vegetables.</Description>
+	</Item>
+	<Item id="567">
+		<Name type="string">Vegetables, uncommon</Name>
+		<Type type="Item_Type">4</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">Some uncommon edible vegetables.</Description>
+	</Item>
+	<Item id="568">
+		<Name type="string">Vial, ink or potion (empty)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">An empty vial for ink or potions.</Description>
+	</Item>
+	<Item id="569">
+		<Name type="string">Vinegar (gallon) in jar</Name>
+		<Type type="Item_Type">4</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A gallon of vinegar in a jar.</Description>
+	</Item>
+	<Item id="570">
+		<Name type="string">Wagon</Name>
+		<Type type="Item_Type">8</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A vehicle used for transporting goods or another specified purpose.</Description>
+	</Item>
+	<Item id="571">
+		<Name type="string">Warhorse, heavy</Name>
+		<Type type="Item_Type">7</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">A heavy, powerful horse ridden in battle.</Description>
+	</Item>
+	<Item id="572">
+		<Name type="string">Warhorse, light</Name>
+		<Type type="Item_Type">7</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">A light, powerful horse ridden in battle.</Description>
+	</Item>
+	<Item id="573">
+		<Name type="string">Warpony</Name>
+		<Type type="Item_Type">7</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">A small, armored pony ridden in battle.</Description>
+	</Item>
+	<Item id="574">
+		<Name type="string">Warship</Name>
+		<Type type="Item_Type">8</Type>
+		<Cost type="Scale_Level">9</Cost>
+		<Description type="string">A ship equipped with weapons and designed to take part in warfare at sea.</Description>
+	</Item>
+	<Item id="575">
+		<Name type="string">Wash Basin, copper</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">A copper basin, typically fixed to a wall or on a pedestal, used for washing one's hands and face.</Description>
+	</Item>
+	<Item id="576">
+		<Name type="string">Wash Basin, wooden</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A wooden basin, typically fixed to a wall or on a pedestal, used for washing one's hands and face.</Description>
+	</Item>
+	<Item id="577">
+		<Name type="string">Waste Bin (10 gallon)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A 10 gallon container, typically plastic or metal, for household refuse.</Description>
+	</Item>
+	<Item id="578">
+		<Name type="string">Waste Bin (5 gallon)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A 5 gallon container, typically plastic or metal, for household refuse.</Description>
+	</Item>
+	<Item id="579">
+		<Name type="string">Waste Bin (50 gallon)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A 50 gallon container, typically plastic or metal, for household refuse.</Description>
+	</Item>
+	<Item id="580">
+		<Name type="string">Water Clock</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">8</Cost>
+		<Description type="string">A clock that used the flow of water to measure time.</Description>
+	</Item>
+	<Item id="581">
+		<Name type="string">Waterskin</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A waterskin is a receptacle used to hold water.</Description>
+	</Item>
+	<Item id="582">
+		<Name type="string">Wheelbarrow</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A small cart with a single wheel at the front and two supporting legs and two handles at the rear, used typically for carrying loads in building-work or gardening.</Description>
+	</Item>
+	<Item id="583">
+		<Name type="string">Whetstone</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A fine-grained stone used for sharpening cutting tools.</Description>
+	</Item>
+	<Item id="584">
+		<Name type="string">Wig, common</Name>
+		<Type type="Item_Type">5</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A common wig for one's head.</Description>
+	</Item>
+	<Item id="585">
+		<Name type="string">Wig, fancy</Name>
+		<Type type="Item_Type">5</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A fancy wig for one's head.</Description>
+	</Item>
+	<Item id="586">
+		<Name type="string">Wine, Common (pitcher)</Name>
+		<Type type="Item_Type">4</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A pitcher of common wine.</Description>
+	</Item>
+	<Item id="587">
+		<Name type="string">Wine, Fine (bottle)</Name>
+		<Type type="Item_Type">4</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A bottle of fine wine.</Description>
+	</Item>
+	<Item id="588">
+		<Name type="string">Wiping Rug</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A rug for wiping off your shoes.</Description>
+	</Item>
+	<Item id="589">
+		<Name type="string">Wood Stain (5 L)</Name>
+		<Type type="Item_Type">3</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A 5 liter container full of stain for a wood floor.</Description>
+	</Item>
+	<Item id="590">
+		<Name type="string">Wooden Beads (24)</Name>
+		<Type type="Item_Type">6</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">24 wooden beads typically rounded and perforated for threading with others as a necklace or rosary or for sewing onto fabric.</Description>
+	</Item>
+	<Item id="591">
+		<Name type="string">Wooden Mask</Name>
+		<Type type="Item_Type">5</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A wooden object typically worn on the face.</Description>
+	</Item>
+	<Item id="592">
+		<Name type="string">Wooden Sign, medium</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">A medium-sized wooden sign that you can place anywhere along your journey.</Description>
+	</Item>
+	<Item id="593">
+		<Name type="string">Wooden Sign, small</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A small wooden sign that you can place anywhere along your journey.</Description>
+	</Item>
+	<Item id="594">
+		<Name type="string">Wooden Toy, common</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A common wooden object with which a child plays.</Description>
+	</Item>
+	<Item id="595">
+		<Name type="string">Wooden Toy, fancy</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A fancy wooden object with which a child plays.</Description>
+	</Item>
+	<Item id="596">
+		<Name type="string">Writing Board</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A small work surface consisting of a wide, lightweight board that can be placed across the lap and used for writing.</Description>
+	</Item>
+	<Item id="597">
+		<Name type="string">Writing Quills (6)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">6 pens made from a main wing or tail feather of a large bird.</Description>
+	</Item>
+	<Item id="598">
+		<Name type="string">Xylophone (common)</Name>
+		<Type type="Item_Type">9</Type>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">A common musical instrument played by striking a row of wooden bars of graduated length with one or more small wooden or plastic mallets.</Description>
+	</Item>
+	<Item id="599">
+		<Name type="string">Xylophone (masterwork)</Name>
+		<Type type="Item_Type">9</Type>
+		<Cost type="Scale_Level">6</Cost>
+		<Description type="string">A masterwork musical instrument played by striking a row of wooden bars of graduated length with one or more small wooden or plastic mallets.</Description>
+	</Item>
+	<Item id="600">
+		<Name type="string">Yam Beer, gallon</Name>
+		<Type type="Item_Type">4</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A gallon jug of Yam Beer.</Description>
+	</Item>
+	<Item id="601">
+		<Name type="string">Yarn, Ball (500 ft)</Name>
+		<Type type="Item_Type">1</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A 500 foot long ball of spun thread.</Description>
+	</Item>
+	<Item id="602">
+		<Name type="string">Yeast (baker) (for 10 Lb)</Name>
+		<Type type="Item_Type">4</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A 10 pound container of a grayish-yellow preparation of yeast used by a baker to make dough.</Description>
+	</Item>
+	<Item id="603">
+		<Name type="string">Yeast (brewer) (for 10 gal)</Name>
+		<Type type="Item_Type">4</Type>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A 10 gallon container of a grayish-yellow preparation of yeast used by a brewer to produce liquor.</Description>
+	</Item>
+	<Item id="604">
+		<Name type="string">Yoke (and accessories)</Name>
+		<Type type="Item_Type">8</Type>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A wooden crosspiece that is fastened over the necks of two animals and attached to the plow or cart that they are to pull.</Description>
+	</Item>
+</Item_Menu>

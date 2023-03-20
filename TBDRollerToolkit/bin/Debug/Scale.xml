@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scale>
+	<Scale_Level id="1">
+		<Name type="string">1</Name>
+		<Description type="string">
+			<Damage type="string">Damage done by weapons is negligible.</Damage>
+			<Cost type="string">Cost is inexpensive.</Cost>
+			<Area type="string">An area is safe.</Area>
+			<Difficulty type="string">Difficulty is easiest.</Difficulty>
+			<Health type="string">Health is lowest, like lethally low.</Health>
+		</Description>
+	</Scale_Level>
+	<Scale_Level id="2">
+		<Name type="string">2</Name>
+		<Description type="string">
+			<Damage type="string">Damage done by weapons is slightly noticeable.</Damage>
+			<Cost type="string">Cost is somewhat inexpensive.</Cost>
+			<Area type="string">An area is somewhat safe.</Area>
+			<Difficulty type="string">Difficulty is very easy.</Difficulty>
+			<Health type="string">Health is very low.</Health>
+		</Description>
+	</Scale_Level>
+	<Scale_Level id="3">
+		<Name type="string">3</Name>
+		<Description type="string">
+			<Damage type="string">Damage done by weapons is noticeable.</Damage>
+			<Cost type="string">Cost is low.</Cost>
+			<Area type="string">An area is unsafe.</Area>
+			<Difficulty type="string">Difficulty is easy.</Difficulty>
+			<Health type="string">Health is low.</Health>
+		</Description>
+	</Scale_Level>
+	<Scale_Level id="4">
+		<Name type="string">4</Name>
+		<Description type="string">
+			<Damage type="string">Damage done by weapons is somewhat significant.</Damage>
+			<Cost type="string">Cost is medium-low.</Cost>
+			<Area type="string">An area is pretty unsafe.</Area>
+			<Difficulty type="string">Difficulty is medium-easy.</Difficulty>
+			<Health type="string">Health is medium-low.</Health>
+		</Description>
+	</Scale_Level>
+	<Scale_Level id="5">
+		<Name type="string">5</Name>
+		<Description>
+			<Damage type="string">Damage done by weapons is significant.</Damage>
+			<Cost type="string">Cost is medium.</Cost>
+			<Area type="string">An area is somewhat dangerous.</Area>
+			<Difficulty type="string">Difficulty is medium.</Difficulty>
+			<Health type="string">Health is medium.</Health>
+		</Description>
+	</Scale_Level>
+	<Scale_Level id="6">
+		<Name type="string">6</Name>
+		<Description type="string">
+			<Damage type="string">Damage done by weapons is very significant.</Damage>
+			<Cost type="string">Cost is medium-high.</Cost>
+			<Area type="string">An area is dangerous.</Area>
+			<Difficulty type="string">Difficulty is medium-hard.</Difficulty>
+			<Health type="string">Health is medium-high.</Health>
+		</Description>
+	</Scale_Level>
+	<Scale_Level id="7">
+		<Name type="string">7</Name>
+		<Description type="string">
+			<Damage type="string">Damage done by weapons is substantial.</Damage>
+			<Cost type="string">Cost is high.</Cost>
+			<Area type="string">An area is very dangerous.</Area>
+			<Difficulty type="string">Difficulty is hard.</Difficulty>
+			<Health type="string">Health is high.</Health>
+		</Description>
+	</Scale_Level>
+	<Scale_Level id="8">
+		<Name type="string">8</Name>
+		<Description type="string">
+			<Damage type="string">Damage done by weapons is pretty substantial.</Damage>
+			<Cost type="string">Cost is very high.</Cost>
+			<Area type="string">An area is treacherous.</Area>
+			<Difficulty type="string">Difficulty is very hard.</Difficulty>
+			<Health type="string">Health is very high.</Health>
+		</Description>
+	</Scale_Level>
+	<Scale_Level id="9">
+		<Name type="string">9</Name>
+		<Description type="string">
+			<Damage type="string">Damage done by weapons is catastrophic.</Damage>
+			<Cost type="string">Cost is expensive.</Cost>
+			<Area type="string">An area is perilous.</Area>
+			<Difficulty type="string">Difficulty is hardest.</Difficulty>
+			<Health type="string">Health is highest.</Health>
+		</Description>
+	</Scale_Level>
+</Scale>

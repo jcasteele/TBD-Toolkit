@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<World>
+	<Location id="1">
+		<Name type="string">Empty Village</Name>
+		<Danger_Level type="Scale_Level">2</Danger_Level>
+		<Description type="string">While it’s obvious that people once lived there, there is no sign of any life in the abandoned village. There are no bodies, no animals, and no obvious clue as to where everyone has gone.</Description>
+	</Location>
+	<Location id="2">
+		<Name type="string">Wooded Clearing</Name>
+		<Danger_Level type="Scale_Level">3</Danger_Level>
+		<Description type="string">Obviously somewhere in the woods, you're fortunate to have appeared in a small clearing. There are a few possible paths that you could take into the woods, though there is no clear indication as to where any of them lead.</Description>
+	</Location>
+	<Location id="3">
+		<Name type="string">Open Plains</Name>
+		<Danger_Level type="Scale_Level">2</Danger_Level>
+		<Description type="string">A slight breeze blows across the plains, rustling the grass slightly. Off in the distance you can see what appears to be a settlement of some kind, though from this distance it isn't clear whether it's one that you recognize.</Description>
+	</Location>
+	<Location id="4">
+		<Name type="string">Small Hamlet</Name>
+		<Danger_Level type="Scale_Level">1</Danger_Level>
+		<Description type="string">A few small homes make up the settlement that you find yourself in.</Description>
+	</Location>
+	<Location id="5">
+		<Name type="string">Cave Mouth</Name>
+		<Danger_Level type="Scale_Level">3</Danger_Level>
+		<Description type="string">You appear in the mouth of a dark cave. You can hear water dripping somewhere in the darkness ahead, but cannot see how deep the cave goes.</Description>
+	</Location>
+	<Location id="6">
+		<Name type="string">Decrepit House</Name>
+		<Danger_Level type="Scale_Level">2</Danger_Level>
+		<Description type="string">It's obvious that the house you find yourself standing in has been abandoned for some time. A wind blows outside and you hear the frame creak against it.</Description>
+	</Location>
+	<Location id="7">
+		<Name type="string">Bustling City</Name>
+		<Danger_Level type="Scale_Level">1</Danger_Level>
+		<Description type="string">People are everywhere, going about their daily lives in a hurry. There are shops and other buildings lining the streets, and the whole city is alive with activity.</Description>
+	</Location>
+	<Location id="8">
+		<Name type="string">Tree Dwelling</Name>
+		<Danger_Level type="Scale_Level">2</Danger_Level>
+		<Description type="string">At first the building appears to be a shack or small cabin. Upon further inspection, however, you realize that it is situated in a tree and is 15 feet above the ground.</Description>
+	</Location>
+	<Location id="9">
+		<Name type="string">Abandoned Mine</Name>
+		<Danger_Level type="Scale_Level">3</Danger_Level>
+		<Description type="string">It is dark. Once you manage a light, you find yourself in an old mine. You're surrounded by rusted mining equipment, piles of scattered rock… and bones.</Description>
+	</Location>
+	<Location id="10">
+		<Name type="string">Mausoleum</Name>
+		<Danger_Level type="Scale_Level">2</Danger_Level>
+		<Description type="string">It is a bit disconcerting to blink into existence beside a sealed coffin. A layer of dust covers everything around you, indicating that this particular grave hasn't been visited in quite some time.</Description>
+	</Location>
+	<Location id="11">
+		<Name type="string">Goblin Camp</Name>
+		<Danger_Level type="Scale_Level">7</Danger_Level>
+		<Description type="string">Appearing behind a cluster of makeshift shelters, the first thing that you notice is the smell as it assaults your nostrils. No one has noticed you yet, though the camp seems very active.</Description>
+	</Location>
+	<Location id="12">
+		<Name type="string">Country Church</Name>
+		<Danger_Level type="Scale_Level">1</Danger_Level>
+		<Description type="string">A far cry from the large cathedrals and shrines you find in the cities, the church you appeared outside of seems to have seen better days. It's obvious that the repairs that have been attempted over the years were done by those who had more love for the church than they had skill at repairs.</Description>
+	</Location>
+	<Location id="13">
+		<Name type="string">Throne Room</Name>
+		<Danger_Level type="Scale_Level">2</Danger_Level>
+		<Description type="string">Making an appearance before the king is always an experience. It's even more of one when neither you nor the king knew that you were coming.</Description>
+	</Location>
+	<Location id="14">
+		<Name type="string">Pilgrim's Shrine</Name>
+		<Danger_Level type="Scale_Level">1</Danger_Level>
+		<Description type="string">You appear in front of a small shrine for a minor saint. Pilgrims appear to have recently left offerings.</Description>
+	</Location>
+	<Location id="15">
+		<Name type="string">Abandoned Campsite</Name>
+		<Danger_Level type="Scale_Level">4</Danger_Level>
+		<Description type="string">Looking around, it’s obvious that this was a campsite recently. It may have been abandoned in a hurry, however, since the campfire is still smoldering.</Description>
+	</Location>
+	<Location id="16">
+		<Name type="string">Dungeon</Name>
+		<Danger_Level type="Scale_Level">6</Danger_Level>
+		<Description type="string">It’s dark and the air is heavy and musty. Sparsely-spaced torches reveal that you are in a stone corridor within a dungeon. Screams for help echo from around a corner.</Description>
+	</Location>
+	<Location id="17">
+		<Name type="string">Ancient Dwarven City</Name>
+		<Danger_Level type="Scale_Level">2</Danger_Level>
+		<Description type="string">Once, this was a noble Dwarven city buried deep within a mountain. Time and disrepair have taken their toll.</Description>
+	</Location>
+	<Location id="18">
+		<Name type="string">Fletcher's Shop</Name>
+		<Danger_Level type="Scale_Level">1</Danger_Level>
+		<Description type="string">Bows, arrows, and similar archery supplies surround you as you appear in the small fletcher’s shop. You are almost as surprised as the fletcher.</Description>
+	</Location>
+	<Location id="19">
+		<Name type="string">City Alleyway</Name>
+		<Danger_Level type="Scale_Level">1</Danger_Level>
+		<Description type="string">Appearing just out of sight in an alleyway, you manage to go unnoticed despite the crowds in the city.</Description>
+	</Location>
+	<Location id="20">
+		<Name type="string">Enemy Camp</Name>
+		<Danger_Level type="Scale_Level">8</Danger_Level>
+		<Description type="string">You appear within a small enemy camp, startling the guards, if you act quickly, you may have the element of surprise.</Description>
+	</Location>
+	<Location id="21">
+		<Name type="string">Land of the Dead</Name>
+		<Danger_Level type="Scale_Level">9</Danger_Level>
+		<Description type="string">A sense of cold dread penetrates you as you realize that you stand where no living being should be.</Description>
+	</Location>
+	<Location id="22">
+		<Name type="string">Swamp</Name>
+		<Danger_Level type="Scale_Level">5</Danger_Level>
+		<Description type="string">You materialize within a swamp as the smell of rotting vegetation fills your nose. The deepest pockets of water in the swamp are 1d4 feet deep.</Description>
+	</Location>
+	<Location id="23">
+		<Name type="string">10' Away</Name>
+		<Danger_Level type="Scale_Level">1</Danger_Level>
+		<Description type="string">Whether through a problem with the spell or external magical meddling, you end up moving only 10 feet from your starting position.</Description>
+	</Location>
+	<Location id="24">
+		<Name type="string">Small Ship at Port</Name>
+		<Danger_Level type="Scale_Level">1</Danger_Level>
+		<Description type="string">You appear on a small ship that is docked at port. There doesn’t appear to be anyone on board.</Description>
+	</Location>
+	<Location id="25">
+		<Name type="string">Stone Wall</Name>
+		<Danger_Level type="Scale_Level">3</Danger_Level>
+		<Description type="string">A large, weathered stone wall stands before you, blocking your path.</Description>
+	</Location>
+	<Location id="26">
+		<Name type="string">Rutted Path</Name>
+		<Danger_Level type="Scale_Level">4</Danger_Level>
+		<Description type="string">Appearing in tall grass, you can see a well-worn rutted path nearby.</Description>
+	</Location>
+	<Location id="27">
+		<Name type="string">Gallows</Name>
+		<Danger_Level type="Scale_Level">4</Danger_Level>
+		<Description type="string">A chill runs down your spine as you materialize in front of the gallows, you swallow dryly, wondering if this is meant to be a sign.</Description>
+	</Location>
+	<Location id="28">
+		<Name type="string">Church Cathedral</Name>
+		<Danger_Level type="Scale_Level">2</Danger_Level>
+		<Description type="string">Suddenly appearing in the middle of a large cathedral, you hear screams as the worshippers who are present react.</Description>
+	</Location>
+	<Location id="29">
+		<Name type="string">Wooded Footpath</Name>
+		<Danger_Level type="Scale_Level">3</Danger_Level>
+		<Description type="string">The before trail is faint but visible, winding deeper into the woods that surround you.</Description>
+	</Location>
+	<Location id="30">
+		<Name type="string">Castle Gate</Name>
+		<Danger_Level type="Scale_Level">3</Danger_Level>
+		<Description type="string">You suddenly find yourself in front of the gate to a castle. The guards who stand watch over the gate don’t take kindly to your unexpected appearance.</Description>
+	</Location>
+	<Location id="31">
+		<Name type="string">Treasure Vault</Name>
+		<Danger_Level type="Scale_Level">3</Danger_Level>
+		<Description type="string">Surrounded by more riches than some will ever see, you find yourself hoping that you didn’t trip any alarms when you materialized.</Description>
+	</Location>
+	<Location id="32">
+		<Name type="string">Mountain Pass</Name>
+		<Danger_Level type="Scale_Level">4</Danger_Level>
+		<Description type="string">The air is cold and crisp, and the clouds surrounding the mountaintop threaten snow. You can see for miles below you, and can also see how far you’ll have to travel to reach the valley below.</Description>
+	</Location>
+	<Location id="33">
+		<Name type="string">Underwater City</Name>
+		<Danger_Level type="Scale_Level">2</Danger_Level>
+		<Description type="string">Standing beneath the dome, it’s hard to imagine how this city under the sea came to be… and what might happen to it if the dome cracked.</Description>
+	</Location>
+	<Location id="34">
+		<Name type="string">Storage Room</Name>
+		<Danger_Level type="Scale_Level">2</Danger_Level>
+		<Description type="string">Crates line the walls of the small, musty storage room you find yourself in.</Description>
+	</Location>
+	<Location id="35">
+		<Name type="string">Wizard's Shop</Name>
+		<Danger_Level type="Scale_Level">1</Danger_Level>
+		<Description type="string">Though you appeared suddenly in the shop filled with scrolls, artifacts, and spell components, the old man sitting behind a table there doesn’t seem surprised.</Description>
+	</Location>
+	<Location id="36">
+		<Name type="string">Storage Shed</Name>
+		<Danger_Level type="Scale_Level">2</Danger_Level>
+		<Description type="string">The cluttered shed obviously wasn’t intended for occupancy, and lacks the headroom necessary for the average human to stand completely upright.</Description>
+	</Location>
+	<Location id="37">
+		<Name type="string">Small Village</Name>
+		<Danger_Level type="Scale_Level">1</Danger_Level>
+		<Description type="string">The village seems peaceful, though the villagers who saw you appear are eyeing you suspiciously.</Description>
+	</Location>
+	<Location id="38">
+		<Name type="string">Underground Passageway</Name>
+		<Danger_Level type="Scale_Level">3</Danger_Level>
+		<Description type="string">Though you’re not sure where exactly you are, it’s obvious that the passage you’re in was carved directly through the surrounding rock.</Description>
+	</Location>
+	<Location id="39">
+		<Name type="string">Raging Wildfire</Name>
+		<Danger_Level type="Scale_Level">8</Danger_Level>
+		<Description type="string">The heat is almost unbearable and the noise is deafening. Fire rages all around you, engulfing what was once a wooded area.</Description>
+	</Location>
+	<Location id="40">
+		<Name type="string">Shipyard</Name>
+		<Danger_Level type="Scale_Level">1</Danger_Level>
+		<Description type="string">Appearing in the shadow of a nearly-complete ship, a flurry of activity surrounds you as vessels of various sizes are built or repaired.</Description>
+	</Location>
+	<Location id="41">
+		<Name type="string">Quiet City</Name>
+		<Danger_Level type="Scale_Level">2</Danger_Level>
+		<Description type="string">Appearing in a city of decent size, you immediately notice how quiet it seems. Where you would normally expect the hustle and bustle of city life, you instead find no one on the streets.</Description>
+	</Location>
+	<Location id="42">
+		<Name type="string">Crystal Monolith</Name>
+		<Danger_Level type="Scale_Level">1</Danger_Level>
+		<Description type="string">The large crystal juts from the ground, standing at least 10 feet tall, ancient words and symbols are carved expertly into its every surface.</Description>
+	</Location>
+	<Location id="43">
+		<Name type="string">Waterfall</Name>
+		<Danger_Level type="Scale_Level">2</Danger_Level>
+		<Description type="string">The roar of the waterfall is the first thing that you hear as you materialize. As your eyes focus and you see the massive amount of water falling over the cliff above you find yourself speechless for a moment.</Description>
+	</Location>
+	<Location id="44">
+		<Name type="string">Dry Riverbed</Name>
+		<Danger_Level type="Scale_Level">2</Danger_Level>
+		<Description type="string">From the look of it, a wide river once passed through this land. As you now stand in the riverbed, though, you breathe a sigh of relief that the water is no longer there.</Description>
+	</Location>
+	<Location id="45">
+		<Name type="string">Active Mine</Name>
+		<Danger_Level type="Scale_Level">2</Danger_Level>
+		<Description type="string">It takes a moment for your eyes to adjust. You can hear picks and hammers further down the mine shaft, mingled with gruff-sounding voices.</Description>
+	</Location>
+	<Location id="46">
+		<Name type="string">Circle of Fire</Name>
+		<Danger_Level type="Scale_Level">5</Danger_Level>
+		<Description type="string">You appear within a ring of fire, burning bright but not spreading.</Description>
+	</Location>
+	<Location id="47">
+		<Name type="string">Dark Room</Name>
+		<Danger_Level type="Scale_Level">3</Danger_Level>
+		<Description type="string">It’s too dark to see. You have no idea how large or small the room you’re in is, and know only that the floor is made of a hard material.</Description>
+	</Location>
+	<Location id="48">
+		<Name type="string">Primitive Camp</Name>
+		<Danger_Level type="Scale_Level">2</Danger_Level>
+		<Description type="string">Appearing in a small camp, it’s obvious that it was made by primitive people… or creatures.</Description>
+	</Location>
+	<Location id="49">
+		<Name type="string">Necromancer's Lair</Name>
+		<Danger_Level type="Scale_Level">5</Danger_Level>
+		<Description type="string">The smell of death is heavy in the air. You can see a gore-caked altar not far from where you materialized.</Description>
+	</Location>
+	<Location id="50">
+		<Name type="string">Destination</Name>
+		<Danger_Level type="Scale_Level">1</Danger_Level>
+		<Description type="string">The spell seems to have worked perfectly. You arrive unharmed at your intended destination.</Description>
+	</Location>
+	<Location id="51">
+		<Name type="string">Well-Traveled Road</Name>
+		<Danger_Level type="Scale_Level">2</Danger_Level>
+		<Description type="string">Though you aren’t sure where the road leads, it’s obvious that it gets a large amount of traffic.</Description>
+	</Location>
+	<Location id="52">
+		<Name type="string">Rushing River</Name>
+		<Danger_Level type="Scale_Level">4</Danger_Level>
+		<Description type="string">You appear in the air, then fall a short distance into the river below. The water is strong enough to pull you along, though you may be able to fight the current.</Description>
+	</Location>
+	<Location id="53">
+		<Name type="string">Jail Cell</Name>
+		<Danger_Level type="Scale_Level">5</Danger_Level>
+		<Description type="string">You’re shocked to find yourself in a jail cell. The door is closed, but you aren’t sure if it’s locked.</Description>
+	</Location>
+	<Location id="54">
+		<Name type="string">Ring of Stones</Name>
+		<Danger_Level type="Scale_Level">4</Danger_Level>
+		<Description type="string">A ring of carefully-laid stones surrounds you. You aren’t sure what they represent, but it’s obvious that they were placed here for a reason.</Description>
+	</Location>
+	<Location id="55">
+		<Name type="string">Galley Ship at Sea</Name>
+		<Danger_Level type="Scale_Level">2</Danger_Level>
+		<Description type="string">The deck rocks beneath your feet as you appear on a large galley ship on the open sea.</Description>
+	</Location>
+	<Location id="56">
+		<Name type="string">Business Office</Name>
+		<Danger_Level type="Scale_Level">1</Danger_Level>
+		<Description type="string">You scare a young clerk when you appear in his cluttered office, causing him to spill an ink well over a contract he was drafting.</Description>
+	</Location>
+	<Location id="57">
+		<Name type="string">Volcanic Crater</Name>
+		<Danger_Level type="Scale_Level">6</Danger_Level>
+		<Description type="string">It’s difficult to breathe as smoke, ash, and embers billow out from deeper in the crater.</Description>
+	</Location>
+	<Location id="58">
+		<Name type="string">Other Plane</Name>
+		<Danger_Level type="Scale_Level">3</Danger_Level>
+		<Description type="string">You had anticipated a straightforward teleportation, but instead find yourself stranded on another plane of existence.</Description>
+	</Location>
+	<Location id="59">
+		<Name type="string">Mountain Overlook</Name>
+		<Danger_Level type="Scale_Level">3</Danger_Level>
+		<Description type="string">The small structure that serves as a guard post for the mountain overlook seems ill equipped to protect you from the approaching storm.</Description>
+	</Location>
+	<Location id="60">
+		<Name type="string">Secret Conclave</Name>
+		<Danger_Level type="Scale_Level">6</Danger_Level>
+		<Description type="string">The gathered wizards seem as surprised as you are when you suddenly appear in their midst. They do not seem pleased to have their gathering discovered.</Description>
+	</Location>
+	<Location id="61">
+		<Name type="string">Active Farm</Name>
+		<Danger_Level type="Scale_Level">1</Danger_Level>
+		<Description type="string">You suddenly appear on a large farm, though none of the farm hands or overseers seem to notice your presence.</Description>
+	</Location>
+	<Location id="62">
+		<Name type="string">20' Away</Name>
+		<Danger_Level type="Scale_Level">1</Danger_Level>
+		<Description type="string">You appear 20 feet from your starting position, unsure of how your destination was changed.</Description>
+	</Location>
+	<Location id="63">
+		<Name type="string">Circle of Flowers</Name>
+		<Danger_Level type="Scale_Level"></Danger_Level>
+		<Description type="string">A well-defined circle of small multi-colored flowers surrounds you. Lush green grass grows all around.</Description>
+	</Location>
+	<Location id="64">
+		<Name type="string">Battleground</Name>
+		<Danger_Level type="Scale_Level">7</Danger_Level>
+		<Description type="string">Though you appear among people, very few notice you. A fierce battle rages all around you.</Description>
+	</Location>
+	<Location id="65">
+		<Name type="string">Outskirts of Town</Name>
+		<Danger_Level type="Scale_Level">1</Danger_Level>
+		<Description type="string">You materialize just beyond the edge of a small town. No one seems to have noticed your appearance.</Description>
+	</Location>
+	<Location id="66">
+		<Name type="string">Alchemist's Lab</Name>
+		<Danger_Level type="Scale_Level">1</Danger_Level>
+		<Description type="string">You suddenly find yourself in a laboratory filled with experiments, jars, and sheets scrawled with alchemical symbols. No one else is in the room at the moment.</Description>
+	</Location>
+	<Location id="67">
+		<Name type="string">Abandoned Mine</Name>
+		<Danger_Level type="Scale_Level">3</Danger_Level>
+		<Description type="string">Everything is dark as you appear in a shaft dug into the ground itself. Once you manage to produce light, you see that the shaft was braced by the miners who created it. A layer of dust covers everything.</Description>
+	</Location>
+	<Location id="68">
+		<Name type="string">Starting Point</Name>
+		<Danger_Level type="Scale_Level">1</Danger_Level>
+		<Description type="string">Despite the spell apparently working, you materialize in the same spot that you were in a moment ago and have gone nowhere.</Description>
+	</Location>
+	<Location id="69">
+		<Name type="string">Grasslands</Name>
+		<Danger_Level type="Scale_Level">1</Danger_Level>
+		<Description type="string">You see nothing but tall grass and a few sparse trees in every direction.</Description>
+	</Location>
+	<Location id="70">
+		<Name type="string">Destroyed Castle</Name>
+		<Danger_Level type="Scale_Level">4</Danger_Level>
+		<Description type="string">Standing in the ruins of what once was a castle, you wonder what war finally managed to bring it down.</Description>
+	</Location>
+	<Location id="71">
+		<Name type="string">Labor Camp</Name>
+		<Danger_Level type="Scale_Level">6</Danger_Level>
+		<Description type="string">Appearing suddenly in a work camp, you stand out because of your healthy glow, largely undamaged clothes, and lack of exhaustion.</Description>
+	</Location>
+	<Location id="72">
+		<Name type="string">Destroyed City</Name>
+		<Danger_Level type="Scale_Level">3</Danger_Level>
+		<Description type="string">Looking around, you find it somewhat unsettling to be in a city of some size that has been so completely destroyed. You can’t see a single building that appears to be completely whole.</Description>
+	</Location>
+	<Location id="73">
+		<Name type="string">Aviary</Name>
+		<Danger_Level type="Scale_Level">2</Danger_Level>
+		<Description type="string">Your appearance startles the birds of the aviary, creating more noise than even some alarms would make.</Description>
+	</Location>
+	<Location id="74">
+		<Name type="string">Mid-Sized Township</Name>
+		<Danger_Level type="Scale_Level">1</Danger_Level>
+		<Description type="string">You suddenly find yourself in the middle of a town of fair size. While you draw a few surprised looks, there aren’t many people around at the moment.</Description>
+	</Location>
+	<Location id="75">
+		<Name type="string">Mining Camp</Name>
+		<Danger_Level type="Scale_Level">2</Danger_Level>
+		<Description type="string">Judging from the equipment you see and the gruff voices you hear, you somehow ended up just outside of a Dwarven mining camp.</Description>
+	</Location>
+	<Location id="76">
+		<Name type="string">Dimly-Lit Tavern</Name>
+		<Danger_Level type="Scale_Level">1</Danger_Level>
+		<Description type="string">If not for the flash of light that accompanied your arrival, few of the tavern’s patrons would likely have noticed you at all.</Description>
+	</Location>
+	<Location id="77">
+		<Name type="string">Busy Shop</Name>
+		<Danger_Level type="Scale_Level">1</Danger_Level>
+		<Description type="string">Suddenly materializing in the shop startles several of the patrons, causing them to bump into each other and knock items off of shelves.</Description>
+	</Location>
+	<Location id="78">
+		<Name type="string">Well-Kept House</Name>
+		<Danger_Level type="Scale_Level">1</Danger_Level>
+		<Description type="string">No one appears to be home in the tidy house. You can’t help but notice that it’s very well furnished, however.</Description>
+	</Location>
+	<Location id="79">
+		<Name type="string">Torture Chamber</Name>
+		<Danger_Level type="Scale_Level">7</Danger_Level>
+		<Description type="string">Torture implements and nefarious devices surround you, and oil-burning lamps give the entire room a disturbing sheen with their flickering light. You find yourself glad that the room is not currently in use.</Description>
+	</Location>
+	<Location id="80">
+		<Name type="string">White Room</Name>
+		<Danger_Level type="Scale_Level">2</Danger_Level>
+		<Description type="string">The room you appear in is empty and completely white. The walls, floor, and ceiling all seem to give off a slight light of their own.</Description>
+	</Location>
+	<Location id="81">
+		<Name type="string">Desert</Name>
+		<Danger_Level type="Scale_Level">5</Danger_Level>
+		<Description type="string">The heat washes over you as you appear on the sand. The harsh sunlight allows you to see that the desert stretches on for miles in all directions.</Description>
+	</Location>
+	<Location id="82">
+		<Name type="string">Flower-Filled Valley</Name>
+		<Danger_Level type="Scale_Level">1</Danger_Level>
+		<Description type="string">Mountains surround you. Looking around, the small valley you stand in is covered with a thick blanket of flowers.</Description>
+	</Location>
+	<Location id="83">
+		<Name type="string">Wooden Fence</Name>
+		<Danger_Level type="Scale_Level">2</Danger_Level>
+		<Description type="string">A wooden fence stretches off into the distance, dividing the land. You aren’t sure if the fence merely marks a boundary or if it is designed to keep something out… or something in.</Description>
+	</Location>
+	<Location id="84">
+		<Name type="string">Pasture</Name>
+		<Danger_Level type="Scale_Level">1</Danger_Level>
+		<Description type="string">Grazing cattle look up at you as you appear suddenly in their pasture. For the most part, they then go back to grazing.</Description>
+	</Location>
+	<Location id="85">
+		<Name type="string">Old Well</Name>
+		<Danger_Level type="Scale_Level">2</Danger_Level>
+		<Description type="string">The grass growing around the base of the well makes it appear as though no one has visited it in years.</Description>
+	</Location>
+	<Location id="86">
+		<Name type="string">Trickling Stream</Name>
+		<Danger_Level type="Scale_Level">2</Danger_Level>
+		<Description type="string">From the look of the stream bed you’ve appeared by, the water is much deeper during periods of heavy rain. For now, though, the stream is small enough that you can easily step across it.</Description>
+	</Location>
+	<Location id="87">
+		<Name type="string">Cemetery</Name>
+		<Danger_Level type="Scale_Level">2</Danger_Level>
+		<Description type="string">You find yourself in a sizeable cemetery. Though many of the markers are very basic, a large statue in the center of the cemetery marks one of the graves.</Description>
+	</Location>
+	<Location id="88">
+		<Name type="string">Destroyed Wagon</Name>
+		<Danger_Level type="Scale_Level">6</Danger_Level>
+		<Description type="string">As you take your bearings you see a burned-out wagon nearby. Bodies near it indicate that it hasn’t been that long since it was destroyed.</Description>
+	</Location>
+	<Location id="89">
+		<Name type="string">Dragon's Lair</Name>
+		<Danger_Level type="Scale_Level">8</Danger_Level>
+		<Description type="string">A chill runs down your spine as you see tell-tale signs indicating that you’re standing in the home of a dragon. Tunnels run off in two directions, though you’re not sure which leads to freedom and which leads deeper into the dragon’s lair.</Description>
+	</Location>
+	<Location id="90">
+		<Name type="string">Well-Stocked Pantry</Name>
+		<Danger_Level type="Scale_Level">1</Danger_Level>
+		<Description type="string">You’re surprised to find yourself surrounded by food. You aren’t sure where you are, but you reason that a pantry this size likely is located in a castle, manor, or large in.</Description>
+	</Location>
+	<Location id="91">
+		<Name type="string">Castle Tower</Name>
+		<Danger_Level type="Scale_Level">2</Danger_Level>
+		<Description type="string">You appear in a room at the top of a tower, looking out, you see that you’ve arrived at a castle. When you try the door, however, you find it locked.</Description>
+	</Location>
+	<Location id="92">
+		<Name type="string">Blacksmith's Forge</Name>
+		<Danger_Level type="Scale_Level">1</Danger_Level>
+		<Description type="string">The clash of hammer against metal can be heard nearby, walking closer, you see a blacksmith hard at work in his forge.</Description>
+	</Location>
+	<Location id="93">
+		<Name type="string">Wasteland</Name>
+		<Danger_Level type="Scale_Level">6</Danger_Level>
+		<Description type="string">Trying to get your bearings, you find yourself in a barren land with an overcast sky. There seems to be little living here, and even the air seems hostile.</Description>
+	</Location>
+	<Location id="94">
+		<Name type="string">Slaughterhouse</Name>
+		<Danger_Level type="Scale_Level">1</Danger_Level>
+		<Description type="string">The smell of blood hangs heavy in the air. You hear a scream as your sudden appearance startled one of the workers and caused him to cut himself.</Description>
+	</Location>
+	<Location id="95">
+		<Name type="string">Burnt Out House</Name>
+		<Danger_Level type="Scale_Level">4</Danger_Level>
+		<Description type="string">You aren’t sure what caused the fire that claimed the house you’re standing in, but it’s obvious that it wasn’t that long ago. Surprisingly, nothing but the house seems to have burned… it didn’t spread into the surrounding property.</Description>
+	</Location>
+	<Location id="96">
+		<Name type="string">Suspended Cage</Name>
+		<Danger_Level type="Scale_Level">8</Danger_Level>
+		<Description type="string">You think that there are probably worse places to appear, but looking into the chasm beneath the cage you’re suspended in you have trouble thinking of any.</Description>
+	</Location>
+	<Location id="97">
+		<Name type="string">Pig Farm</Name>
+		<Danger_Level type="Scale_Level">1</Danger_Level>
+		<Description type="string">The squeal of swine greets your ears as mud and other substances greet your boots. Though no farmers are nearby, the noise from the pigs will likely get their attention.</Description>
+	</Location>
+	<Location id="98">
+		<Name type="string">Enemy Nation</Name>
+		<Danger_Level type="Scale_Level">6</Danger_Level>
+		<Description type="string">Though you aren’t sure exactly where you are, seeing a flag that you recognize alerts you that you aren’t likely to be welcomed.</Description>
+	</Location>
+	<Location id="99">
+		<Name type="string">Enchanted Forest</Name>
+		<Danger_Level type="Scale_Level">3</Danger_Level>
+		<Description type="string">Something seems off about the forest you appear in. You notice a soft melody on the wind and a sweet smell in the air…</Description>
+	</Location>
+	<Location id="100">
+		<Name type="string">Summoner</Name>
+		<Danger_Level type="Scale_Level">9</Danger_Level>
+		<Description type="string">You materialize with an unknown man before you. He smiles coldly, saying, "I'll bet you wonder why I've summoned you here."</Description>
+	</Location>
+</World>

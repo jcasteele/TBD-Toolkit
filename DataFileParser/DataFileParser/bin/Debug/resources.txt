@@ -1,0 +1,40 @@
+Name: Azer
+Type: Elemental
+Health: 1
+Description: An elemental creature native to the Elemental Plane of Fire and Elemental Chaos, created by fire titans and fire giants, whom they often served.
+
+Name: Glabrezu
+Type: Fiend
+Health: 2
+Description: A powerful type of tanar'ri demon that has a giant, broad, muscular body with two pairs of arms: the small set being humanoid ending in hands while the other set was monstrous and ended in a pair of crab-like pincers.
+
+Name: Hezrou
+Type: Fiend
+Health: 2
+Description: A type of tanar'ri demon that is a large demonic monstrosity that bares a superficial resemblance to a toad in humanoid form, with arms and hands instead of forelegs and a wide maw with rows of blunt teeth.
+
+Name: Lizard
+Type: Beast
+Health: 1
+Description: A reptile that typically has a long body and tail, four legs, movable eyelids, and a rough, scaly, or spiny skin.
+
+Name: Lizardfolk
+Type: Humanoid
+Health: 1
+Description: A lizard-like reptilian humanoid native to Toril.
+
+Name: Mezzoloth
+Type: Fiend
+Health: 1
+Description: A type of yugoloth that resembles an insect-like humanoid covered in great chitinous plates. They have long, lanky arms and legs with long, sharp claws and wide, armored skulls.
+
+Name: Remorhaz
+Type: Monstrosity
+Health: 2
+Description: A blue monstrous beast resembling a cross between a worm and a centipede with tough leathery wings.
+
+Name: Zombie
+Type: Undead
+Health: 1
+Description: An undead creature usually created by the re-animation of a corpse.
+

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<All_Services>
+	<Service id="1">
+		<Name type="string">Barber's Services, full</Name>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A complete hairstyling for both your beard and head of hair.</Description>
+	</Service>
+	<Service id="2">
+		<Name type="string">Barber's Services, simple</Name>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A quick trim for your beard and/or head of hair to your liking.</Description>
+	</Service>
+	<Service id="3">
+		<Name type="string">Coach Cab (per mile)</Name>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A coach cab that will take you to your destination of choice. Charges per mile.</Description>
+	</Service>
+	<Service id="4">
+		<Name type="string">Grave Digger</Name>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A person who will dig a grave for either a future you or a fallen friend.</Description>
+	</Service>
+	<Service id="5">
+		<Name type="string">Hireling, trained (per day)</Name>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A skilled individual that will perform menial labor for you. Charges per day.</Description>
+	</Service>
+	<Service id="6">
+		<Name type="string">Hireling, untrained (per day)</Name>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">An unskilled individual that will perform menial labor for you. Charges per day.</Description>
+	</Service>
+	<Service id="7">
+		<Name type="string">Inn Stay (Common) per day</Name>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A one night stay at the local Inn, which is of decent quality. Charges per day.</Description>
+	</Service>
+	<Service id="8">
+		<Name type="string">Inn Stay (Good) per day</Name>
+		<Cost type="Scale_Level">2</Cost>
+		<Description type="string">A one night stay at the local Inn, which is of good quality. Charges per day.</Description>
+	</Service>
+	<Service id="9">
+		<Name type="string">Inn Stay (Poor) per day</Name>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A one night stay at the local Inn, which is of poor quality. Charges per day.</Description>
+	</Service>
+	<Service id="10">
+		<Name type="string">Massage, Therapeutic</Name>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A massage that is designed to enhance your health and well-being.</Description>
+	</Service>
+	<Service id="11">
+		<Name type="string">Meals (Common) per day</Name>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">Enough meals of decent quality to last you a full day. Charges per day.</Description>
+	</Service>
+	<Service id="12">
+		<Name type="string">Meals (Good) per day</Name>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">Enough meals of good quality to last you a full day. Charges per day.</Description>
+	</Service>
+	<Service id="13">
+		<Name type="string">Meals (Poor) per day</Name>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">Enough meals of poor quality to last you a full day. Charges per day.</Description>
+	</Service>
+	<Service id="14">
+		<Name type="string">Messenger (per mile)</Name>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A person who will deliver a message for you. Charges per mile.</Description>
+	</Service>
+	<Service id="15">
+		<Name type="string">Midwife</Name>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A person who will help your wife or friend during childbirth.</Description>
+	</Service>
+	<Service id="16">
+		<Name type="string">Mourner</Name>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A person who will attend a funeral for either your friend or you if you are that desperate for someone to show up.</Description>
+	</Service>
+	<Service id="17">
+		<Name type="string">Nanny (per day)</Name>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A person, typically a woman, that will care for your child in your own home while you are gone. Charges per day.</Description>
+	</Service>
+	<Service id="18">
+		<Name type="string">Nanny (per day), noble</Name>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A noble person, typically a woman, that will care for your child in your own home while you are gone. Charges per day.</Description>
+	</Service>
+	<Service id="19">
+		<Name type="string">Road or Gate Toll</Name>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A road or gate that you must pay to use.</Description>
+	</Service>
+	<Service id="20">
+		<Name type="string">Ship's Passage (per mile)</Name>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A narrow way through which your ship may pass...for a price. Charges per mile.</Description>
+	</Service>
+	<Service id="21">
+		<Name type="string">Soft Cheese</Name>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">Some soft, edible cheese for sale.</Description>
+	</Service>
+	<Service id="22">
+		<Name type="string">Stained Glass Work (per sq ft), common</Name>
+		<Cost type="Scale_Level">3</Cost>
+		<Description type="string">Typical stained glass construction, installation, and maintenance. Charges per square feet.</Description>
+	</Service>
+	<Service id="23">
+		<Name type="string">Stained Glass Work (per sq ft), fancy</Name>
+		<Cost type="Scale_Level">4</Cost>
+		<Description type="string">Fancy, high quality stained glass construction, installation, and maintenance. Charges per square feet.</Description>
+	</Service>
+	<Service id="24">
+		<Name type="string">Tutor (per day)</Name>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A private teacher who will educate you on any subject that you desire. Charges per day.</Description>
+	</Service>
+	<Service id="25">
+		<Name type="string">Tutor (per day), noble</Name>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A private, noble teacher who will educate you on any subject that you desire. Charges per day.</Description>
+	</Service>
+	<Service id="26">
+		<Name type="string">Undertaker</Name>
+		<Cost type="Scale_Level">1</Cost>
+		<Description type="string">A person who will prepare dead bodies for burial or cremation and make arrangements for funerals.</Description>
+	</Service>
+</All_Services>

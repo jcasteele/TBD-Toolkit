@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<All_NPCs>
+	<NPC id="1">
+		<Name type="string">Acolyte</Name>
+		<Description type="string">A person assisting the celebrant in a religious service or procession.</Description>
+	</NPC>
+	<NPC id="2">
+		<Name type="string">Archmage</Name>
+		<Description type="string">A powerful (and usually quite old) spellcaster dedicated to the study of the arcane arts.</Description>
+	</NPC>
+	<NPC id="3">
+		<Name type="string">Assassin</Name>
+		<Description type="string">A person that specializes in killing and ambushing other people.</Description>
+	</NPC>
+	<NPC id="4">
+		<Name type="string">Balloon Grenadier</Name>
+		<Description type="string">A soldier that specializes in the throwing of grenades and sometimes assault operations.</Description>
+	</NPC>
+	<NPC id="5">
+		<Name type="string">Bandit</Name>
+		<Description type="string">A robber or outlaw belonging to a gang and typically operating in an isolated or lawless area.</Description>
+	</NPC>
+	<NPC id="6">
+		<Name type="string">Bandit Captain</Name>
+		<Description type="string">A bandit that leads a gang of bandits.</Description>
+	</NPC>
+	<NPC id="7">
+		<Name type="string">Berserker</Name>
+		<Description type="string">A tall, massive swordsman who fights in a wild frenzy of emotions.</Description>
+	</NPC>
+	<NPC id="8">
+		<Name type="string">Boar Pit Fighter</Name>
+		<Description type="string">An expert warrior who learned to fight in closed spaces, such as dungeons or gladiator pits, by picking up unorthodox survival methods that might be considered dishonorable.</Description>
+	</NPC>
+	<NPC id="9">
+		<Name type="string">Bodyguard</Name>
+		<Description type="string">A person hired to escort and protect another person.</Description>
+	</NPC>
+	<NPC id="10">
+		<Name type="string">Commoner</Name>
+		<Description type="string">An ordinary person, without rank or title.</Description>
+	</NPC>
+	<NPC id="11">
+		<Name type="string">Reaver</Name>
+		<Description type="string">An aggressive individual whose contact with other humans appears limited to combat, rape, torture, murder, and cannibalism, and who never communicates verbally with others; yet they are never shown in conflict with each other.</Description>
+	</NPC>
+	<NPC id="12">
+		<Name type="string">Cult Fanatic</Name>
+		<Description type="string">A cult member, often part of a cult’s leadership, who uses their Charisma and dogma to influence and prey on those of weak will.</Description>
+	</NPC>
+	<NPC id="13">
+		<Name type="string">Cultist</Name>
+		<Description type="string">A member of an unorthodox cult who generally lives outside of conventional society under the direction of a charismatic leader.</Description>
+	</NPC>
+	<NPC id="14">
+		<Name type="string">Dragonclaw</Name>
+		<Description type="string">A higher-ranking foot soldier in the Cult of the Dragon that either leads a group of lesser cultists or works in a group with other dragonclaws for really important missions.</Description>
+	</NPC>
+	<NPC id="15">
+		<Name type="string">Dragonfang</Name>
+		<Description type="string">A higher-ranking cultist in the Cult of the Dragon that usually commands a group of Dragonclaws.</Description>
+	</NPC>
+	<NPC id="16">
+		<Name type="string">Dragonsoul</Name>
+		<Description type="string">The highest-ranking cultist in the Cult of the Dragon that leads the entirety of their sect of the cult.</Description>
+	</NPC>
+	<NPC id="17">
+		<Name type="string">Dragonwing</Name>
+		<Description type="string">A higher-ranking cultist in the Cult of the Dragon that usually oversees the dragonfangs.</Description>
+	</NPC>
+	<NPC id="18">
+		<Name type="string">Druid</Name>
+		<Description type="string">A priest, magician, or soothsayer that wields nature-themed magic.</Description>
+	</NPC>
+	<NPC id="19">
+		<Name type="string">Evil Sorcerer</Name>
+		<Description type="string">A malevolent person who has magic powers.</Description>
+	</NPC>
+	<NPC id="20">
+		<Name type="string">Fathomer</Name>
+		<Description type="string">A person who can shapeshift into a serpent.</Description>
+	</NPC>
+	<NPC id="21">
+		<Name type="string">Flamewrath</Name>
+		<Description type="string">A magician that specializes in controlling and utilizing fire.</Description>
+	</NPC>
+	<NPC id="22">
+		<Name type="string">Gladiator</Name>
+		<Description type="string">A person trained to fight with weapons against other gladiators or wild animals in an arena.</Description>
+	</NPC>
+	<NPC id="23">
+		<Name type="string">Guard</Name>
+		<Description type="string">A soldier or other person formally assigned to protect a person or to control access to a place that keeps watch.</Description>
+	</NPC>
+	<NPC id="24">
+		<Name type="string">Hurricane</Name>
+		<Description type="string">A monk in the Cult of the Howling Hatred.</Description>
+	</NPC>
+	<NPC id="25">
+		<Name type="string">Knight</Name>
+		<Description type="string">A warrior who pledges service to rulers, religious orders, and noble causes.</Description>
+	</NPC>
+	<NPC id="26">
+		<Name type="string">Mage</Name>
+		<Description type="string">A person who spends their life in the study and practice of magic.</Description>
+	</NPC>
+	<NPC id="27">
+		<Name type="string">Miner</Name>
+		<Description type="string">A person who works in a mine.</Description>
+	</NPC>
+	<NPC id="28">
+		<Name type="string">Noble</Name>
+		<Description type="string">A person of noble rank or birth who wields great authority and influence as a member of the upper class, possessing wealth and connections that can make them as powerful as monarchs and generals.</Description>
+	</NPC>
+	<NPC id="29">
+		<Name type="string">One-Eyed Shiver</Name>
+		<Description type="string">A magician who specializes in controlling and utilizing water.</Description>
+	</NPC>
+	<NPC id="30">
+		<Name type="string">Priest</Name>
+		<Description type="string">An ordained minister that brings the teachings of their gods to the common folk.</Description>
+	</NPC>
+	<NPC id="31">
+		<Name type="string">Razerblast</Name>
+		<Description type="string">A foot soldier whose armor is hot and usually fiery.</Description>
+	</NPC>
+	<NPC id="32">
+		<Name type="string">Cavalry Officer</Name>
+		<Description type="string">An officer that leads and commands a cavalry.</Description>
+	</NPC>
+	<NPC id="33">
+		<Name type="string">Patrol</Name>
+		<Description type="string">A person sent to keep watch over an area.</Description>
+	</NPC>
+	<NPC id="34">
+		<Name type="string">Monk</Name>
+		<Description type="string">A martial artist, specializing in unarmed combat.</Description>
+	</NPC>
+	<NPC id="35">
+		<Name type="string">Scout</Name>
+		<Description type="string">A soldier or other person sent out ahead of a main force so as to gather information about the enemy's position, strength, or movements.</Description>
+	</NPC>
+	<NPC id="36">
+		<Name type="string">Skyweaver</Name>
+		<Description type="string">A magician who specializes in controlling and utilizing air.</Description>
+	</NPC>
+	<NPC id="37">
+		<Name type="string">Spy</Name>
+		<Description type="string">A person who secretly collects and reports information on the activities, movements, and plans of an enemy or competitor.</Description>
+	</NPC>
+	<NPC id="38">
+		<Name type="string">Stonemelder</Name>
+		<Description type="string">An engineer that designs many things and is one of the primary magic item creators in the world.</Description>
+	</NPC>
+	<NPC id="39">
+		<Name type="string">Thug</Name>
+		<Description type="string">A ruthless enforcer skilled at intimidation and violence.</Description>
+	</NPC>
+	<NPC id="40">
+		<Name type="string">Tribal Warrior</Name>
+		<Description type="string">A warrior who lives beyond civilization and acts in accordance with the wishes of their chief.</Description>
+	</NPC>
+	<NPC id="41">
+		<Name type="string">Veteran</Name>
+		<Description type="string">A professional fighter that takes up arms for pay or to protect something they believe in or value.</Description>
+	</NPC>
+</All_NPCs>

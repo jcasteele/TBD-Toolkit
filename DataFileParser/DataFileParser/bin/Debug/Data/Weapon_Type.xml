@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<All_Weapon_Type>
+	<Weapon_Type id="1">
+		<Name type="string">Axes</Name>
+		<Description type="string">Weapons that consist of a long handle with a sharpened metallic head toward the end of it.</Description>
+	</Weapon_Type>
+	<Weapon_Type id="2">
+		<Name type="string">Bows/Crossbows</Name>
+		<Description type="string">Weapons that consist of a flexible shaft and string which form an elastic projectile launcher.</Description>
+	</Weapon_Type>
+	<Weapon_Type id="3">
+		<Name type="string">Flails</Name>
+		<Description type="string">Weapons that consist of a handle with a striking head connected to it via chain or other flexible material.</Description>
+	</Weapon_Type>
+	<Weapon_Type id="4">
+		<Name type="string">Maces/Hammers</Name>
+		<Description type="string">Weapons that consist of a long handle with a blunt metallic head at the end of it.</Description>
+	</Weapon_Type>
+	<Weapon_Type id="5">
+		<Name type="string">Polearms</Name>
+		<Description type="string">Weapons that consist of a short handle with a sharpened metallic head with a single cutting edge at the end of it.</Description>
+	</Weapon_Type>
+	<Weapon_Type id="6">
+		<Name type="string">Slings</Name>
+		<Description type="string">Weapons that consist of a pouch with a piece of string on both ends which are used to launch blunt objects.</Description>
+	</Weapon_Type>
+	<Weapon_Type id="7">
+		<Name type="string">Staves</Name>
+		<Description type="string">Weapons that are long, cylindrical sticks.</Description>
+	</Weapon_Type>
+	<Weapon_Type id="8">
+		<Name type="string">Swords</Name>
+		<Description type="string">Weapons that consist of a short handle with a long blade at the end of it extending away.</Description>
+	</Weapon_Type>
+	<Weapon_Type id="9">
+		<Name type="string">Unusual Weapons</Name>
+		<Description type="string">Weapons that are unconventional and cannot be defined by any other classification, but they get the job done.</Description>
+	</Weapon_Type>
+</All_Weapon_Type>

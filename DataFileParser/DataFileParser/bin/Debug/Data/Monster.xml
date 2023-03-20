@@ -1,0 +1,1222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Monster_Den>
+	<Monster id="1">
+		<Name type="string">Aarakocra</Name>
+		<Type type="Monster_Type">1</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A race of bird-like, monstrous humanoids dwelling in high mountains.</Description>
+	</Monster>
+	<Monster id="2">
+		<Name type="string">Aboleth</Name>
+		<Type type="Monster_Type">2</Type>
+		<Health type="Scale_Level">2</Health>
+		<Description type="string">A race of malevolent, eel-like aberrations with potent psionic abilities.</Description>
+	</Monster>
+	<Monster id="3">
+		<Name type="string">Allosaurus</Name>
+		<Type type="Monster_Type">3</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A large, bipedal, carnivorous, theropod dinosaur.</Description>
+	</Monster>
+	<Monster id="4">
+		<Name type="string">Androsphinx</Name>
+		<Type type="Monster_Type">4</Type>
+		<Health type="Scale_Level">2</Health>
+		<Description type="string">A sphinx with the head of a man.</Description>
+	</Monster>
+	<Monster id="5">
+		<Name type="string">Animated Armor</Name>
+		<Type type="Monster_Type">5</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">Armor that has been animated by external forces.</Description>
+	</Monster>
+	<Monster id="6">
+		<Name type="string">Ankheg</Name>
+		<Type type="Monster_Type">4</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A huge insectoid monster with many slender limbs and large antennae.</Description>
+	</Monster>
+	<Monster id="7">
+		<Name type="string">Ankylosaurus</Name>
+		<Type type="Monster_Type">3</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A heavily built quadrupedal herbivorous dinosaur, armored with bony plates.</Description>
+	</Monster>
+	<Monster id="8">
+		<Name type="string">Ape</Name>
+		<Type type="Monster_Type">3</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A large primate that lacks a tail.</Description>
+	</Monster>
+	<Monster id="9">
+		<Name type="string">Arcanaloth</Name>
+		<Type type="Monster_Type">6</Type>
+		<Health type="Scale_Level">2</Health>
+		<Description type="string">A record keeper for yugoloths who resembles a robed human with the head of a fanged jackal or war dog.</Description>
+	</Monster>
+	<Monster id="10">
+		<Name type="string">Azer</Name>
+		<Type type="Monster_Type">7</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">An elemental creature native to the Elemental Plane of Fire and Elemental Chaos, created by fire titans and fire giants, whom they often served.</Description>
+	</Monster>
+	<Monster id="11">
+		<Name type="string">Baboon</Name>
+		<Type type="Monster_Type">3</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A large, ground-dwelling monkey with a long doglike snout, large teeth, and naked callosities on the buttocks.</Description>
+	</Monster>
+	<Monster id="12">
+		<Name type="string">Badger</Name>
+		<Type type="Monster_Type">3</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A heavily built omnivorous nocturnal mammal of the weasel family, typically having a gray and black coat.</Description>
+	</Monster>
+	<Monster id="13">
+		<Name type="string">Balor</Name>
+		<Type type="Monster_Type">6</Type>
+		<Health type="Scale_Level">3</Health>
+		<Description type="string">One of the most powerful types of tanar'ri demons, second in power only to the demon lords, klurichirs, and myrmyxicus.</Description>
+	</Monster>
+	<Monster id="14">
+		<Name type="string">Banshee</Name>
+		<Type type="Monster_Type">8</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A female undead phantom, a selfish, strong-willed spirit that embodied the essence of hideousness.</Description>
+	</Monster>
+	<Monster id="15">
+		<Name type="string">Barlgura</Name>
+		<Type type="Monster_Type">6</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A large demon fiend that has reddish-brown hair and stands between 5 and 6 feet tall, similar to orangutans.</Description>
+	</Monster>
+	<Monster id="16">
+		<Name type="string">Basilisk</Name>
+		<Type type="Monster_Type">4</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A large, eight-legged reptile with the terrifying ability to poison or petrify their prey.</Description>
+	</Monster>
+	<Monster id="17">
+		<Name type="string">Bat</Name>
+		<Type type="Monster_Type">3</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A mainly nocturnal mammal capable of sustained flight, with membranous wings that extend between the fingers and connecting the forelimbs to the body and the hindlimbs to the tail.</Description>
+	</Monster>
+	<Monster id="18">
+		<Name type="string">Behir</Name>
+		<Type type="Monster_Type">4</Type>
+		<Health type="Scale_Level">2</Health>
+		<Description type="string">A great serpentine monster with twelve legs and an electrical breath.</Description>
+	</Monster>
+	<Monster id="19">
+		<Name type="string">Beholder</Name>
+		<Type type="Monster_Type">2</Type>
+		<Health type="Scale_Level">2</Health>
+		<Description type="string">A floating orb of flesh with a large mouth, single central eye, and many smaller eyestalks on top with powerful magical abilities.</Description>
+	</Monster>
+	<Monster id="20">
+		<Name type="string">Boar</Name>
+		<Type type="Monster_Type">3</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A tusked, wild pig from which domestic pigs are descended.</Description>
+	</Monster>
+	<Monster id="21">
+		<Name type="string">Bugbear</Name>
+		<Type type="Monster_Type">1</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A massive humanoid distantly related to goblins and hobgoblins.</Description>
+	</Monster>
+	<Monster id="22">
+		<Name type="string">Bulette</Name>
+		<Type type="Monster_Type">4</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A huge ravenous creature that burrows through the earth and attacks unsuspecting victims from below.</Description>
+	</Monster>
+	<Monster id="23">
+		<Name type="string">Bullywug</Name>
+		<Type type="Monster_Type">1</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A froglike humanoid creatures.</Description>
+	</Monster>
+	<Monster id="24">
+		<Name type="string">Burrowshark</Name>
+		<Type type="Monster_Type">1</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A humanoid that is magically bound and trained to serve as a mount to a bulette. Since they are magically bound to it, they share their respected bulette's senses.</Description>
+	</Monster>
+	<Monster id="25">
+		<Name type="string">Cambion</Name>
+		<Type type="Monster_Type">6</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A humanoid creature that is half-fiend and the result of breeding a devil with mortals.</Description>
+	</Monster>
+	<Monster id="26">
+		<Name type="string">Camel</Name>
+		<Type type="Monster_Type">3</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A large, long-necked ungulate mammal of arid country, with long slender legs, broad cushioned feet, and either one or two humps on the back. Camels can survive for long periods without food or drink, chiefly by using up the fat reserves in their humps.</Description>
+	</Monster>
+	<Monster id="27">
+		<Name type="string">Cat</Name>
+		<Type type="Monster_Type">3</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A small domesticated carnivorous mammal with soft fur, a short snout, and retractile claws. It is widely kept as a pet or for catching mice, and many breeds have been developed.</Description>
+	</Monster>
+	<Monster id="28">
+		<Name type="string">Centaur</Name>
+		<Type type="Monster_Type">4</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A creature with the head, arms, and torso of a man and the body and legs of a horse.</Description>
+	</Monster>
+	<Monster id="29">
+		<Name type="string">Chasme</Name>
+		<Type type="Monster_Type">6</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A type of tanar'ri demon found in the Abyss. They are horrid and disgusting hybrids of flies and humans who sucked blood and enjoyed tormenting and torturing their victims.</Description>
+	</Monster>
+	<Monster id="30">
+		<Name type="string">Chimera</Name>
+		<Type type="Monster_Type">4</Type>
+		<Health type="Scale_Level">2</Health>
+		<Description type="string">A large, magical female monster with a lion's head, a goat's body, and a serpent's tail.</Description>
+	</Monster>
+	<Monster id="31">
+		<Name type="string">Chuul</Name>
+		<Type type="Monster_Type">2</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A large lobster-like aberration with a hatred for surface-dwelling humanoids.</Description>
+	</Monster>
+	<Monster id="32">
+		<Name type="string">Cloaker</Name>
+		<Type type="Monster_Type">2</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A monster able to disguise its body to resemble a cloak when at rest. The cloaker pacifies victims with an eerie moan, and engulfs its prey within its body to help it eat the prey.</Description>
+	</Monster>
+	<Monster id="33">
+		<Name type="string">Cockatrice</Name>
+		<Type type="Monster_Type">4</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A small avian magical beast whose bites can turn its prey to stone permanently.</Description>
+	</Monster>
+	<Monster id="34">
+		<Name type="string">Couatl</Name>
+		<Type type="Monster_Type">9</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A large serpentine creature that is a native outsider.</Description>
+	</Monster>
+	<Monster id="35">
+		<Name type="string">Crab</Name>
+		<Type type="Monster_Type">3</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A crustacean with a broad carapace, stalked eyes, and five pairs of legs, the first pair of which are modified as pincers.</Description>
+	</Monster>
+	<Monster id="36">
+		<Name type="string">Crocodile</Name>
+		<Type type="Monster_Type">3</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A large predatory semiaquatic reptile with long jaws, long tail, short legs, and a horny textured skin, using submersion and stealth to approach prey unseen.</Description>
+	</Monster>
+	<Monster id="37">
+		<Name type="string">Cyclops</Name>
+		<Type type="Monster_Type">10</Type>
+		<Health type="Scale_Level">2</Health>
+		<Description type="string">A member of a race of savage one-eyed giants.</Description>
+	</Monster>
+	<Monster id="38">
+		<Name type="string">Dao</Name>
+		<Type type="Monster_Type">7</Type>
+		<Health type="Scale_Level">2</Health>
+		<Description type="string">A variation of genie from the Elemental Plane of Earth.</Description>
+	</Monster>
+	<Monster id="39">
+		<Name type="string">Deer</Name>
+		<Type type="Monster_Type">3</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A hoofed grazing or browsing animal, with branched bony antlers that are shed annually and typically borne only by the male.</Description>
+	</Monster>
+	<Monster id="40">
+		<Name type="string">Demilich</Name>
+		<Type type="Monster_Type">8</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A lich who had evolved beyond a need for its undead body.</Description>
+	</Monster>
+	<Monster id="41">
+		<Name type="string">Derro</Name>
+		<Type type="Monster_Type">1</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A species of monstrous humanoids that inhabited the Underdark.</Description>
+	</Monster>
+	<Monster id="42">
+		<Name type="string">Deva</Name>
+		<Type type="Monster_Type">9</Type>
+		<Health type="Scale_Level">2</Health>
+		<Description type="string">A kind of angel, or aasimon that resemble human-like men and women of extraordinary beauty or handsomeness with two magnificent feathered wings emerging from their shoulders.</Description>
+	</Monster>
+	<Monster id="43">
+		<Name type="string">Djinni</Name>
+		<Type type="Monster_Type">7</Type>
+		<Health type="Scale_Level">2</Health>
+		<Description type="string">A creature born from the Elemental Chaos that resembles a ten and a half feet human man or woman, well-muscled and physically fit, considered attractive by human standards with their skin tone ranging from pale blue to a more common olive-brown.</Description>
+	</Monster>
+	<Monster id="44">
+		<Name type="string">Doppelganger</Name>
+		<Type type="Monster_Type">4</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A tall, elven, gray-skinned humanoid who has a thin body with human eyes and appears sexless. They have shapeshifting abilities that allow them to mimic almost any humanoid creature.</Description>
+	</Monster>
+	<Monster id="45">
+		<Name type="string">Dretch</Name>
+		<Type type="Monster_Type">6</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">An ape-like creature with arms ending in clawed hands. They are the least powerful of the tanar'ri demonkind.</Description>
+	</Monster>
+	<Monster id="46">
+		<Name type="string">Drider</Name>
+		<Type type="Monster_Type">4</Type>
+		<Health type="Scale_Level">2</Health>
+		<Description type="string">A drow that has transformed from the waist down so that they have the body of a spider.</Description>
+	</Monster>
+	<Monster id="47">
+		<Name type="string">Drow</Name>
+		<Type type="Monster_Type">1</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A dark-skinned sub-race of elves that predominantly lived in the Underdark.</Description>
+	</Monster>
+	<Monster id="48">
+		<Name type="string">Dryad</Name>
+		<Type type="Monster_Type">11</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A fey-maiden who acts as a protector of forests and trees that resembles a beautiful woman with delicate features seemingly made of soft wood with hair made of leaves and foliage.</Description>
+	</Monster>
+	<Monster id="49">
+		<Name type="string">Duergar</Name>
+		<Type type="Monster_Type">1</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A subterranean race that appears to be a typically bald, stocky figure with dull gray skin and hair.</Description>
+	</Monster>
+	<Monster id="50">
+		<Name type="string">Duodrone</Name>
+		<Type type="Monster_Type">5</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A block-shaped construct capable of two tasks at a time.</Description>
+	</Monster>
+	<Monster id="51">
+		<Name type="string">Eagle</Name>
+		<Type type="Monster_Type">3</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A large bird of prey with a massive hooked bill and long broad wings, renowned for its keen sight and powerful soaring flight.</Description>
+	</Monster>
+	<Monster id="52">
+		<Name type="string">Efreeti</Name>
+		<Type type="Monster_Type">7</Type>
+		<Health type="Scale_Level">3</Health>
+		<Description type="string">A tall, muscular humanoid with fiery forms and spectacular magical powers. They are unpredictable creatures.</Description>
+	</Monster>
+	<Monster id="53">
+		<Name type="string">Elemental Anchor</Name>
+		<Type type="Monster_Type">7</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">An anchor that has now been animated by external forces.</Description>
+	</Monster>
+	<Monster id="54">
+		<Name type="string">Elephant</Name>
+		<Type type="Monster_Type">3</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A heavy plant-eating mammal with a prehensile trunk, long curved ivory tusks, and large ears.</Description>
+	</Monster>
+	<Monster id="55">
+		<Name type="string">Elk</Name>
+		<Type type="Monster_Type">3</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A red deer of a large race.</Description>
+	</Monster>
+	<Monster id="56">
+		<Name type="string">Empyrean</Name>
+		<Type type="Monster_Type">9</Type>
+		<Health type="Scale_Level">4</Health>
+		<Description type="string">A humanoid race that are the children of the gods of the upper planes.</Description>
+	</Monster>
+	<Monster id="57">
+		<Name type="string">Erinyes</Name>
+		<Type type="Monster_Type">6</Type>
+		<Health type="Scale_Level">2</Health>
+		<Description type="string">A humanoid that resembles a beautiful woman or man, with large feathered wings and glowing red eyes, could be mistaken for a celestial.</Description>
+	</Monster>
+	<Monster id="58">
+		<Name type="string">Ettercap</Name>
+		<Type type="Monster_Type">4</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A race of bestial spider-men aberrations located throughout Faerûn that resemble a hunched, grey-purplish humanoids with distended white underbellies, spider-like faces, and two sharp, black chitinous claws instead of hands and feet.</Description>
+	</Monster>
+	<Monster id="59">
+		<Name type="string">Ettin</Name>
+		<Type type="Monster_Type">10</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A giant with two heads that were capable of independent thought and can each control one arm for attacking.</Description>
+	</Monster>
+	<Monster id="60">
+		<Name type="string">Flameskull</Name>
+		<Type type="Monster_Type">8</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">An undead sentry fashioned from the skulls of dead spellcasters that are covered in a green flame.</Description>
+	</Monster>
+	<Monster id="61">
+		<Name type="string">Flumph</Name>
+		<Type type="Monster_Type">2</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A mysterious and benevolent creature that floats through the Underdark using an innate anti-gravity field and move by using air jets as propulsion.</Description>
+	</Monster>
+	<Monster id="62">
+		<Name type="string">Fomorian</Name>
+		<Type type="Monster_Type">10</Type>
+		<Health type="Scale_Level">2</Health>
+		<Description type="string">A hideously deformed and misshapen giant.</Description>
+	</Monster>
+	<Monster id="63">
+		<Name type="string">Frog</Name>
+		<Type type="Monster_Type">3</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A tailless amphibian with a short squat body, moist smooth skin, and very long hind legs for leaping.</Description>
+	</Monster>
+	<Monster id="64">
+		<Name type="string">Gargoyle</Name>
+		<Type type="Monster_Type">7</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A large predator which resembles a winged statue of a demon-like humanoid whose hide is rough and thick, similar to stone.</Description>
+	</Monster>
+	<Monster id="65">
+		<Name type="string">Ghast</Name>
+		<Type type="Monster_Type">8</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A subtype of ghoul that is a bit more slender and ghost-like.</Description>
+	</Monster>
+	<Monster id="66">
+		<Name type="string">Ghost</Name>
+		<Type type="Monster_Type">8</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A spirit of a deceased sentient creature.</Description>
+	</Monster>
+	<Monster id="67">
+		<Name type="string">Ghoul</Name>
+		<Type type="Monster_Type">8</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A monstrous, emaciated humanoid creature with putrid grey skin that reeks of carrion.</Description>
+	</Monster>
+	<Monster id="68">
+		<Name type="string">Glabrezu</Name>
+		<Type type="Monster_Type">6</Type>
+		<Health type="Scale_Level">2</Health>
+		<Description type="string">A powerful type of tanar'ri demon that has a giant, broad, muscular body with two pairs of arms: the small set being humanoid ending in hands while the other set was monstrous and ended in a pair of crab-like pincers.</Description>
+	</Monster>
+	<Monster id="69">
+		<Name type="string">Gnoll</Name>
+		<Type type="Monster_Type">1</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A humanoid race that most closely resemble human-hyena hybrids within Faerûn.</Description>
+	</Monster>
+	<Monster id="70">
+		<Name type="string">Goat</Name>
+		<Type type="Monster_Type">3</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A hardy domesticated ruminant animal that has backward curving horns and (in the male) a beard.</Description>
+	</Monster>
+	<Monster id="71">
+		<Name type="string">Goblin</Name>
+		<Type type="Monster_Type">1</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A small goblinoid common throughout Toril that has a flat face, broad nose, pointed ears, and small, sharp fangs with their forehead sloped back and their eyes being any color from red to yellow.</Description>
+	</Monster>
+	<Monster id="72">
+		<Name type="string">Gorgon</Name>
+		<Type type="Monster_Type">4</Type>
+		<Health type="Scale_Level">2</Health>
+		<Description type="string">A large magical beast that resembles a bull, covered in dusky metallic scales.</Description>
+	</Monster>
+	<Monster id="73">
+		<Name type="string">Goristro</Name>
+		<Type type="Monster_Type">6</Type>
+		<Health type="Scale_Level">4</Health>
+		<Description type="string">A powerful type of tanar'ri demon that resembles huge fiendish minotaurs and have horns like a bull.</Description>
+	</Monster>
+	<Monster id="74">
+		<Name type="string">Grell</Name>
+		<Type type="Monster_Type">2</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A sightless aberration that resembles a giant floating brain with tentacles and a beak.</Description>
+	</Monster>
+	<Monster id="75">
+		<Name type="string">Grick</Name>
+		<Type type="Monster_Type">4</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">An abberation that resembles a large, darkly colored worm or snake-like creature.</Description>
+	</Monster>
+	<Monster id="76">
+		<Name type="string">Griffon</Name>
+		<Type type="Monster_Type">4</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">An intelligent beast with the body of a lion and the wings, forelegs, and head of an eagle.</Description>
+	</Monster>
+	<Monster id="77">
+		<Name type="string">Grimlock</Name>
+		<Type type="Monster_Type">1</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A blind, monstrous humanoid that lives in the Underdark and has slightly scaled, gray skin.</Description>
+	</Monster>
+	<Monster id="78">
+		<Name type="string">Gynosphinx</Name>
+		<Type type="Monster_Type">4</Type>
+		<Health type="Scale_Level">2</Health>
+		<Description type="string">A female sphinx.</Description>
+	</Monster>
+	<Monster id="79">
+		<Name type="string">Harpy</Name>
+		<Type type="Monster_Type">4</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A malign humanoid creature with an avian lower body and a pair of wings.</Description>
+	</Monster>
+	<Monster id="80">
+		<Name type="string">Hawk</Name>
+		<Type type="Monster_Type">3</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A diurnal bird of prey with broad rounded wings and a long tail, typically taking prey by surprise with a short chase.</Description>
+	</Monster>
+	<Monster id="81">
+		<Name type="string">Hezrou</Name>
+		<Type type="Monster_Type">6</Type>
+		<Health type="Scale_Level">2</Health>
+		<Description type="string">A type of tanar'ri demon that is a large demonic monstrosity that bares a superficial resemblance to a toad in humanoid form, with arms and hands instead of forelegs and a wide maw with rows of blunt teeth.</Description>
+	</Monster>
+	<Monster id="82">
+		<Name type="string">Hippogriff</Name>
+		<Type type="Monster_Type">4</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A chimeric magical beast related to griffons who has the body of a horse, with the wings and head of a hawk or eagle.</Description>
+	</Monster>
+	<Monster id="83">
+		<Name type="string">Hobgoblin</Name>
+		<Type type="Monster_Type">1</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A larger, stronger, smarter, and more menacing form of goblinoids than goblins.</Description>
+	</Monster>
+	<Monster id="84">
+		<Name type="string">Homunculus</Name>
+		<Type type="Monster_Type">5</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A tiny construct created by a spellcaster to act as a spy and/or servant who resembles a winged humanoid creatures, similar to gargoyles or tiny demons.</Description>
+	</Monster>
+	<Monster id="85">
+		<Name type="string">Hydra</Name>
+		<Type type="Monster_Type">4</Type>
+		<Health type="Scale_Level">2</Health>
+		<Description type="string">A large, reptilian magical beast that has anywhere from five to twelve heads.</Description>
+	</Monster>
+	<Monster id="86">
+		<Name type="string">Hyena</Name>
+		<Type type="Monster_Type">3</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A doglike mammal with forelimbs that are longer than the hind limbs and an erect mane.</Description>
+	</Monster>
+	<Monster id="87">
+		<Name type="string">Imp</Name>
+		<Type type="Monster_Type">6</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A vicious, manipulative fiend that compromises the least powerful ranks of the infernal legions that resembles a tiny, red-skinned humanoid with a pair of black wings and a long, scorpion-like tail ending in a poisonous stinger.</Description>
+	</Monster>
+	<Monster id="88">
+		<Name type="string">Ixitxachitl</Name>
+		<Type type="Monster_Type">2</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">An aquatic creature that resembles a manta ray.</Description>
+	</Monster>
+	<Monster id="89">
+		<Name type="string">Jackal</Name>
+		<Type type="Monster_Type">3</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A slender, long-legged wild dog that feeds on carrion, game, and fruit and often hunts cooperatively.</Description>
+	</Monster>
+	<Monster id="90">
+		<Name type="string">Kenku</Name>
+		<Type type="Monster_Type">1</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A bird-like, humanoid creature</Description>
+	</Monster>
+	<Monster id="91">
+		<Name type="string">Killer Whale</Name>
+		<Type type="Monster_Type">3</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A large toothed whale with distinctive black-and-white markings and a prominent dorsal fin.</Description>
+	</Monster>
+	<Monster id="92">
+		<Name type="string">Kobold</Name>
+		<Type type="Monster_Type">1</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">An aggressive, reptilian, xenophobic, yet industrious small humanoid creature with scaled skin between reddish brown and black in color and burnt orange to red eyes.</Description>
+	</Monster>
+	<Monster id="93">
+		<Name type="string">Kraken</Name>
+		<Type type="Monster_Type">4</Type>
+		<Health type="Scale_Level">5</Health>
+		<Description type="string">A large, ocean-dwelling magical beast that resembles a large squid.</Description>
+	</Monster>
+	<Monster id="94">
+		<Name type="string">Kuo-toa</Name>
+		<Type type="Monster_Type">1</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A debased monstrous humanoid fish-like race that dwelt in the Underdark.</Description>
+	</Monster>
+	<Monster id="95">
+		<Name type="string">Lacedon</Name>
+		<Type type="Monster_Type">8</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">An aquatic type of ghoul.</Description>
+	</Monster>
+	<Monster id="96">
+		<Name type="string">Lamia</Name>
+		<Type type="Monster_Type">4</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A dangerous monstrosity that resembles a beautiful woman from the waist up but has the body of a powerful lion from the waist down.</Description>
+	</Monster>
+	<Monster id="97">
+		<Name type="string">Larva</Name>
+		<Type type="Monster_Type">6</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">An entity that is the final remnant of the soul of a mortal corrupted by evil that was unclaimed by fiends via contract or otherwise.</Description>
+	</Monster>
+	<Monster id="98">
+		<Name type="string">Lemure</Name>
+		<Type type="Monster_Type">6</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A hideous creature, appearing as nothing more than a lump of man-sized blobs of molten stinking flesh and a permanent expression of anguish, that oozes across the ground as it moves.</Description>
+	</Monster>
+	<Monster id="99">
+		<Name type="string">Lich</Name>
+		<Type type="Monster_Type">8</Type>
+		<Health type="Scale_Level">2</Health>
+		<Description type="string">An almost universally evil form of undead spellcaster of great power that appear gaunt and skeletal with withered flesh stretched tight across horribly visible bones.</Description>
+	</Monster>
+	<Monster id="100">
+		<Name type="string">Lion</Name>
+		<Type type="Monster_Type">3</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A large, tawny-colored cat that lives in prides. The male has a flowing shaggy mane.</Description>
+	</Monster>
+	<Monster id="101">
+		<Name type="string">Lizard</Name>
+		<Type type="Monster_Type">3</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A reptile that typically has a long body and tail, four legs, movable eyelids, and a rough, scaly, or spiny skin.</Description>
+	</Monster>
+	<Monster id="102">
+		<Name type="string">Lizardfolk</Name>
+		<Type type="Monster_Type">1</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A lizard-like reptilian humanoid native to Toril.</Description>
+	</Monster>
+	<Monster id="103">
+		<Name type="string">Magmin</Name>
+		<Type type="Monster_Type">7</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A mischievous, nasty little goblin-like elemental creature from the Elemental Plane of fire.</Description>
+	</Monster>
+	<Monster id="104">
+		<Name type="string">Mammoth</Name>
+		<Type type="Monster_Type">3</Type>
+		<Health type="Scale_Level">2</Health>
+		<Description type="string">A large, hairy elephant with a sloping back and long curved tusks.</Description>
+	</Monster>
+	<Monster id="105">
+		<Name type="string">Mane</Name>
+		<Type type="Monster_Type">6</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A tanar'ri demon that formed out of a chaotic evil soul that has white eyes and pale, bloated flesh that is often in the process of being eaten by maggots.</Description>
+	</Monster>
+	<Monster id="106">
+		<Name type="string">Manticore</Name>
+		<Type type="Monster_Type">4</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A large magical beast with the body of a lion, dragon wings, and a somewhat humanoid head.</Description>
+	</Monster>
+	<Monster id="107">
+		<Name type="string">Marid</Name>
+		<Type type="Monster_Type">7</Type>
+		<Health type="Scale_Level">3</Health>
+		<Description type="string">A tall, powerful genie native to the Elemental Plane of Water whose skin matched all of the hues of the vast ocean.</Description>
+	</Monster>
+	<Monster id="108">
+		<Name type="string">Marilith</Name>
+		<Type type="Monster_Type">6</Type>
+		<Health type="Scale_Level">2</Health>
+		<Description type="string">A powerful, six-armed female demon with the lower body of a snake.</Description>
+	</Monster>
+	<Monster id="109">
+		<Name type="string">Mastiff</Name>
+		<Type type="Monster_Type">3</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A dog of a large, strong breed with drooping ears and pendulous lips.</Description>
+	</Monster>
+	<Monster id="110">
+		<Name type="string">Medusa</Name>
+		<Type type="Monster_Type">4</Type>
+		<Health type="Scale_Level">2</Health>
+		<Description type="string">A monstrous being with a body that is covered in scales and rather than hair, they had a writhing mass of serpents growing from their scalp.</Description>
+	</Monster>
+	<Monster id="111">
+		<Name type="string">Merfolk</Name>
+		<Type type="Monster_Type">1</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">An aquatic humanoid who is half human and half fish.</Description>
+	</Monster>
+	<Monster id="112">
+		<Name type="string">Merrow</Name>
+		<Type type="Monster_Type">4</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">An undersea merfolk-like monster from the Abyss who terrorized the waters.</Description>
+	</Monster>
+	<Monster id="113">
+		<Name type="string">Mezzoloth</Name>
+		<Type type="Monster_Type">6</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A type of yugoloth that resembles an insect-like humanoid covered in great chitinous plates. They have long, lanky arms and legs with long, sharp claws and wide, armored skulls.</Description>
+	</Monster>
+	<Monster id="114">
+		<Name type="string">Mimic</Name>
+		<Type type="Monster_Type">4</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A creature that is able to change its shape to disguise its body as an inanimate object, commonly a chest. It has a powerful adhesive that holds fast to creatures who touch it, which allow it to beat the creature with its powerful pseudopods.</Description>
+	</Monster>
+	<Monster id="115">
+		<Name type="string">Minotaur</Name>
+		<Type type="Monster_Type">4</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A strong, combative, and monstrous humanoid that resembles a bull–human hybrid.</Description>
+	</Monster>
+	<Monster id="116">
+		<Name type="string">Monodrone</Name>
+		<Type type="Monster_Type">5</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A simple spherical construct with two mechanical arms, two legs, a single eye, and rudimentary wings.</Description>
+	</Monster>
+	<Monster id="117">
+		<Name type="string">Mud Mephit</Name>
+		<Type type="Monster_Type">7</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A mephit composed of water and earth.</Description>
+	</Monster>
+	<Monster id="118">
+		<Name type="string">Mule</Name>
+		<Type type="Monster_Type">3</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">An offspring of a donkey and a horse, typically sterile and used as a beast of burden.</Description>
+	</Monster>
+	<Monster id="119">
+		<Name type="string">Mummy</Name>
+		<Type type="Monster_Type">8</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">An undead creature created from a preserved corpse that has been animated by the dark gods of the desert.</Description>
+	</Monster>
+	<Monster id="120">
+		<Name type="string">Nalfeshnee</Name>
+		<Type type="Monster_Type">6</Type>
+		<Health type="Scale_Level">2</Health>
+		<Description type="string">A tall, massive powerful type of demon with small, feathered wings that enable them to fly and back legs which they stand on as a humanoid.</Description>
+	</Monster>
+	<Monster id="121">
+		<Name type="string">Nightmare</Name>
+		<Type type="Monster_Type">6</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">An outsider from the Lower Planes which resembles a large black horses with flames wreathing their hooves, flowing forth in the shape of their mane and tail, and trailing from their nostrils and red eyes.</Description>
+	</Monster>
+	<Monster id="122">
+		<Name type="string">Nothic</Name>
+		<Type type="Monster_Type">2</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A one-eyed creeping monster, which is the result of a curse befalling wizards who delved too deep into arcane knowledge, that lurks in places with great magical knowledge.</Description>
+	</Monster>
+	<Monster id="123">
+		<Name type="string">Nycaloth</Name>
+		<Type type="Monster_Type">6</Type>
+		<Health type="Scale_Level">2</Health>
+		<Description type="string">An elite cavalry soldier in the yugoloth armies that is arrogant, green-skinned, and tall with four muscular arms, a doglike head, and a pair of vast, bat-like wings.</Description>
+	</Monster>
+	<Monster id="124">
+		<Name type="string">Octopus</Name>
+		<Type type="Monster_Type">3</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A cephalopod mollusk with eight sucker-bearing arms, a soft saclike body, strong beaklike jaws, and no internal shell.</Description>
+	</Monster>
+	<Monster id="125">
+		<Name type="string">Ogre</Name>
+		<Type type="Monster_Type">10</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A member of a race of giant-kin that resembles a giant humanoid with a very muscular body and large head.</Description>
+	</Monster>
+	<Monster id="126">
+		<Name type="string">Ogrémoch</Name>
+		<Type type="Monster_Type">7</Type>
+		<Health type="Scale_Level">6</Health>
+		<Description type="string">A powerful archomental from the Elemental Plane of Earth that resembles a humanoid made of rock and crystal.</Description>
+	</Monster>
+	<Monster id="127">
+		<Name type="string">Olhydra</Name>
+		<Type type="Monster_Type">7</Type>
+		<Health type="Scale_Level">4</Health>
+		<Description type="string">A powerful archomental from the Elemental Plane of Water and appears as a huge cresting wave with two eyes like large pearls or as a shapeless watery mass.</Description>
+	</Monster>
+	<Monster id="128">
+		<Name type="string">Oni</Name>
+		<Type type="Monster_Type">10</Type>
+		<Health type="Scale_Level">2</Health>
+		<Description type="string">A violent creature with great strength and inherent magical abilities that resembles a humanoid horse.</Description>
+	</Monster>
+	<Monster id="129">
+		<Name type="string">Orc</Name>
+		<Type type="Monster_Type">1</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A member of a race of humanoids that has grayish skin, coarse hair, stooped postures, low foreheads, large muscular bodies, and porcine faces that featured lower canines that resembled boar tusks.</Description>
+	</Monster>
+	<Monster id="130">
+		<Name type="string">Orog</Name>
+		<Type type="Monster_Type">1</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">An orcs who lives and thrives in the Underdark that looks like a normal mountain orc but is slightly taller, with larger ears and huge pale eyes.</Description>
+	</Monster>
+	<Monster id="131">
+		<Name type="string">Otyugh</Name>
+		<Type type="Monster_Type">2</Type>
+		<Health type="Scale_Level">2</Health>
+		<Description type="string">A strange-looking creature, with bloated, oval-shaped bodies that stood on three shuffling elephantine legs and had a disgusting, rock-like hide.</Description>
+	</Monster>
+	<Monster id="132">
+		<Name type="string">Owl</Name>
+		<Type type="Monster_Type">3</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A nocturnal bird of prey with large forward-facing eyes surrounded by facial disks, a hooked beak, and typically a loud call.</Description>
+	</Monster>
+	<Monster id="133">
+		<Name type="string">Owlbear</Name>
+		<Type type="Monster_Type">4</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A large magical beast that looks like a cross between an owl and a bear.</Description>
+	</Monster>
+	<Monster id="134">
+		<Name type="string">Panther</Name>
+		<Type type="Monster_Type">3</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A leopard, especially a black one, that usually hunts at night.</Description>
+	</Monster>
+	<Monster id="135">
+		<Name type="string">Pegasus</Name>
+		<Type type="Monster_Type">9</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A breed of magical beasts that resemble mere horses with large bird-like wings, feathered lower legs, and feathered manes and tails.</Description>
+	</Monster>
+	<Monster id="136">
+		<Name type="string">Pentadrone</Name>
+		<Type type="Monster_Type">5</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A five-pointed clockwork starfish with one eye on each appendage, on top of five strong mechanical legs, and a tube protruding from the center of the star. They are the most advanced type of base modron.</Description>
+	</Monster>
+	<Monster id="137">
+		<Name type="string">Peryton</Name>
+		<Type type="Monster_Type">4</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A twisted and depraved magical creature that appears to be a cross between a giant eagle and a demonic-looking, fang-toothed stag.</Description>
+	</Monster>
+	<Monster id="138">
+		<Name type="string">Piercer</Name>
+		<Type type="Monster_Type">4</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A worm-like monster that pierces into its victims.</Description>
+	</Monster>
+	<Monster id="139">
+		<Name type="string">Pit Fiend</Name>
+		<Type type="Monster_Type">6</Type>
+		<Health type="Scale_Level">4</Health>
+		<Description type="string">A bestial, scaled humanoid twice the height of any human being with a pair of wings that it can wrap around its body. They are a general of the baatezu armies.</Description>
+	</Monster>
+	<Monster id="140">
+		<Name type="string">Pixie</Name>
+		<Type type="Monster_Type">11</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A member of a race of sprites native to Faerie that were created by the fey creator race.</Description>
+	</Monster>
+	<Monster id="141">
+		<Name type="string">Planetar</Name>
+		<Type type="Monster_Type">9</Type>
+		<Health type="Scale_Level">3</Health>
+		<Description type="string">A member of a race of angels inhabiting the celestial planes that resembles a handsome humanoid creature with blue or green skin and white-feathered wings.</Description>
+	</Monster>
+	<Monster id="142">
+		<Name type="string">Plesiosaurus</Name>
+		<Type type="Monster_Type">3</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A large, marine reptile, with a broad flat body, large paddlelike limbs, and typically a long flexible neck and small head.</Description>
+	</Monster>
+	<Monster id="143">
+		<Name type="string">Polar Bear</Name>
+		<Type type="Monster_Type">3</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A large white arctic bear that lives mainly on pack ice. It is a powerful swimmer and feeds chiefly on seals.</Description>
+	</Monster>
+	<Monster id="144">
+		<Name type="string">Poltergeist</Name>
+		<Type type="Monster_Type">8</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A terrifying undead spirit that sends people screaming from the sites they haunt.</Description>
+	</Monster>
+	<Monster id="145">
+		<Name type="string">Pony</Name>
+		<Type type="Monster_Type">3</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A horse of a small breed.</Description>
+	</Monster>
+	<Monster id="146">
+		<Name type="string">Pteranodon</Name>
+		<Type type="Monster_Type">3</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A large tailless pterosaur, with a long toothless beak, a long bony crest, and a wingspan of up to 7 m.</Description>
+	</Monster>
+	<Monster id="147">
+		<Name type="string">Quasit</Name>
+		<Type type="Monster_Type">6</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A tiny humanoid-shaped creature with spiky horns, greenish wart-covered skin, and bat wings.</Description>
+	</Monster>
+	<Monster id="148">
+		<Name type="string">Quipper</Name>
+		<Type type="Monster_Type">3</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A carnivorous fish with sharp teeth.</Description>
+	</Monster>
+	<Monster id="149">
+		<Name type="string">Rakshasa</Name>
+		<Type type="Monster_Type">6</Type>
+		<Health type="Scale_Level">2</Health>
+		<Description type="string">A type of outsider who is powerfully built humanoid body and an animal's head.</Description>
+	</Monster>
+	<Monster id="150">
+		<Name type="string">Rat</Name>
+		<Type type="Monster_Type">3</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A rodent that resembles a large mouse, typically having a pointed snout and a long, sparsely haired tail.</Description>
+	</Monster>
+	<Monster id="151">
+		<Name type="string">Raven</Name>
+		<Type type="Monster_Type">3</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A large heavily built crow with mainly black plumage, feeding chiefly on carrion.</Description>
+	</Monster>
+	<Monster id="152">
+		<Name type="string">Remorhaz</Name>
+		<Type type="Monster_Type">4</Type>
+		<Health type="Scale_Level">2</Health>
+		<Description type="string">A blue monstrous beast resembling a cross between a worm and a centipede with tough leathery wings.</Description>
+	</Monster>
+	<Monster id="153">
+		<Name type="string">Revenant</Name>
+		<Type type="Monster_Type">8</Type>
+		<Health type="Scale_Level">2</Health>
+		<Description type="string">An undead creature that has risen from the dead to hunt down and slay their killer with an unwavering zeal appearing as a decayed and emaciated version of their once-living self.</Description>
+	</Monster>
+	<Monster id="154">
+		<Name type="string">Rhinoceros</Name>
+		<Type type="Monster_Type">3</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A large, heavily built plant-eating mammal with one or two horns on the nose and thick folded skin.</Description>
+	</Monster>
+	<Monster id="155">
+		<Name type="string">Roc</Name>
+		<Type type="Monster_Type">4</Type>
+		<Health type="Scale_Level">3</Health>
+		<Description type="string">A gargantuan eagle-like bird that inhabits the highest mountains in warm regions.</Description>
+	</Monster>
+	<Monster id="156">
+		<Name type="string">Roper</Name>
+		<Type type="Monster_Type">4</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">An ambush hunter that evolved in the underworld and takes the appearance of stalagmites.</Description>
+	</Monster>
+	<Monster id="157">
+		<Name type="string">Sahuagin</Name>
+		<Type type="Monster_Type">1</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A green, fish-like monstrous humanoid that lives in oceans, seas, underground lakes, and underwater caves.</Description>
+	</Monster>
+	<Monster id="158">
+		<Name type="string">Salamander</Name>
+		<Type type="Monster_Type">7</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A newtlike amphibian that typically has bright markings.</Description>
+	</Monster>
+	<Monster id="159">
+		<Name type="string">Satyr</Name>
+		<Type type="Monster_Type">11</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A fey creature that delights in singing, dancing, feasting, and debauchery and appears to be a man with sylvan features from the waist up and goat legs from the waist down.</Description>
+	</Monster>
+	<Monster id="160">
+		<Name type="string">Scarecrow</Name>
+		<Type type="Monster_Type">5</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A scarecrow that has been reanimated by external forces.</Description>
+	</Monster>
+	<Monster id="161">
+		<Name type="string">Scorpion</Name>
+		<Type type="Monster_Type">3</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A terrestrial arachnid with lobsterlike pincers and a poisonous sting at the end of its jointed tail, which it can hold curved over the back.</Description>
+	</Monster>
+	<Monster id="162">
+		<Name type="string">Sea Hag</Name>
+		<Type type="Monster_Type">11</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A wicked, cruel fey creature with an emaciated appearance.</Description>
+	</Monster>
+	<Monster id="163">
+		<Name type="string">Sea Horse</Name>
+		<Type type="Monster_Type">3</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A mythical creature with a horse's head and fish's tail.</Description>
+	</Monster>
+	<Monster id="164">
+		<Name type="string">Shadow</Name>
+		<Type type="Monster_Type">8</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A small marine fish with segmented bony armor, an upright posture, a curled prehensile tail, a tubular snout, and a head and neck suggestive of a horse.</Description>
+	</Monster>
+	<Monster id="165">
+		<Name type="string">Shrieker</Name>
+		<Type type="Monster_Type">12</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A human-sized mushroom that is a variant of the violet fungus known for the strange and loud noises it emitted to attract prey.</Description>
+	</Monster>
+	<Monster id="166">
+		<Name type="string">Skeleton</Name>
+		<Type type="Monster_Type">8</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">An undead animated corpse similar to a zombie, but is completely devoid of flesh and does not feed on the living.</Description>
+	</Monster>
+	<Monster id="167">
+		<Name type="string">Solar</Name>
+		<Type type="Monster_Type">9</Type>
+		<Health type="Scale_Level">3</Health>
+		<Description type="string">A powerfully-built humanoid with flawless skin, beautiful features, and a deep, commanding voice that is a member of the most powerful angels of the angelic choirs.</Description>
+	</Monster>
+	<Monster id="168">
+		<Name type="string">Spectator</Name>
+		<Type type="Monster_Type">2</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">An extraplanar form of beholderkin with four eyestalks.</Description>
+	</Monster>
+	<Monster id="169">
+		<Name type="string">Specter</Name>
+		<Type type="Monster_Type">8</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">An undead, incorporeal creature that resembles a humanoid with a mostly transparent and faintly luminous form.</Description>
+	</Monster>
+	<Monster id="170">
+		<Name type="string">Sprite</Name>
+		<Type type="Monster_Type">11</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A warrior relative of pixies.</Description>
+	</Monster>
+	<Monster id="171">
+		<Name type="string">Stirge</Name>
+		<Type type="Monster_Type">3</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A tiny magical beast which resembles a monstrous cross between a large hummingbird and a mosquito that feeds on the blood of other creatures.</Description>
+	</Monster>
+	<Monster id="172">
+		<Name type="string">Succubus/Incubus</Name>
+		<Type type="Monster_Type">6</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A stunningly beautiful demon which appears as a woman/man with flawless skin, raven-black hair, and large bat-like wings mounted on their backs.</Description>
+	</Monster>
+	<Monster id="173">
+		<Name type="string">Tarrasque</Name>
+		<Type type="Monster_Type">4</Type>
+		<Health type="Scale_Level">7</Health>
+		<Description type="string">An enormous abomination, roughly the size of an ancient dragon, with two long horns extending from its forehead, a thick carapace, mighty tail, and a wide, toothy mouth. If you see this abomination, run for your life!</Description>
+	</Monster>
+	<Monster id="174">
+		<Name type="string">Thri-kreen</Name>
+		<Type type="Monster_Type">1</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A giant, bipedal praying mantis-like humanoid that primarily lives in the Shaar.</Description>
+	</Monster>
+	<Monster id="175">
+		<Name type="string">Tiamat</Name>
+		<Type type="Monster_Type">6</Type>
+		<Health type="Scale_Level">7</Health>
+		<Description type="string">A unique chromatic dragon, who has one head for each primary color of the most common species of chromatics (black, blue, green, red, and white). Each head is able to operate entirely independent of each other and has the powers of a member of the respective race of dragonkind.</Description>
+	</Monster>
+	<Monster id="176">
+		<Name type="string">Tiger</Name>
+		<Type type="Monster_Type">3</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A very large solitary cat with a yellow-brown coat striped with black.</Description>
+	</Monster>
+	<Monster id="177">
+		<Name type="string">Treant</Name>
+		<Type type="Monster_Type">12</Type>
+		<Health type="Scale_Level">2</Health>
+		<Description type="string">A huge, intelligent tree-like humanoid.</Description>
+	</Monster>
+	<Monster id="178">
+		<Name type="string">Triceratops</Name>
+		<Type type="Monster_Type">3</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A large quadrupedal herbivorous dinosaur, having a massive head with two large horns, a smaller horn on the beaked snout, and a bony frill above the neck.</Description>
+	</Monster>
+	<Monster id="179">
+		<Name type="string">Tridrone</Name>
+		<Type type="Monster_Type">5</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">An intermediate type of modron that is shaped like an inverted tetrahedron and is capable of performing three tasks at a time.</Description>
+	</Monster>
+	<Monster id="180">
+		<Name type="string">Troglodyte</Name>
+		<Type type="Monster_Type">1</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A reptilian humanoid, shorter than a human, with spindly but muscular arms, squat legs, and long, slender tails.</Description>
+	</Monster>
+	<Monster id="181">
+		<Name type="string">Troll</Name>
+		<Type type="Monster_Type">10</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A ravenous, predatory creature of giant-kin that has long, ungainly legs, long hanging arms that end in massive claws, and a thin body with a thick, rubbery hide colored in shades of mossy green or putrid greys.</Description>
+	</Monster>
+	<Monster id="182">
+		<Name type="string">Ultroloth</Name>
+		<Type type="Monster_Type">6</Type>
+		<Health type="Scale_Level">2</Health>
+		<Description type="string">A faceless humanoid with large eyes that resembles a fire opals and has dark gray skin and typically wears a flowing cape or cloak. They are a strange, enigmatic ruler of the yugoloths.</Description>
+	</Monster>
+	<Monster id="183">
+		<Name type="string">Unicorn</Name>
+		<Type type="Monster_Type">9</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A mysterious and majestic magical beast resembling a horse with a horn protruding from its forehead.</Description>
+	</Monster>
+	<Monster id="184">
+		<Name type="string">Vampire</Name>
+		<Type type="Monster_Type">8</Type>
+		<Health type="Scale_Level">2</Health>
+		<Description type="string">A pale, red-eyed undead humanoid or monstrous humanoid creature that is the most feared and powerful of the undead creatures.</Description>
+	</Monster>
+	<Monster id="185">
+		<Name type="string">Vrock</Name>
+		<Type type="Monster_Type">6</Type>
+		<Health type="Scale_Level">2</Health>
+		<Description type="string">A large, gray minor tanar'ri demon that looks like a cross between a vulture and a human.</Description>
+	</Monster>
+	<Monster id="186">
+		<Name type="string">Vulture</Name>
+		<Type type="Monster_Type">3</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A large bird of prey with the head and neck more or less bare of feathers, feeding chiefly on carrion and reputed to gather with others in anticipation of the death of a sick or injured animal or person.</Description>
+	</Monster>
+	<Monster id="187">
+		<Name type="string">Warhorse</Name>
+		<Type type="Monster_Type">3</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A large, powerful horse ridden in battle.</Description>
+	</Monster>
+	<Monster id="188">
+		<Name type="string">Weasel</Name>
+		<Type type="Monster_Type">3</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A small, slender, carnivorous mammal related to, but generally smaller than, the stoat.</Description>
+	</Monster>
+	<Monster id="189">
+		<Name type="string">Werebear</Name>
+		<Type type="Monster_Type">1</Type>
+		<Health type="Scale_Level">2</Health>
+		<Description type="string">A humanoid that can transform themselves into a large brown bear.</Description>
+	</Monster>
+	<Monster id="190">
+		<Name type="string">Wereboar</Name>
+		<Type type="Monster_Type">1</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A humanoid that can transform themselves into a boar or a hybrid host/boar mix.</Description>
+	</Monster>
+	<Monster id="191">
+		<Name type="string">Wererat</Name>
+		<Type type="Monster_Type">1</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A humanoid that can transform themselves into a rat or a hybrid host/rat mix.</Description>
+	</Monster>
+	<Monster id="192">
+		<Name type="string">Weretiger</Name>
+		<Type type="Monster_Type">1</Type>
+		<Health type="Scale_Level">2</Health>
+		<Description type="string">A humanoid that can transform themselves into a tiger.</Description>
+	</Monster>
+	<Monster id="193">
+		<Name type="string">Werewolf</Name>
+		<Type type="Monster_Type">1</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A humanoid that can transform themselves into a wolf during a full moon involuntarily.</Description>
+	</Monster>
+	<Monster id="194">
+		<Name type="string">Wight</Name>
+		<Type type="Monster_Type">8</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">An undead creature given a semblance of life through sheer violence and hatred appearing as a weird and twisted reflection of the form they had in life.</Description>
+	</Monster>
+	<Monster id="195">
+		<Name type="string">Wolf</Name>
+		<Type type="Monster_Type">3</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A wild carnivorous mammal of the dog family, living and hunting in packs.</Description>
+	</Monster>
+	<Monster id="196">
+		<Name type="string">Worg</Name>
+		<Type type="Monster_Type">4</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A type of magical beast that resembles a normal wolf but is larger, intelligent, and has a fiendish countenance and glowing eyes.</Description>
+	</Monster>
+	<Monster id="197">
+		<Name type="string">Wraith</Name>
+		<Type type="Monster_Type">8</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">An undead creature born of evil and darkness, despising light and all living things. Their glowing red eyes are the only visible feature that they possess.</Description>
+	</Monster>
+	<Monster id="198">
+		<Name type="string">Wyvern</Name>
+		<Type type="Monster_Type">13</Type>
+		<Health type="Scale_Level">2</Health>
+		<Description type="string">A large, dark brown or grey winged lizard with a stinging tail and sharp teeth.</Description>
+	</Monster>
+	<Monster id="199">
+		<Name type="string">Xorn</Name>
+		<Type type="Monster_Type">7</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A very strange elemental creature from the Plane of Earth who has a radially symmetrical body with a large mouth at the top and is surrounded by three long arms with talons at the end interspersed with their three eyes. Their wide, pebbly, and rocky bodies rested upon three stumpy legs.</Description>
+	</Monster>
+	<Monster id="200">
+		<Name type="string">Yan-C-Bin</Name>
+		<Type type="Monster_Type">7</Type>
+		<Health type="Scale_Level">3</Health>
+		<Description type="string">A tall, thin, elderly humanoid with long hair flowing in the wind who is powerful archomental from the Elemental Plane of Air.</Description>
+	</Monster>
+	<Monster id="201">
+		<Name type="string">Yeti</Name>
+		<Type type="Monster_Type">4</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">A large, white-furred creature that can be found in arctic climates and appears as a cross between a human and a bear that is walking upright.</Description>
+	</Monster>
+	<Monster id="202">
+		<Name type="string">Yochlol</Name>
+		<Type type="Monster_Type">6</Type>
+		<Health type="Scale_Level">2</Health>
+		<Description type="string">A type of lesser tanar'ri demon that served as a "handmaiden" to Lolth, the drow goddess of chaos. They appear as a six-foot-tall, eight-tentacled blob of melted wax that continually emits a foul stench, but they can change into either a humanoid, spider, ooze, or gaseous.</Description>
+	</Monster>
+	<Monster id="203">
+		<Name type="string">Zombie</Name>
+		<Type type="Monster_Type">8</Type>
+		<Health type="Scale_Level">1</Health>
+		<Description type="string">An undead creature usually created by the re-animation of a corpse.</Description>
+	</Monster>
+</Monster_Den>
